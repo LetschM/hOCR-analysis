@@ -1,0 +1,433 @@
+finc	sme 	0630/line-004.gt.txt
+ns'äu	_____	0630/line-004.gt.txt
+dc 	___	0630/line-004.gt.txt
+' 'Moy	d_____	0630/line-004.gt.txt
+cl'c	est_	0630/line-005.gt.txt
+- pr	____	0630/line-005.gt.txt
+n	u	0630/line-005.gt.txt
+ou	__	0630/line-005.gt.txt
+fl'	ss_	0630/line-005.gt.txt
+_	 	0630/line-005.gt.txt
+c	e	0630/line-005.gt.txt
+/Zl	sd_	0630/line-009.gt.txt
+XVan____	destit.&	0630/line-009.gt.txt
+:	s	0630/line-009.gt.txt
+zl	'I	0630/line-009.gt.txt
+[	l	0630/line-009.gt.txt
+l'z'a	fic._	0630/line-009.gt.txt
+me__	uoc.	0630/line-009.gt.txt
+JFz	582	0630/line-009.gt.txt
+ (y'a	&c.__	0630/line-009.gt.txt
+f	s	0630/line-010.gt.txt
+l_	 I	0630/line-010.gt.txt
+ 	_	0630/line-010.gt.txt
+A__	l'a	0630/line-010.gt.txt
+ll:	st_	0630/line-010.gt.txt
+{c	Ie	0630/line-010.gt.txt
+â_	ct	0630/line-010.gt.txt
+a	_	0630/line-010.gt.txt
+-__	t &	0630/line-010.gt.txt
+f	s	0630/line-011.gt.txt
+f 	s_	0630/line-011.gt.txt
+n	u	0630/line-011.gt.txt
+{c	se	0630/line-011.gt.txt
+k	t	0630/line-011.gt.txt
+ff .	r-__	0630/line-011.gt.txt
+cl	d_	0630/line-011.gt.txt
+i'ëâ	fect	0630/line-011.gt.txt
+fc	se	0630/line-011.gt.txt
+_	 	0630/line-012.gt.txt
+_	o	0630/line-012.gt.txt
+1,	il	0630/line-012.gt.txt
+f	s	0630/line-012.gt.txt
+i	_	0630/line-012.gt.txt
+fi	st	0630/line-012.gt.txt
+å_	ct	0630/line-012.gt.txt
+c	e	0630/line-012.gt.txt
+f	s	0630/line-013.gt.txt
+_	e	0630/line-013.gt.txt
+ f	s_	0630/line-013.gt.txt
+ 	_	0630/line-013.gt.txt
+r	t	0630/line-013.gt.txt
+f	s	0630/line-014.gt.txt
+''?S	res_	0630/line-014.gt.txt
+_	 	0630/line-014.gt.txt
+ 	_	0630/line-014.gt.txt
+c	e	0630/line-014.gt.txt
+e'	é_	0630/line-015.gt.txt
+e	_	0630/line-015.gt.txt
+c	e	0630/line-015.gt.txt
+l	s	0630/line-015.gt.txt
+nc	uo	0630/line-015.gt.txt
+€''	en_	0630/line-015.gt.txt
+ 	_	0630/line-015.gt.txt
+li	st	0630/line-015.gt.txt
+f	s	0630/line-016.gt.txt
+_	 	0630/line-016.gt.txt
+''	__	0630/line-016.gt.txt
+ 	_	0630/line-016.gt.txt
+c	e	0630/line-016.gt.txt
+r	t	0630/line-016.gt.txt
+f	s	0630/line-017.gt.txt
+il	st	0630/line-017.gt.txt
+å__	cht	0630/line-017.gt.txt
+_	d	0630/line-017.gt.txt
+cf	es	0630/line-017.gt.txt
+{	,	0630/line-017.gt.txt
+fl:	st_	0630/line-017.gt.txt
+_	 	0630/line-018.gt.txt
+k_	l'	0630/line-018.gt.txt
+le	Io	0630/line-018.gt.txt
+mi	n_	0630/line-018.gt.txt
+c	e	0630/line-018.gt.txt
+f	s	0630/line-018.gt.txt
+ 	_	0630/line-019.gt.txt
+!ill	Est_	0630/line-019.gt.txt
+l	 	0630/line-019.gt.txt
+_	a	0630/line-019.gt.txt
+f	s	0630/line-019.gt.txt
+fl'l	nq__	0630/line-019.gt.txt
+a	_	0630/line-019.gt.txt
+'	-	0630/line-019.gt.txt
+lle	sté	0630/line-019.gt.txt
+_	 	0630/line-020.gt.txt
+chn__	ppell	0630/line-020.gt.txt
+w_	te	0630/line-020.gt.txt
+ti	u_	0630/line-020.gt.txt
+k	s	0630/line-020.gt.txt
+k_	lÄ	0630/line-020.gt.txt
+f	s	0630/line-020.gt.txt
+c	e	0630/line-020.gt.txt
+;	_	0630/line-021.gt.txt
+ñ_	st	0630/line-021.gt.txt
+cl'	es_	0630/line-021.gt.txt
+'c' 	ë___	0630/line-021.gt.txt
+ll_	st 	0630/line-021.gt.txt
+'''''' 	tra-___	0630/line-021.gt.txt
+f	s	0630/line-022.gt.txt
+f	r	0630/line-022.gt.txt
+_	 	0630/line-022.gt.txt
+''	__	0630/line-022.gt.txt
+n__	Pri	0630/line-022.gt.txt
+ci	es	0630/line-022.gt.txt
+_	 	0630/line-023.gt.txt
+ll	st	0630/line-023.gt.txt
+ 	_	0630/line-023.gt.txt
+c	e	0630/line-023.gt.txt
+fàâ_	sact	0630/line-023.gt.txt
+f	s	0630/line-024.gt.txt
+}	_	0630/line-024.gt.txt
+n	u	0630/line-024.gt.txt
+ 	_	0630/line-024.gt.txt
+_	c	0630/line-024.gt.txt
+i	u	0630/line-024.gt.txt
+_	d	0630/line-024.gt.txt
+'J-	sa_	0630/line-024.gt.txt
+_	 	0630/line-025.gt.txt
+û_	st	0630/line-025.gt.txt
+c	e	0630/line-025.gt.txt
+ä °''	oir__	0630/line-025.gt.txt
+ct_	oua	0630/line-025.gt.txt
+f	s	0630/line-025.gt.txt
+r	t	0630/line-025.gt.txt
+c1	q_	0630/line-026.gt.txt
+fïî	ssi	0630/line-026.gt.txt
+l	i	0630/line-026.gt.txt
+rl	n_	0630/line-026.gt.txt
+»	,	0630/line-026.gt.txt
+ci	es	0630/line-026.gt.txt
+ _	ct	0630/line-026.gt.txt
+f	s	0630/line-027.gt.txt
+fl:	st_	0630/line-027.gt.txt
+clm	qui	0630/line-027.gt.txt
+fà_	sa 	0630/line-027.gt.txt
+CCIUY	celuy	0630/line-027.gt.txt
+C__	est	0630/line-027.gt.txt
+.	_	0630/line-027.gt.txt
+œ_	se	0630/line-027.gt.txt
+k	t	0630/line-027.gt.txt
+P	p	0630/line-027.gt.txt
+f	s	0630/line-028.gt.txt
+c	e	0630/line-028.gt.txt
+M_	on	0630/line-028.gt.txt
+fl'	ss_	0630/line-028.gt.txt
+1!	il	0630/line-028.gt.txt
+kq	e_	0630/line-028.gt.txt
+ >_	se,	0630/line-028.gt.txt
+mi''?c	nnee__	0630/line-028.gt.txt
+ 	_	0630/line-028.gt.txt
+TZIUFO	cause_	0630/line-028.gt.txt
+f	s	0630/line-029.gt.txt
+C	q	0630/line-029.gt.txt
+kp	t,	0630/line-029.gt.txt
+fc	se	0630/line-029.gt.txt
+s	a	0630/line-029.gt.txt
+:!	-_	0630/line-029.gt.txt
+c	e	0630/line-029.gt.txt
+f	s	0630/line-030.gt.txt
+û_	st	0630/line-030.gt.txt
+lä	i_	0630/line-030.gt.txt
+m''	ran	0630/line-030.gt.txt
+.	_	0630/line-030.gt.txt
+lw	tu	0630/line-030.gt.txt
+__	te	0630/line-030.gt.txt
+-	_	0630/line-030.gt.txt
+l	i	0630/line-030.gt.txt
+f_	st	0630/line-030.gt.txt
+_	o	0630/line-032.gt.txt
+n	u	0630/line-032.gt.txt
+mök_	inct	0630/line-032.gt.txt
+UCUPL_	rieuré	0630/line-032.gt.txt
+ÏËÜR	rat_	0630/line-032.gt.txt
+ 	'	0630/line-032.gt.txt
+l	i	0630/line-032.gt.txt
+CP	ep	0630/line-032.gt.txt
+_	 	0630/line-034.gt.txt
+z__	 : 	0630/line-034.gt.txt
+?- ''fion 	al________	0630/line-034.gt.txt
+f	s	0630/line-034.gt.txt
+allé	este	0630/line-034.gt.txt
+ 	'	0630/line-034.gt.txt
+_	q	0630/line-034.gt.txt
+â_	ct	0630/line-034.gt.txt
+r	_	0630/line-034.gt.txt
+f	s	0630/line-035.gt.txt
+i _	ffi	0630/line-035.gt.txt
+û_	st	0630/line-035.gt.txt
+Z	t	0630/line-035.gt.txt
+öch__	é:& q	0630/line-035.gt.txt
+n	u	0630/line-035.gt.txt
+c_	 e	0630/line-035.gt.txt
+m__	ra 	0630/line-035.gt.txt
+jå_	ict	0630/line-035.gt.txt
+...'' e-	o_______	0630/line-035.gt.txt
+ t	'i	0630/line-035.gt.txt
+_	 	0630/line-036.gt.txt
+-	&	0630/line-036.gt.txt
+.	e	0630/line-036.gt.txt
+fl	st	0630/line-036.gt.txt
+C	c	0630/line-036.gt.txt
+il'' 5,	ruicts_	0630/line-036.gt.txt
+ _	fi	0630/line-036.gt.txt
+ 	_	0630/line-036.gt.txt
+_	'	0630/line-036.gt.txt
+Wurf-e bh	l'intime_	0630/line-037.gt.txt
+llz	st_	0630/line-037.gt.txt
+c	e	0630/line-037.gt.txt
+f	s	0630/line-037.gt.txt
+e	é	0630/line-037.gt.txt
+_	 	0630/line-038.gt.txt
+ci	es	0630/line-038.gt.txt
+c {-	est_	0630/line-038.gt.txt
+G	g	0630/line-038.gt.txt
+h,___	grand	0630/line-039.gt.txt
+s_________	d'Auuergne	0630/line-039.gt.txt
+I_____	Prieur	0630/line-039.gt.txt
+_	e	0630/line-039.gt.txt
+_____________	té adiuge par	0630/line-039.gt.txt
+.____	ayant	0630/line-039.gt.txt
+_	 	0630/line-040.gt.txt
+lî	fi	0630/line-040.gt.txt
+äifl	 pa_	0630/line-040.gt.txt
+_	t	0630/line-040.gt.txt
+c	s	0630/line-040.gt.txt
+...mc_	stitue	0630/line-040.gt.txt
+eloxfible	é________	0630/line-040.gt.txt
+d	l	0630/line-040.gt.txt
+i	_	0630/line-040.gt.txt
+l	s	0630/line-040.gt.txt
+ef	st	0630/line-040.gt.txt
+c	e	0630/line-040.gt.txt
+C et._	effier	0630/line-041.gt.txt
+_	 	0630/line-041.gt.txt
+lc	ie	0630/line-042.gt.txt
+f	s	0630/line-043.gt.txt
+c	e	0630/line-043.gt.txt
+ô	o	0630/line-043.gt.txt
+_	 	0630/line-043.gt.txt
+c11	en_	0630/line-043.gt.txt
+m«	ur	0630/line-043.gt.txt
+R-	au	0630/line-043.gt.txt
+k·	f_	0630/line-043.gt.txt
+fc	se	0630/line-043.gt.txt
+llc	ue_	0630/line-044.gt.txt
+f	s	0630/line-045.gt.txt
+û_	st	0630/line-045.gt.txt
+r__	 Ao	0630/line-045.gt.txt
+ 'l_	ouru	0630/line-045.gt.txt
+e	é	0630/line-045.gt.txt
+u	_	0630/line-045.gt.txt
+rimr	tant	0630/line-045.gt.txt
+_	 	0630/line-045.gt.txt
+r	t	0630/line-045.gt.txt
+'_	le	0630/line-046.gt.txt
+l	i	0630/line-046.gt.txt
+îr	t_	0630/line-046.gt.txt
+&	à	0630/line-046.gt.txt
+c	é	0630/line-046.gt.txt
+ll-[	st__	0630/line-046.gt.txt
+{n	lu	0630/line-046.gt.txt
+F	f	0630/line-046.gt.txt
+f	s	0630/line-046.gt.txt
+i	_	0630/line-046.gt.txt
+fime__	stallé	0630/line-046.gt.txt
+g__	'in	0630/line-046.gt.txt
+ 	_	0630/line-046.gt.txt
+c	e	0630/line-046.gt.txt
+·___________	paisiblement	0630/line-047.gt.txt
+____	iouy	0630/line-047.gt.txt
+__	il	0630/line-047.gt.txt
+l_____	dudict	0630/line-047.gt.txt
+____	mois	0630/line-047.gt.txt
+.	a	0630/line-047.gt.txt
+c_____	iusque	0630/line-047.gt.txt
+._	ce	0630/line-047.gt.txt
+·____	temps	0630/line-047.gt.txt
+l '__	iesme	0630/line-047.gt.txt
+._____	Depuis	0630/line-047.gt.txt
+_	 	0630/line-048.gt.txt
+c'n	esm	0630/line-048.gt.txt
+n	_	0630/line-048.gt.txt
+c	u	0630/line-048.gt.txt
+ in	s__	0630/line-048.gt.txt
+_	p	0630/line-048.gt.txt
+â:	ct	0630/line-048.gt.txt
+lf	is	0630/line-048.gt.txt
+_	d	0630/line-048.gt.txt
+c	e	0630/line-048.gt.txt
+mq	i_	0630/line-048.gt.txt
+un!	mil	0630/line-049.gt.txt
+t	e	0630/line-049.gt.txt
+ cf ha	______	0630/line-049.gt.txt
+:	s	0630/line-049.gt.txt
+l 	st	0630/line-049.gt.txt
+ e	l_	0630/line-049.gt.txt
+ir_	esc	0630/line-050.gt.txt
+c 	Se	0630/line-050.gt.txt
+nû_	cht	0630/line-050.gt.txt
+WPFcn___	l'appell	0630/line-050.gt.txt
+ 	p	0630/line-050.gt.txt
+fCP	sep	0630/line-050.gt.txt
+cn	eu	0630/line-050.gt.txt
+C	c	0630/line-050.gt.txt
+l	h	0630/line-050.gt.txt
+C 	l_	0630/line-050.gt.txt
+P	p	0630/line-050.gt.txt
+na:	ict	0630/line-050.gt.txt
+urnie	mmé__	0630/line-051.gt.txt
+_	 	0630/line-051.gt.txt
+f	s	0630/line-051.gt.txt
+'mem	int_	0630/line-051.gt.txt
+l	s	0630/line-051.gt.txt
+-	_	0630/line-051.gt.txt
+(	d	0630/line-051.gt.txt
+t	f	0630/line-051.gt.txt
+, i :	rue__	0630/line-051.gt.txt
+_	 	0630/line-052.gt.txt
+n__	 fi	0630/line-052.gt.txt
+_	'	0630/line-052.gt.txt
+a	o	0630/line-052.gt.txt
+t'u	ell	0630/line-052.gt.txt
+'f - Ill-'	__________	0630/line-052.gt.txt
+c	e	0630/line-052.gt.txt
+p	c	0630/line-052.gt.txt
+ 	'	0630/line-052.gt.txt
+f	s	0630/line-052.gt.txt
+i'	s_	0630/line-052.gt.txt
+nffc	ust_	0630/line-052.gt.txt
+fl	n_	0630/line-052.gt.txt
+[	s	0630/line-052.gt.txt
+i	l	0630/line-053.gt.txt
+'' '	it__	0630/line-053.gt.txt
+''fl	est_	0630/line-053.gt.txt
+m-r	pp_	0630/line-053.gt.txt
+C...'S	eurs__	0630/line-053.gt.txt
+u_	it	0630/line-053.gt.txt
+r_	l'	0630/line-053.gt.txt
+mll_	iust	0630/line-053.gt.txt
+fi	st	0630/line-053.gt.txt
+[h_	sti	0630/line-053.gt.txt
+ 	s	0630/line-054.gt.txt
+_	 	0630/line-054.gt.txt
+g( 	fe_	0630/line-054.gt.txt
+ (	s_	0630/line-054.gt.txt
+11!	vne	0630/line-054.gt.txt
+c	e	0630/line-054.gt.txt
+f	s	0630/line-055.gt.txt
+P''	par	0630/line-055.gt.txt
+_	 	0630/line-055.gt.txt
+E	f	0630/line-055.gt.txt
+ 	s	0630/line-055.gt.txt
+lh_	sti	0630/line-055.gt.txt
+ .	n_	0630/line-055.gt.txt
+P	p	0630/line-055.gt.txt
+_	,	0630/line-055.gt.txt
+f	s	0630/line-056.gt.txt
+__	te	0630/line-056.gt.txt
+.	_	0630/line-056.gt.txt
+î	t	0630/line-056.gt.txt
+l	_	0630/line-056.gt.txt
+fr	st	0630/line-056.gt.txt
+å	_	0630/line-056.gt.txt
+a_	là	0630/line-056.gt.txt
+P	p	0630/line-057.gt.txt
+m_	in	0630/line-057.gt.txt
+r:	e_	0630/line-057.gt.txt
+c'	é_	0630/line-057.gt.txt
+C	 	0630/line-057.gt.txt
+ÿ	y	0630/line-057.gt.txt
+ll	st	0630/line-057.gt.txt
+sr {5	t____	0630/line-057.gt.txt
+f	s	0630/line-057.gt.txt
+_	e	0630/line-057.gt.txt
+ll	si	0630/line-057.gt.txt
+c	e	0630/line-057.gt.txt
+r	i	0630/line-058.gt.txt
+l Je-	ingts	0630/line-058.gt.txt
+f	s	0630/line-058.gt.txt
+C	c	0630/line-058.gt.txt
+_	 	0630/line-059.gt.txt
+{ ell	a____	0630/line-059.gt.txt
+cû_	est	0630/line-059.gt.txt
+f	s	0630/line-059.gt.txt
+frnt	ux__	0630/line-059.gt.txt
+''	__	0630/line-059.gt.txt
+ 	'	0630/line-059.gt.txt
+ë	c	0630/line-059.gt.txt
+'	n	0630/line-059.gt.txt
+r	t	0630/line-059.gt.txt
+_	 	0630/line-060.gt.txt
+? __	Prie	0630/line-060.gt.txt
+_	u	0630/line-060.gt.txt
+n	_	0630/line-060.gt.txt
+ô	c	0630/line-060.gt.txt
+k	t	0630/line-060.gt.txt
+f	s	0630/line-060.gt.txt
+fl	st	0630/line-060.gt.txt
+k_	le	0630/line-060.gt.txt
+S	s	0630/line-060.gt.txt
+_	f	0630/line-060.gt.txt
+e__	ict	0630/line-060.gt.txt
+u_	nd	0630/line-060.gt.txt
+s	v	0630/line-061.gt.txt
+si	n_	0630/line-061.gt.txt
+ss	& 	0630/line-061.gt.txt
+sss	ngt	0630/line-061.gt.txt
+W	,	0630/line-061.gt.txt
+wiss	le__	0630/line-061.gt.txt
+k	r	0630/line-061.gt.txt
+sssissss	 quatre_	0630/line-061.gt.txt
+ssssiig ·	 à ferme_	0630/line-061.gt.txt
+«îîîîâ°pîïîèîâ'â'ä,î°''s___	'annee mil cinq cens quatre	0630/line-061.gt.txt
+c_	e 	0630/line-062.gt.txt
+å__	ct 	0630/line-062.gt.txt
+11	il	0630/line-062.gt.txt
+SICH-	s'est	0630/line-062.gt.txt
+''_____	Prieuré	0630/line-062.gt.txt
+ic- _	grand	0630/line-062.gt.txt
+i	r	0630/line-062.gt.txt
+''.1 «	dudict	0630/line-062.gt.txt
+_	d	0630/line-062.gt.txt
+ 	a	0630/line-062.gt.txt
+c	e	0630/line-062.gt.txt
+lk	ir	0630/line-062.gt.txt

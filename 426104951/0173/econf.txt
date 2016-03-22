@@ -1,0 +1,53 @@
+errors          92
+missing          0
+total         1066
+err          8.630 %
+errnomiss    8.630 %
+7	f	s
+2	,,	''
+2	 	_
+2	n	_
+2	e	è
+2	li	st
+2	l	s
+1	œ_	oe
+1	ii' 	se__
+1	ë	g
+1	ll'	ss_
+1	f	_
+1	i	I
+1	l	i
+1	Qi	à_
+1	à	a
+1	r	_
+1	{	s
+1	a	à
+1	c	t
+1	'	_
+1	e	ê
+1	c	e
+1	_	n
+1	_	t
+1	e	é
+1	fl	st
+1	ii	st
+1	S	s
+1	'''	*__
+1	11	Il
+1	lb	so
+1	rz	n_
+1	e	a
+1	ll	ss
+1	l	ö
+1	ni	m_
+1	îl	st
+1	SERe	s'ad
+1	de 	___
+1	l'	s_
+1	{011	son_
+1	z_	 ;
+1	i	s
+1	_	e
+1	_	s
+1	l__	ess
+1	_	'

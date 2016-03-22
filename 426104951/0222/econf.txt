@@ -1,0 +1,44 @@
+errors          81
+missing          0
+total         1059
+err          7.649 %
+errnomiss    7.649 %
+13	f	s
+7	 	_
+4	-	_
+3	;	_
+3	c	e
+3	e	é
+2	I	r
+1	ch_	ers
+1	.	_
+1	V	v
+1	k	t
+1	l	i
+1	s	S
+1	c	o
+1	e	_
+1	_	-
+1	A	a
+1	ok	OI
+1	É	E
+1	'	_
+1	»	_
+1	_	n
+1	n	_
+1	,	.
+1	cc	tt
+1	a	-
+1	''	__
+1	ihn-	sou_
+1	:	_
+1	_	 
+1	s	e
+1	fl	ss
+1	ïè	rê
+1	ll'	s-_
+1	,	_
+1	_	e
+1	_	s
+1	dsl	M__
+0.0764872521246

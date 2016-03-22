@@ -1,0 +1,285 @@
+f	s	1128/line-001.gt.txt
+f	s	1128/line-002.gt.txt
+i	_	1128/line-002.gt.txt
+_	.	1128/line-002.gt.txt
+e	c	1128/line-002.gt.txt
+··ft	 pr_	1128/line-002.gt.txt
+c	e	1128/line-002.gt.txt
+_	 	1128/line-003.gt.txt
+C	G	1128/line-003.gt.txt
+c	_	1128/line-003.gt.txt
+H_	si	1128/line-003.gt.txt
+f	s	1128/line-003.gt.txt
+.	 	1128/line-003.gt.txt
+_	l	1128/line-003.gt.txt
+t	r	1128/line-003.gt.txt
+g__	 , 	1128/line-004.gt.txt
+t	_	1128/line-004.gt.txt
+M	m	1128/line-004.gt.txt
+b_	 o	1128/line-004.gt.txt
+ll	st	1128/line-005.gt.txt
+ticqu	deuat	1128/line-005.gt.txt
+l	L	1128/line-005.gt.txt
+t	r	1128/line-005.gt.txt
+_	 	1128/line-006.gt.txt
+a_	 A	1128/line-006.gt.txt
+lf	ss	1128/line-006.gt.txt
+ 	_	1128/line-006.gt.txt
+cm_	ré,	1128/line-006.gt.txt
+f	s	1128/line-006.gt.txt
+fl	ss	1128/line-006.gt.txt
+ll	st	1128/line-007.gt.txt
+vfc	 se	1128/line-007.gt.txt
+F_	f 	1128/line-007.gt.txt
+l'c	fe_	1128/line-007.gt.txt
+t	r	1128/line-008.gt.txt
+_	 	1128/line-009.gt.txt
+f	s	1128/line-009.gt.txt
+'e'	ë _	1128/line-009.gt.txt
+;	_	1128/line-009.gt.txt
+ 	_	1128/line-009.gt.txt
+ll	ss	1128/line-010.gt.txt
+'	 	1128/line-010.gt.txt
+û_	ct	1128/line-010.gt.txt
+f	s	1128/line-010.gt.txt
+f	s	1128/line-011.gt.txt
+_	 	1128/line-011.gt.txt
+fl:	st_	1128/line-011.gt.txt
+l'	s_	1128/line-011.gt.txt
+tt	rr	1128/line-011.gt.txt
+zo	30	1128/line-011.gt.txt
+lle-	sté_	1128/line-011.gt.txt
+-	 	1128/line-012.gt.txt
+ll	st	1128/line-012.gt.txt
+E_	f 	1128/line-012.gt.txt
+è	e	1128/line-012.gt.txt
+t	r	1128/line-012.gt.txt
+fl:	st_	1128/line-012.gt.txt
+éc	et	1128/line-012.gt.txt
+;	3	1128/line-012.gt.txt
+ll	st	1128/line-013.gt.txt
+fe	so	1128/line-013.gt.txt
+f	s	1128/line-013.gt.txt
+'	_	1128/line-013.gt.txt
+_	 	1128/line-014.gt.txt
+-	 	1128/line-014.gt.txt
+fi	st	1128/line-014.gt.txt
+It	si	1128/line-014.gt.txt
+ 	_	1128/line-014.gt.txt
+f	s	1128/line-014.gt.txt
+t	r	1128/line-014.gt.txt
+{	1	1128/line-015.gt.txt
+1	2	1128/line-015.gt.txt
+_	 	1128/line-015.gt.txt
+f	s	1128/line-015.gt.txt
+f	s	1128/line-016.gt.txt
+t	u	1128/line-016.gt.txt
+i	 	1128/line-016.gt.txt
+iâ	ct	1128/line-016.gt.txt
+u	n	1128/line-016.gt.txt
+r'	t_	1128/line-016.gt.txt
+c	e	1128/line-016.gt.txt
+t	r	1128/line-016.gt.txt
+_	 	1128/line-017.gt.txt
+f	s	1128/line-017.gt.txt
+e'	é_	1128/line-017.gt.txt
+fl	st	1128/line-017.gt.txt
+l'	s_	1128/line-017.gt.txt
+-	_	1128/line-017.gt.txt
+-	_	1128/line-018.gt.txt
+f	s	1128/line-018.gt.txt
+lî'	ss_	1128/line-018.gt.txt
+_	 	1128/line-019.gt.txt
+'a	à_	1128/line-019.gt.txt
+r	1	1128/line-019.gt.txt
+U	u	1128/line-019.gt.txt
+°	_	1128/line-019.gt.txt
+fl	st	1128/line-019.gt.txt
+_	 	1128/line-020.gt.txt
+l'	s_	1128/line-020.gt.txt
+ll	ss	1128/line-021.gt.txt
+-	 	1128/line-021.gt.txt
+- q	I__	1128/line-021.gt.txt
+l_	st	1128/line-021.gt.txt
+_	 	1128/line-022.gt.txt
+ll_	st 	1128/line-022.gt.txt
+c	t	1128/line-022.gt.txt
+c	e	1128/line-022.gt.txt
+f	s	1128/line-023.gt.txt
+!''	s__	1128/line-023.gt.txt
+u	n	1128/line-023.gt.txt
+H_	si	1128/line-023.gt.txt
+f	s	1128/line-024.gt.txt
+_	 	1128/line-024.gt.txt
+'c'	ë__	1128/line-024.gt.txt
+fl	st	1128/line-024.gt.txt
+î	r	1128/line-024.gt.txt
+J_	,l	1128/line-024.gt.txt
+f	_	1128/line-024.gt.txt
+l'	s_	1128/line-025.gt.txt
+cCV__	té.Qu	1128/line-025.gt.txt
+j	i	1128/line-025.gt.txt
+ll	st	1128/line-025.gt.txt
+l	s	1128/line-025.gt.txt
+f	s	1128/line-025.gt.txt
+ælim__	,estan	1128/line-025.gt.txt
+,	_	1128/line-025.gt.txt
+t	r	1128/line-026.gt.txt
+-	 	1128/line-026.gt.txt
+» 	s_	1128/line-026.gt.txt
+'	_	1128/line-026.gt.txt
+_	x	1128/line-026.gt.txt
+ 	_	1128/line-026.gt.txt
+P	p	1128/line-026.gt.txt
+r	t	1128/line-026.gt.txt
+f	s	1128/line-027.gt.txt
+u	ü	1128/line-027.gt.txt
+_	 	1128/line-027.gt.txt
+fl	A_	1128/line-027.gt.txt
++	4	1128/line-027.gt.txt
+llx	st_	1128/line-027.gt.txt
+â	a	1128/line-028.gt.txt
+_	 	1128/line-028.gt.txt
+ 	_	1128/line-028.gt.txt
+'	 	1128/line-028.gt.txt
+r	t	1128/line-028.gt.txt
+ç	e	1128/line-029.gt.txt
+B	b	1128/line-029.gt.txt
+l'_	ie 	1128/line-029.gt.txt
+,	_	1128/line-029.gt.txt
+fi	,S	1128/line-029.gt.txt
+f	s	1128/line-029.gt.txt
+_	 	1128/line-030.gt.txt
+f	s	1128/line-030.gt.txt
+il	st	1128/line-030.gt.txt
+i	l	1128/line-030.gt.txt
+V	v	1128/line-030.gt.txt
+.	 	1128/line-030.gt.txt
+fl	s_	1128/line-030.gt.txt
+l	s	1128/line-030.gt.txt
+i	s	1128/line-030.gt.txt
+l	I	1128/line-030.gt.txt
+i	e	1128/line-030.gt.txt
+ï	r	1128/line-031.gt.txt
+l	s	1128/line-031.gt.txt
+i	_	1128/line-032.gt.txt
+71m	quo	1128/line-032.gt.txt
+ 	_	1128/line-032.gt.txt
+f	s	1128/line-032.gt.txt
+m_	on	1128/line-033.gt.txt
+f	s	1128/line-033.gt.txt
+'	_	1128/line-033.gt.txt
+ll	st	1128/line-033.gt.txt
+zwp__	tus,o	1128/line-033.gt.txt
+.:z'	 d__	1128/line-033.gt.txt
+m'	ni	1128/line-033.gt.txt
+l'	s_	1128/line-033.gt.txt
+z'mw_	 iure	1128/line-033.gt.txt
+'	_	1128/line-034.gt.txt
+amà'w__	ciendus	1128/line-034.gt.txt
+e_	ur	1128/line-034.gt.txt
+»Z(f-__	cclesia	1128/line-034.gt.txt
+7«	qu	1128/line-034.gt.txt
+n	i	1128/line-034.gt.txt
+s-Z	t__	1128/line-034.gt.txt
+.s_	a p	1128/line-034.gt.txt
+_	r	1128/line-034.gt.txt
+(r	&_	1128/line-034.gt.txt
+_	 	1128/line-034.gt.txt
+x	a	1128/line-034.gt.txt
+yik	ru_	1128/line-034.gt.txt
+xw_	tur	1128/line-034.gt.txt
+u	n	1128/line-034.gt.txt
+r	t	1128/line-034.gt.txt
+_	 	1128/line-035.gt.txt
+a	o	1128/line-035.gt.txt
+f	s	1128/line-035.gt.txt
+/É	se	1128/line-035.gt.txt
+l°	s_	1128/line-035.gt.txt
+m_	tu	1128/line-035.gt.txt
+P_	 p	1128/line-035.gt.txt
+lle	sté	1128/line-035.gt.txt
+f	s	1128/line-036.gt.txt
+_	 	1128/line-036.gt.txt
+fl	st	1128/line-036.gt.txt
+5	3	1128/line-036.gt.txt
+u	n	1128/line-036.gt.txt
+û_	st	1128/line-036.gt.txt
+d_	,I	1128/line-036.gt.txt
+f	s	1128/line-037.gt.txt
+_	 	1128/line-037.gt.txt
+tiahl	u 6.M	1128/line-037.gt.txt
+ri	n_	1128/line-037.gt.txt
+z	:	1128/line-037.gt.txt
+f	s	1128/line-038.gt.txt
+fl	si	1128/line-038.gt.txt
+fl	st	1128/line-038.gt.txt
+ 	_	1128/line-038.gt.txt
+zo	30	1128/line-038.gt.txt
+ ö	o_	1128/line-038.gt.txt
+l	_	1128/line-039.gt.txt
+f_	,s	1128/line-039.gt.txt
+t	_	1128/line-040.gt.txt
+f	s	1128/line-040.gt.txt
+.	 	1128/line-040.gt.txt
+ 	_	1128/line-041.gt.txt
+F	f	1128/line-041.gt.txt
+f	s	1128/line-041.gt.txt
+i-	s_	1128/line-042.gt.txt
+f	s	1128/line-042.gt.txt
+u	i	1128/line-042.gt.txt
+_	 	1128/line-043.gt.txt
+«	_	1128/line-043.gt.txt
+j1_	il 	1128/line-043.gt.txt
+(1	ss	1128/line-043.gt.txt
+f	s	1128/line-043.gt.txt
+z	,	1128/line-043.gt.txt
+j	i	1128/line-043.gt.txt
+n_	rt	1128/line-043.gt.txt
+u	n	1128/line-043.gt.txt
+f_	 s	1128/line-043.gt.txt
+x_	,t	1128/line-043.gt.txt
+r	t	1128/line-043.gt.txt
+x	 	1128/line-044.gt.txt
+f	s	1128/line-044.gt.txt
+jf	is	1128/line-044.gt.txt
+_	 	1128/line-045.gt.txt
+ 	_	1128/line-045.gt.txt
+f	s	1128/line-045.gt.txt
+c_	e 	1128/line-045.gt.txt
+l	s	1128/line-045.gt.txt
+F	f	1128/line-045.gt.txt
+_	 	1128/line-046.gt.txt
+-	 	1128/line-046.gt.txt
+fi	ss	1128/line-046.gt.txt
+f	s	1128/line-046.gt.txt
+ôf	os	1128/line-046.gt.txt
+_	 	1128/line-047.gt.txt
+ër	et	1128/line-047.gt.txt
+POJU	pour	1128/line-047.gt.txt
+f	s	1128/line-047.gt.txt
+c	e	1128/line-047.gt.txt
+f	s	1128/line-048.gt.txt
+P	s	1128/line-048.gt.txt
+_	a	1128/line-048.gt.txt
+c':	é__	1128/line-048.gt.txt
+flî	ssi	1128/line-048.gt.txt
+u	n	1128/line-048.gt.txt
+o	c	1128/line-048.gt.txt
+ 	_	1128/line-048.gt.txt
+_	 	1128/line-049.gt.txt
+ôl:	ct_	1128/line-049.gt.txt
+.	_	1128/line-049.gt.txt
+ 	_	1128/line-049.gt.txt
+l'	__	1128/line-049.gt.txt
+fl:	st_	1128/line-049.gt.txt
+l	s	1128/line-050.gt.txt
+ç	e	1128/line-050.gt.txt
+-	 	1128/line-050.gt.txt
+l_	 s	1128/line-050.gt.txt
+f	s	1128/line-050.gt.txt
+__	 a	1128/line-050.gt.txt
+r	t	1128/line-050.gt.txt
+Ät	Ar	1128/line-050.gt.txt
+c -	t__	1128/line-050.gt.txt
+ 	_	1128/line-051.gt.txt

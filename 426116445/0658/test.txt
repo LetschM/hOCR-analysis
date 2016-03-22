@@ -1,0 +1,100 @@
+m_	IN	0658/line-001.gt.txt
+'r	T_	0658/line-001.gt.txt
+rum-znr	FUNERE_	0658/line-001.gt.txt
+öf	ós	0658/line-002.gt.txt
+f	s	0658/line-002.gt.txt
+f	s	0658/line-003.gt.txt
+Pafl'	post_	0658/line-004.gt.txt
+i	_	0658/line-004.gt.txt
+_	 	0658/line-004.gt.txt
+v__	off	0658/line-004.gt.txt
+m_	ru	0658/line-004.gt.txt
+/f	st	0658/line-004.gt.txt
+r	c	0658/line-004.gt.txt
+XVI-L_	Repub.	0658/line-005.gt.txt
+s-	v_	0658/line-005.gt.txt
+m	_	0658/line-005.gt.txt
+üf	ùs	0658/line-005.gt.txt
+æ/fu_	aesta	0658/line-006.gt.txt
+m_	nt	0658/line-006.gt.txt
+u	ù	0658/line-007.gt.txt
+fi	st	0658/line-007.gt.txt
+c	t	0658/line-007.gt.txt
+Ll	Q_	0658/line-007.gt.txt
+af	ás	0658/line-007.gt.txt
+æli_	aest	0658/line-008.gt.txt
+l	s	0658/line-008.gt.txt
+e'f	ès_	0658/line-008.gt.txt
+e	è	0658/line-009.gt.txt
+a	s	0658/line-009.gt.txt
+f	s	0658/line-009.gt.txt
+[	s	0658/line-009.gt.txt
+ii	ù_	0658/line-010.gt.txt
+_	 	0658/line-010.gt.txt
+üf	ùs	0658/line-010.gt.txt
+fi	st	0658/line-010.gt.txt
+il	ís	0658/line-011.gt.txt
+f	s	0658/line-011.gt.txt
+f	s	0658/line-012.gt.txt
+æ_	oe	0658/line-012.gt.txt
+fïz	st_	0658/line-013.gt.txt
+c	t	0658/line-013.gt.txt
+k	t	0658/line-013.gt.txt
+f	s	0658/line-013.gt.txt
+c	e	0658/line-013.gt.txt
+f	s	0658/line-014.gt.txt
+ f	s_	0658/line-014.gt.txt
+,_	 ;	0658/line-014.gt.txt
+æfi_	aest	0658/line-014.gt.txt
+fi	st	0658/line-014.gt.txt
+l	f	0658/line-015.gt.txt
+fi	st	0658/line-015.gt.txt
+f	s	0658/line-016.gt.txt
+ch_	ésq	0658/line-017.gt.txt
+fi	st	0658/line-017.gt.txt
+f	s	0658/line-018.gt.txt
+ll	ss	0658/line-018.gt.txt
+ii'	ss_	0658/line-019.gt.txt
+f	s	0658/line-020.gt.txt
+_	 	0658/line-021.gt.txt
+æ_	ae	0658/line-022.gt.txt
+f	s	0658/line-022.gt.txt
+a	à	0658/line-023.gt.txt
+ff	ss	0658/line-023.gt.txt
+i	s	0658/line-024.gt.txt
+e	è	0658/line-024.gt.txt
+(	_	0658/line-024.gt.txt
+æ_	ae	0658/line-025.gt.txt
+f	s	0658/line-025.gt.txt
+fi	st	0658/line-025.gt.txt
+i	E	0658/line-026.gt.txt
+_	 	0658/line-027.gt.txt
+-	 	0658/line-027.gt.txt
+f	s	0658/line-027.gt.txt
+u_	 U	0658/line-028.gt.txt
+us_	U S	0658/line-028.gt.txt
+M	_	0658/line-028.gt.txt
+o	O	0658/line-028.gt.txt
+.	_	0658/line-029.gt.txt
+üæ__	stae	0658/line-030.gt.txt
+c	_	0658/line-030.gt.txt
+æf_	aes	0658/line-030.gt.txt
+_	 	0658/line-031.gt.txt
+''	__	0658/line-031.gt.txt
+f	s	0658/line-031.gt.txt
+fi	st	0658/line-031.gt.txt
+æ_	ae	0658/line-032.gt.txt
+_	 	0658/line-032.gt.txt
+H_	fl	0658/line-032.gt.txt
+f	s	0658/line-032.gt.txt
+.	_	0658/line-032.gt.txt
+æ_	ae	0658/line-033.gt.txt
+fi	st	0658/line-033.gt.txt
+V___	Quae	0658/line-034.gt.txt
+d	_	0658/line-034.gt.txt
+ü	ú	0658/line-034.gt.txt
+»Es-w	Anno_	0658/line-036.gt.txt
+nm_	HRI	0658/line-036.gt.txt
+'	_	0658/line-036.gt.txt
+srx	STI	0658/line-037.gt.txt
+rsi	151	0658/line-037.gt.txt

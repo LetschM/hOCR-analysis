@@ -1,0 +1,408 @@
+j}	55	0395/line-002.gt.txt
+ _	Ti	0395/line-002.gt.txt
+h	_	0395/line-002.gt.txt
+_	 	0395/line-002.gt.txt
+'' ' 	_____	0395/line-002.gt.txt
+_	o	0395/line-003.gt.txt
+å_	ct	0395/line-003.gt.txt
+'	 	0395/line-003.gt.txt
+u	i	0395/line-003.gt.txt
+u	_	0395/line-003.gt.txt
+f	s	0395/line-003.gt.txt
+h_	li	0395/line-004.gt.txt
+ 	'	0395/line-004.gt.txt
+s	_	0395/line-004.gt.txt
+ 	_	0395/line-004.gt.txt
+ÿ	y	0395/line-004.gt.txt
+f	s	0395/line-004.gt.txt
+_	 	0395/line-005.gt.txt
+ll	st	0395/line-005.gt.txt
+ll'	ss_	0395/line-005.gt.txt
+f	 	0395/line-005.gt.txt
+ - : Ÿ	______	0395/line-005.gt.txt
+f	s	0395/line-005.gt.txt
+_	 	0395/line-006.gt.txt
+ $;	___	0395/line-006.gt.txt
+ll'	ss_	0395/line-006.gt.txt
+&_	ct	0395/line-006.gt.txt
+c'k	 & 	0395/line-006.gt.txt
+f_	 s	0395/line-006.gt.txt
+_	 	0395/line-007.gt.txt
+ll	ss	0395/line-007.gt.txt
+-	 	0395/line-007.gt.txt
+l  	___	0395/line-007.gt.txt
+(	s	0395/line-007.gt.txt
+c	e	0395/line-007.gt.txt
+f	s	0395/line-007.gt.txt
+f	s	0395/line-008.gt.txt
+ 	_	0395/line-008.gt.txt
+ll	st	0395/line-008.gt.txt
+_	 	0395/line-008.gt.txt
+.	_	0395/line-008.gt.txt
+ -	__	0395/line-008.gt.txt
+8c « l	&_____	0395/line-008.gt.txt
+l	s	0395/line-008.gt.txt
+_	 	0395/line-009.gt.txt
+lïà	ssa	0395/line-009.gt.txt
+r_	t 	0395/line-009.gt.txt
+ 'L	___	0395/line-009.gt.txt
+s ...er d...gle, 	_________________	0395/line-009.gt.txt
+f	s	0395/line-009.gt.txt
+fl	ss	0395/line-009.gt.txt
+flâ	ssa	0395/line-009.gt.txt
+_	 	0395/line-010.gt.txt
+f	s	0395/line-010.gt.txt
+ »Ja-»Im- ordi- &]	__________________	0395/line-010.gt.txt
+le_	sts	0395/line-010.gt.txt
+cc	rr	0395/line-010.gt.txt
+f__	, s	0395/line-010.gt.txt
+d_	el	0395/line-010.gt.txt
+f	s	0395/line-011.gt.txt
+_	 	0395/line-011.gt.txt
+ Wiss-»Mwa , « ' ]	__________________	0395/line-011.gt.txt
+c	r	0395/line-011.gt.txt
+fl'	st_	0395/line-012.gt.txt
+-	 	0395/line-012.gt.txt
+'	 	0395/line-012.gt.txt
+ll:	st_	0395/line-012.gt.txt
+ ''& ?'''' Piwi:  - ;	_____________________	0395/line-012.gt.txt
+u	i	0395/line-012.gt.txt
+{'	s_	0395/line-012.gt.txt
+fc	se	0395/line-012.gt.txt
+r	t	0395/line-012.gt.txt
+ ''''' l	________	0395/line-013.gt.txt
+W_	n'	0395/line-013.gt.txt
+rn	m_	0395/line-013.gt.txt
+'	 	0395/line-013.gt.txt
+u	n	0395/line-013.gt.txt
+f	s	0395/line-013.gt.txt
+_	 	0395/line-014.gt.txt
+f	s	0395/line-014.gt.txt
+h_	li	0395/line-014.gt.txt
+t_	r 	0395/line-014.gt.txt
+ '  f l	_______	0395/line-014.gt.txt
+P	p	0395/line-014.gt.txt
+%	g	0395/line-015.gt.txt
+fi	st	0395/line-015.gt.txt
+j	i	0395/line-015.gt.txt
+ ' J	____	0395/line-015.gt.txt
+l'	s_	0395/line-015.gt.txt
+}_	 à	0395/line-015.gt.txt
+_	 	0395/line-016.gt.txt
+?:  » « l |	___________	0395/line-016.gt.txt
+l	s	0395/line-016.gt.txt
+n	u	0395/line-016.gt.txt
+_	c	0395/line-016.gt.txt
+f	s	0395/line-016.gt.txt
+_	 	0395/line-017.gt.txt
+lh'	str	0395/line-017.gt.txt
+m_	ni	0395/line-017.gt.txt
+ .	__	0395/line-017.gt.txt
+da	oe	0395/line-017.gt.txt
+ll	st	0395/line-017.gt.txt
+'''''' Cp	co_______	0395/line-017.gt.txt
+a_	es	0395/line-017.gt.txt
+fc	se	0395/line-017.gt.txt
+_	 	0395/line-018.gt.txt
+f	s	0395/line-018.gt.txt
+-	 	0395/line-018.gt.txt
+m_	ci	0395/line-018.gt.txt
+ll	st	0395/line-018.gt.txt
+m_	cu	0395/line-018.gt.txt
+l	s	0395/line-018.gt.txt
+æ	a	0395/line-018.gt.txt
+:	c	0395/line-019.gt.txt
+r	t	0395/line-019.gt.txt
+_	a	0395/line-019.gt.txt
+-	m	0395/line-019.gt.txt
+t	c	0395/line-019.gt.txt
+m_	ra	0395/line-019.gt.txt
+m_	ta	0395/line-019.gt.txt
+fl	st	0395/line-019.gt.txt
+»m_	rer	0395/line-019.gt.txt
+M	v	0395/line-019.gt.txt
+_	 	0395/line-019.gt.txt
+:	s	0395/line-019.gt.txt
+bw_	vus	0395/line-019.gt.txt
+«-m-	ntur	0395/line-019.gt.txt
+zfl	ist	0395/line-019.gt.txt
+c	e	0395/line-019.gt.txt
+f	s	0395/line-020.gt.txt
+ll	st	0395/line-020.gt.txt
+i	_	0395/line-020.gt.txt
+_	 	0395/line-020.gt.txt
+u	n	0395/line-020.gt.txt
+P	p	0395/line-020.gt.txt
+_	 	0395/line-021.gt.txt
+ n	u_	0395/line-021.gt.txt
+{_	 s	0395/line-021.gt.txt
+t	i	0395/line-021.gt.txt
+P	p	0395/line-021.gt.txt
+f	s	0395/line-021.gt.txt
+_	 	0395/line-022.gt.txt
+r	n	0395/line-022.gt.txt
+__	f 	0395/line-022.gt.txt
+m	_	0395/line-022.gt.txt
+gez	ou_	0395/line-022.gt.txt
+ ou	in_	0395/line-022.gt.txt
+c	e	0395/line-023.gt.txt
+f	s	0395/line-023.gt.txt
+_	:	0395/line-023.gt.txt
+_	 	0395/line-023.gt.txt
+C	c	0395/line-023.gt.txt
+a	o	0395/line-023.gt.txt
+'	 	0395/line-023.gt.txt
+f	s	0395/line-024.gt.txt
+r-»M-_	cuisse	0395/line-024.gt.txt
+ZF	&_	0395/line-024.gt.txt
+k	p	0395/line-024.gt.txt
+fin	sm_	0395/line-024.gt.txt
+-44	da_	0395/line-024.gt.txt
+-	e	0395/line-024.gt.txt
+jr	it	0395/line-024.gt.txt
+o	O	0395/line-024.gt.txt
+_	s	0395/line-024.gt.txt
+ 	_	0395/line-024.gt.txt
+m_	at	0395/line-025.gt.txt
+lm	a_	0395/line-025.gt.txt
+Iÿ	R_	0395/line-025.gt.txt
+a	o	0395/line-025.gt.txt
+ mec 1,	_______	0395/line-025.gt.txt
+m_	us	0395/line-025.gt.txt
+pmu_	atas	0395/line-025.gt.txt
+_	 	0395/line-025.gt.txt
+A	a	0395/line-025.gt.txt
+|	i	0395/line-025.gt.txt
+ajff	ostu	0395/line-025.gt.txt
+f	S	0395/line-025.gt.txt
+ll: pourai	s_________	0395/line-025.gt.txt
+w__	us 	0395/line-025.gt.txt
+m_	nc	0395/line-025.gt.txt
+d	a	0395/line-025.gt.txt
+__	ti	0395/line-025.gt.txt
+ denim... « » k »	_________________	0395/line-026.gt.txt
+äi_	 à 	0395/line-026.gt.txt
+jk	ir	0395/line-026.gt.txt
+k	r	0395/line-026.gt.txt
+flà	ssa	0395/line-026.gt.txt
+f	s	0395/line-026.gt.txt
+A_	ff	0395/line-026.gt.txt
+é	c	0395/line-027.gt.txt
+fi	st	0395/line-027.gt.txt
+ - « «	______	0395/line-027.gt.txt
+t	r	0395/line-027.gt.txt
+F	f	0395/line-027.gt.txt
+'ôc	 &_	0395/line-027.gt.txt
+C	e	0395/line-027.gt.txt
+ 	_	0395/line-028.gt.txt
+_	 	0395/line-028.gt.txt
+ ' - Us-	________	0395/line-028.gt.txt
+f	s	0395/line-028.gt.txt
+'	_	0395/line-028.gt.txt
+d	_	0395/line-029.gt.txt
+ »F	___	0395/line-029.gt.txt
+_	 	0395/line-029.gt.txt
+;.ï	de_	0395/line-029.gt.txt
+ll:	st_	0395/line-029.gt.txt
+f	s	0395/line-029.gt.txt
+ä	a	0395/line-029.gt.txt
+e	_	0395/line-029.gt.txt
+ê	a	0395/line-030.gt.txt
+ll'	ss_	0395/line-030.gt.txt
+î	i	0395/line-030.gt.txt
+J ; , 	d_____	0395/line-030.gt.txt
+v	 	0395/line-030.gt.txt
+.	_	0395/line-030.gt.txt
+u	n	0395/line-030.gt.txt
+f	s	0395/line-031.gt.txt
+_	 	0395/line-031.gt.txt
+-	 	0395/line-031.gt.txt
+!' RCS, ''(lume	stes visitatio_	0395/line-031.gt.txt
+ij_	ssi	0395/line-031.gt.txt
+l	s	0395/line-031.gt.txt
+ «	__	0395/line-031.gt.txt
+'. &	ct__	0395/line-032.gt.txt
+ 	'	0395/line-032.gt.txt
+P	p	0395/line-032.gt.txt
+ . '	____	0395/line-032.gt.txt
+t	r	0395/line-032.gt.txt
+_	 	0395/line-033.gt.txt
+g	r	0395/line-033.gt.txt
+'	 	0395/line-033.gt.txt
+ 	_	0395/line-033.gt.txt
+æV_	a v	0395/line-033.gt.txt
+_	 	0395/line-034.gt.txt
+q	c	0395/line-034.gt.txt
+Cl	ci	0395/line-034.gt.txt
+f	s	0395/line-035.gt.txt
+flî	ssi	0395/line-035.gt.txt
+_	 	0395/line-035.gt.txt
+[	s	0395/line-035.gt.txt
+c	e	0395/line-035.gt.txt
+P	p	0395/line-035.gt.txt
+_	 	0395/line-036.gt.txt
+c_	e 	0395/line-036.gt.txt
+m_	ni	0395/line-036.gt.txt
+ .	__	0395/line-036.gt.txt
+'e	è_	0395/line-036.gt.txt
+f	s	0395/line-036.gt.txt
+ll	st	0395/line-036.gt.txt
+å_	ct	0395/line-036.gt.txt
+r	t	0395/line-036.gt.txt
+_	 	0395/line-037.gt.txt
+f	s	0395/line-037.gt.txt
+ fu	si_	0395/line-037.gt.txt
+ri	u_	0395/line-037.gt.txt
+' t	r__	0395/line-037.gt.txt
+j	i	0395/line-038.gt.txt
+« 'C	c___	0395/line-038.gt.txt
+m_	ie	0395/line-038.gt.txt
+f	s	0395/line-038.gt.txt
+ÿ_	 v	0395/line-038.gt.txt
+i	u	0395/line-039.gt.txt
+ll	ss	0395/line-039.gt.txt
+mm__	ntra	0395/line-039.gt.txt
+'l	q_	0395/line-039.gt.txt
+n	_	0395/line-039.gt.txt
+ 	_	0395/line-039.gt.txt
+à?	re	0395/line-040.gt.txt
+_	 	0395/line-040.gt.txt
+.	_	0395/line-040.gt.txt
+f	s	0395/line-040.gt.txt
+_	 	0395/line-041.gt.txt
+f	s	0395/line-041.gt.txt
+ll	st	0395/line-041.gt.txt
+taîfdîâëcdü'	d'estre renu	0395/line-041.gt.txt
+g	y	0395/line-041.gt.txt
+' 	,_	0395/line-041.gt.txt
+c	e	0395/line-042.gt.txt
+nd	xe	0395/line-042.gt.txt
+? THE_	pens,&	0395/line-042.gt.txt
+c	t	0395/line-042.gt.txt
+lk	st	0395/line-042.gt.txt
+t_	 f	0395/line-042.gt.txt
+l	s	0395/line-042.gt.txt
+gr	t_	0395/line-042.gt.txt
+p_	r 	0395/line-042.gt.txt
+frai_	de de	0395/line-042.gt.txt
+r	_	0395/line-042.gt.txt
+uë	ic	0395/line-043.gt.txt
+::s	en 	0395/line-043.gt.txt
+a	o	0395/line-043.gt.txt
+(P	 p	0395/line-043.gt.txt
+ 5	fs	0395/line-043.gt.txt
+i	r	0395/line-043.gt.txt
+ëxc	ri_	0395/line-043.gt.txt
+-	_	0395/line-043.gt.txt
+ E	sp	0395/line-043.gt.txt
+fc	se	0395/line-043.gt.txt
+_	 	0395/line-043.gt.txt
+'	 	0395/line-043.gt.txt
+m_	io	0395/line-043.gt.txt
+a lu	r___	0395/line-043.gt.txt
+o_	s,	0395/line-043.gt.txt
+'	_	0395/line-043.gt.txt
+t	_	0395/line-043.gt.txt
+s &	nds	0395/line-043.gt.txt
+di 	gr_	0395/line-043.gt.txt
+_	 	0395/line-044.gt.txt
+- rapporte_	dicts & fal	0395/line-044.gt.txt
+uf_	ù s	0395/line-044.gt.txt
+a_	à 	0395/line-044.gt.txt
+fÇ_	sei	0395/line-044.gt.txt
+ 	s	0395/line-044.gt.txt
+ 	'	0395/line-044.gt.txt
+,	_	0395/line-044.gt.txt
+ 	_	0395/line-044.gt.txt
+r du roc_	ations ,&	0395/line-044.gt.txt
+f	s	0395/line-045.gt.txt
+ 	_	0395/line-045.gt.txt
+nnn	mm_	0395/line-045.gt.txt
+i· les mots	rapporteur_	0395/line-045.gt.txt
+e	é	0395/line-045.gt.txt
+lk	st	0395/line-045.gt.txt
+ç	_	0395/line-045.gt.txt
+u_	it	0395/line-045.gt.txt
+l	f	0395/line-045.gt.txt
+e	u	0395/line-045.gt.txt
+lalg s'	proc___	0395/line-045.gt.txt
+__	c'	0395/line-045.gt.txt
+ñ_	ff	0395/line-045.gt.txt
+finienddafof	les mots de 	0395/line-046.gt.txt
+flz	sti	0395/line-046.gt.txt
+n___	atio	0395/line-046.gt.txt
+nu__	icis	0395/line-046.gt.txt
+Ha	qu	0395/line-046.gt.txt
+t_	,a	0395/line-046.gt.txt
+r-»m-__	ntitate	0395/line-046.gt.txt
+quæïïz	a loy_	0395/line-046.gt.txt
+ 	_	0395/line-046.gt.txt
+mîm_	e iu	0395/line-046.gt.txt
+m_	us	0395/line-046.gt.txt
+ug_	ici	0395/line-046.gt.txt
+t	i	0395/line-046.gt.txt
+m_	iu	0395/line-046.gt.txt
+Mkwk_	earum	0395/line-046.gt.txt
+iî	sa	0395/line-046.gt.txt
+c	e	0395/line-046.gt.txt
+_	i	0395/line-047.gt.txt
+t qUe uandil__	ienda,postquam	0395/line-047.gt.txt
+_	 	0395/line-047.gt.txt
+;:''_	iurat	0395/line-047.gt.txt
+n	u	0395/line-047.gt.txt
+l	:	0395/line-047.gt.txt
+lÎÇIOI	sseroi	0395/line-047.gt.txt
+fiu___	esas,t	0395/line-047.gt.txt
+,''	eo_	0395/line-047.gt.txt
+ 	'	0395/line-047.gt.txt
+ Taxe de: dam-	______________	0395/line-047.gt.txt
+fn	m 	0395/line-047.gt.txt
+ta	fi	0395/line-047.gt.txt
+ul:	 ab	0395/line-047.gt.txt
+mr____	i fece	0395/line-047.gt.txt
+r	i	0395/line-048.gt.txt
+äla_	 que	0395/line-048.gt.txt
+m_	in	0395/line-048.gt.txt
+Por	tan	0395/line-048.gt.txt
+ WITH O- mrc;	_____________	0395/line-048.gt.txt
+k	r	0395/line-048.gt.txt
+f	s	0395/line-048.gt.txt
+ 	_	0395/line-048.gt.txt
+t_	au	0395/line-048.gt.txt
+1_	 i	0395/line-048.gt.txt
+_	 	0395/line-048.gt.txt
+lr	fi	0395/line-048.gt.txt
+b_	il	0395/line-048.gt.txt
+e'	é 	0395/line-048.gt.txt
+__	nd	0395/line-048.gt.txt
+u_	it	0395/line-048.gt.txt
+éll	qu_	0395/line-048.gt.txt
+_	 	0395/line-049.gt.txt
+û_	st	0395/line-049.gt.txt
+fç.''f''.	 se______	0395/line-049.gt.txt
+.	à	0395/line-049.gt.txt
+x_	 i	0395/line-049.gt.txt
+,»____	la cha	0395/line-049.gt.txt
+ IÊPOHF__	bre pour 	0395/line-049.gt.txt
+x	i	0395/line-049.gt.txt
+.___	port	0395/line-049.gt.txt
+'_	ce	0395/line-060.gt.txt
+-__	qui	0395/line-060.gt.txt
+«_______	arrester	0395/line-060.gt.txt
+'	à	0395/line-060.gt.txt
+-_____	semble	0395/line-060.gt.txt
+f	s	0395/line-060.gt.txt
+'____	faire	0395/line-060.gt.txt
+'___	pour	0395/line-060.gt.txt
+_______________________________	eux seilement , il faut donc ne	0395/line-060.gt.txt
+__	nt	0395/line-060.gt.txt
+_	 	0395/line-061.gt.txt
+a	à	0395/line-061.gt.txt
+1_	 i	0395/line-061.gt.txt
+__	mb	0395/line-061.gt.txt
+ Paurquoy ,'' »	-______________	0395/line-061.gt.txt
+l	s	0395/line-061.gt.txt
+f	s	0395/line-061.gt.txt
+1n	m_	0395/line-061.gt.txt
+e	_	0395/line-061.gt.txt
+f_	 s	0395/line-061.gt.txt

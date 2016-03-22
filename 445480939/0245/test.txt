@@ -1,0 +1,94 @@
+:	s	0245/line-001.gt.txt
+1	2	0245/line-001.gt.txt
+;	3	0245/line-001.gt.txt
+a	à	0245/line-002.gt.txt
+s	a	0245/line-002.gt.txt
+c	e	0245/line-002.gt.txt
+f	s	0245/line-002.gt.txt
+ô	é	0245/line-002.gt.txt
+_	 	0245/line-003.gt.txt
+e	é	0245/line-003.gt.txt
+öc	__	0245/line-003.gt.txt
+-	&	0245/line-003.gt.txt
+,_	_-	0245/line-003.gt.txt
+cl	d_	0245/line-003.gt.txt
+lf	ss	0245/line-003.gt.txt
+c	e	0245/line-003.gt.txt
+f	s	0245/line-004.gt.txt
+c	e	0245/line-005.gt.txt
+â_	ct	0245/line-006.gt.txt
+_	 	0245/line-006.gt.txt
+f	s	0245/line-007.gt.txt
+(e	sé	0245/line-007.gt.txt
+s	S	0245/line-008.gt.txt
+'	;	0245/line-008.gt.txt
+s_	 S	0245/line-008.gt.txt
+c	e	0245/line-008.gt.txt
+e	é	0245/line-008.gt.txt
+flä	ssa	0245/line-009.gt.txt
+ll	st	0245/line-010.gt.txt
+i	_	0245/line-010.gt.txt
+ü	u	0245/line-010.gt.txt
+il	:I	0245/line-010.gt.txt
+F_	n'	0245/line-010.gt.txt
+û_	ct	0245/line-011.gt.txt
+l	f	0245/line-011.gt.txt
+_	 	0245/line-011.gt.txt
+cf:	est	0245/line-011.gt.txt
+e	é	0245/line-011.gt.txt
+_	 	0245/line-012.gt.txt
+_	 	0245/line-013.gt.txt
+f	s	0245/line-013.gt.txt
+c	e	0245/line-014.gt.txt
+lr	h_	0245/line-015.gt.txt
+è	é	0245/line-015.gt.txt
+c	e	0245/line-015.gt.txt
+ff	ss	0245/line-015.gt.txt
+H_	sa	0245/line-016.gt.txt
+c	e	0245/line-016.gt.txt
+e	é	0245/line-016.gt.txt
+R_	sc	0245/line-017.gt.txt
+-d	al	0245/line-017.gt.txt
+f	s	0245/line-018.gt.txt
+flmafi	nne___	0245/line-018.gt.txt
+_	s	0245/line-018.gt.txt
+f	s	0245/line-019.gt.txt
+l'	s_	0245/line-020.gt.txt
+f	s	0245/line-021.gt.txt
+_	 	0245/line-022.gt.txt
+i	j	0245/line-022.gt.txt
+l'	s_	0245/line-022.gt.txt
+·	_	0245/line-022.gt.txt
+_	 	0245/line-023.gt.txt
+l	s	0245/line-023.gt.txt
+__	is	0245/line-023.gt.txt
+e	é	0245/line-023.gt.txt
+·	_	0245/line-023.gt.txt
+Œ	s	0245/line-023.gt.txt
+r 1	mm_	0245/line-023.gt.txt
+ll:	st_	0245/line-024.gt.txt
+III-IX	& qui_	0245/line-024.gt.txt
+f	s	0245/line-024.gt.txt
+_	s	0245/line-025.gt.txt
+ 	_	0245/line-025.gt.txt
+q	s	0245/line-025.gt.txt
+l'	s_	0245/line-025.gt.txt
+f	s	0245/line-026.gt.txt
+_	 	0245/line-026.gt.txt
+i	j	0245/line-026.gt.txt
+l'	s_	0245/line-026.gt.txt
+&	à	0245/line-026.gt.txt
+f	s	0245/line-027.gt.txt
+ 	g	0245/line-027.gt.txt
+ 	.	0245/line-027.gt.txt
+c	e	0245/line-029.gt.txt
+[	s	0245/line-029.gt.txt
+è	é	0245/line-030.gt.txt
+f	s	0245/line-030.gt.txt
+flä	ssa	0245/line-031.gt.txt
+z__	 ; 	0245/line-032.gt.txt
+f	s	0245/line-032.gt.txt
+_	e	0245/line-033.gt.txt
+_	n	0245/line-033.gt.txt
+c	e	0245/line-033.gt.txt
+ch_	dev	0245/line-034.gt.txt

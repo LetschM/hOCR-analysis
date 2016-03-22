@@ -1,0 +1,119 @@
+..._	 121	0133/line-001.gt.txt
+tz	u_	0133/line-001.gt.txt
+r	s	0133/line-001.gt.txt
+e'	é_	0133/line-001.gt.txt
+ä	i	0133/line-001.gt.txt
+li	h_	0133/line-002.gt.txt
+f	s	0133/line-002.gt.txt
+c	_	0133/line-003.gt.txt
+lÎ	ss	0133/line-003.gt.txt
+C	e	0133/line-003.gt.txt
+f	s	0133/line-004.gt.txt
+'	 	0133/line-005.gt.txt
+l	s	0133/line-005.gt.txt
+e	é	0133/line-006.gt.txt
+e'	é_	0133/line-006.gt.txt
+g	a	0133/line-006.gt.txt
+ri	n_	0133/line-006.gt.txt
+c	e	0133/line-006.gt.txt
+f	s	0133/line-007.gt.txt
+u	ü	0133/line-007.gt.txt
+ôc	&_	0133/line-007.gt.txt
+&	a	0133/line-007.gt.txt
+f	s	0133/line-008.gt.txt
+ffc	sse	0133/line-008.gt.txt
+â_	ct	0133/line-009.gt.txt
+f	s	0133/line-009.gt.txt
+è	é	0133/line-010.gt.txt
+f	s	0133/line-010.gt.txt
+ôc	 &	0133/line-011.gt.txt
+ô:	 &	0133/line-011.gt.txt
+è	é	0133/line-012.gt.txt
+c	e	0133/line-012.gt.txt
+c	é	0133/line-013.gt.txt
+f	s	0133/line-013.gt.txt
+_	 	0133/line-015.gt.txt
+ ,	__	0133/line-015.gt.txt
+f	s	0133/line-015.gt.txt
+e	é	0133/line-015.gt.txt
+m_	ra	0133/line-016.gt.txt
+ 	_	0133/line-016.gt.txt
+jè	se	0133/line-016.gt.txt
+, I'' Pffl'''	_____________	0133/line-016.gt.txt
+ijflm_	Puisan	0133/line-017.gt.txt
+ 2	__	0133/line-017.gt.txt
+/	_	0133/line-017.gt.txt
+m_	in	0133/line-017.gt.txt
+jbiz	son_	0133/line-017.gt.txt
+t	c	0133/line-017.gt.txt
+f	s	0133/line-017.gt.txt
+x?	st	0133/line-018.gt.txt
+f	s	0133/line-018.gt.txt
+-F	es	0133/line-018.gt.txt
+r?	st	0133/line-019.gt.txt
+(és	&__	0133/line-019.gt.txt
+m_	ns	0133/line-019.gt.txt
+ç	q	0133/line-019.gt.txt
+c	e	0133/line-019.gt.txt
+fl	si	0133/line-020.gt.txt
+fl	st	0133/line-020.gt.txt
+f	s	0133/line-021.gt.txt
+'e	__	0133/line-021.gt.txt
+?	t	0133/line-021.gt.txt
+'u	vé	0133/line-021.gt.txt
+MAX-TIERE	maintenuë	0133/line-021.gt.txt
+@	&	0133/line-021.gt.txt
+m'	ue	0133/line-021.gt.txt
+;	s	0133/line-021.gt.txt
+fñÊIÊÎZJIÊMÏ	sa splendeur	0133/line-022.gt.txt
+Êfl	est	0133/line-022.gt.txt
+_	 	0133/line-022.gt.txt
+cl	d_	0133/line-022.gt.txt
+c	e	0133/line-022.gt.txt
+ci:	as_	0133/line-022.gt.txt
+uîä_	issa	0133/line-023.gt.txt
+_	 	0133/line-023.gt.txt
+r	t	0133/line-023.gt.txt
+öc	&_	0133/line-023.gt.txt
+j	i	0133/line-024.gt.txt
+m	n	0133/line-024.gt.txt
+lï	ss	0133/line-024.gt.txt
+f	s	0133/line-024.gt.txt
+ Alf»:-	_______	0133/line-025.gt.txt
+ 	_	0133/line-025.gt.txt
+f	s	0133/line-025.gt.txt
+ri:-M jlr'c	___________	0133/line-026.gt.txt
+_	 	0133/line-026.gt.txt
+» Jemwhöc_	secours,& 	0133/line-026.gt.txt
+u	n	0133/line-026.gt.txt
+c	e	0133/line-026.gt.txt
+_	 	0133/line-027.gt.txt
+s	S	0133/line-027.gt.txt
+e	é	0133/line-027.gt.txt
+u	U	0133/line-027.gt.txt
+»J	l_	0133/line-027.gt.txt
+ alte-m	_______	0133/line-027.gt.txt
+ji	 R	0133/line-027.gt.txt
+rs_	I S	0133/line-027.gt.txt
+ »ij- 0--	_________	0133/line-028.gt.txt
+flä	ssa	0133/line-028.gt.txt
+m_	ta	0133/line-029.gt.txt
+,	_	0133/line-029.gt.txt
+ Per/z re:,	___________	0133/line-029.gt.txt
+'fi	û__	0133/line-030.gt.txt
+ Cz-. CM-	_________	0133/line-030.gt.txt
+ijrz.	_____	0133/line-031.gt.txt
+l	s	0133/line-031.gt.txt
+f	s	0133/line-031.gt.txt
+cl	d_	0133/line-031.gt.txt
+ mg, k,	_______	0133/line-032.gt.txt
+c	e	0133/line-032.gt.txt
+f	s	0133/line-032.gt.txt
+ê	é	0133/line-033.gt.txt
+e	ë	0133/line-033.gt.txt
+ 	_	0133/line-033.gt.txt
+'...-	e ___	0133/line-033.gt.txt
+e	é	0133/line-033.gt.txt
+ll	st	0133/line-034.gt.txt
+h	j	0133/line-034.gt.txt
+f	s	0133/line-034.gt.txt

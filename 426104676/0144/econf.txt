@@ -1,0 +1,50 @@
+errors          91
+missing          0
+total         1087
+err          8.372 %
+errnomiss    8.372 %
+11	f	s
+5	:	s
+3	 	_
+3	l	s
+2	_	n
+2	z'	i_
+2	;	s
+2	_	s
+1	œ_	oe
+1	7'071	ron__
+1	-	 
+1	n-	uv
+1	,	;
+1	V	v
+1	é	è
+1	ai	e_
+1	u	i
+1	_	r
+1	v	n
+1	fifi	est_
+1	r	s
+1	j	J
+1	f11	su_
+1	è	ê
+1	ñ'	ss
+1	p	m
+1	zi	u_
+1	i	n
+1	[	s
+1	'A	À_
+1	r	;
+1	-	_
+1	À	A
+1	.	-
+1	ll	ss
+1	e	è
+1	fië	rsé
+1	fl'	ss_
+1	z_	s 
+1	fl	ss
+1	t	_
+1	es	é_
+1	a	e
+1	a	_
+0.0837166513339

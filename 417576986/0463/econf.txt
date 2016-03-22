@@ -1,0 +1,156 @@
+errors         525
+missing          0
+total         1001
+err         52.448 %
+errnomiss   52.448 %
+25	c	e
+5	l	s
+4	f	s
+3	r	t
+3	_	 
+3	_	e
+3	 	'
+2	 	_
+2	e	é
+2	n_	re
+2	ll	st
+2	t	r
+2	c	é
+2	s	e
+2	n	a
+2	_	i
+2	e	ê
+2	F_	s'
+2	llc	sie
+1	Jud	C._
+1	 cdf	____
+1	:.	a_
+1	 O	oi
+1	k	t
+1	F_	pe
+1	llc	ise
+1	xl	e_
+1	fui	___
+1	r:	te
+1	ii: 	lâc_
+1	 	e
+1	,1linn,] «	__________
+1	21:111	aussi_
+1	(	s
+1	Wiz_	pre-
+1	£	E
+1	1	é
+1	c.___	esses
+1	c«	e_
+1	cr	ét
+1	a	_
+1	1111	 ou_
+1	p	r
+1	11.	in_
+1	mic5_	utres
+1	mi	nu
+1	 SU« [' l« '''	______________
+1	j7.11?zf]l'!	siastiqu____
+1	1 I	pl_
+1	I	l
+1	:;	à_
+1	c	a
+1	jf	is
+1	»F	,_
+1	n	u
+1	;- 	e__
+1	c:	et
+1	 -	e_
+1	c11 	êm__
+1	'1. c	lise_
+1	P	p
+1	«in	au_
+1	m c_	nne 
+1	mv__	roya
+1	_	p
+1	011	ou_
+1	: 	e_
+1	cl	es
+1	a	e
+1	: (. 5 « i	s_________
+1	 s J c-;:r.P,-z.	ent_____________
+1	'	 
+1	fsc XI- »s-	___________
+1	e ;««I»f IN	a__________
+1	1137.'' (jl-5,	______________
+1	 i ' M'	_______
+1	ö	é
+1	cnn	ema
+1	 r' · '':.1').	______________
+1	 :	0_
+1	llllc 	siste_
+1	]	l
+1	11	u_
+1	s-	rv
+1	-c«7,««	que le_
+1	kjc	tie
+1	-:	e_
+1	pl	q_
+1	 Co »T- ZW-	___________
+1	c	t
+1	,_	; 
+1	Hc	fi
+1	1ch_	être
+1	xn	m_
+1	[m	un
+1	czii	qu'_
+1	m:_	 ne
+1	m	t
+1	cr	ef
+1	x	_
+1	csscr	effet
+1	c	_
+1	ï	l
+1	__	, 
+1	F	p
+1	cl	de
+1	üc_	sie
+1	rc,c-11	te_____
+1	e	r
+1	C	é
+1	 s	__
+1	i	s
+1	;- 	___
+1	(11 	su__
+1	k .	pe_
+1	:	r
+1	11- f	en___
+1	fïan-f- Kir-	____________
+1	:	t
+1	l	i
+1	a_	es
+1	d	 
+1	:111	an _
+1	kjr	it_
+1	H_	II
+1	ic_	le 
+1	s_	e 
+1	fim	dro
+1	co	èg
+1	. 1 _	reten
+1	ECVQ-ntï_	es revenu
+1	ch_	vec
+1	lc	se
+1	e	i
+1	& 	d'
+1	i	ê
+1	(i 	d'_
+1	 klir- m-	_________
+1	r	c
+1	:	0
+1	s-»Es	e____
+1	1.	de
+1	u_	ar
+1	«-M Je	______
+1	x	a
+1	m-r	nef
+1	 f	at
+1	 r_	oit
+1	å	à
+1	_	'
+0.524475524476

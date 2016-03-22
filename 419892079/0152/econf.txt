@@ -1,0 +1,238 @@
+errors         740
+missing          0
+total         3541
+err         20.898 %
+errnomiss   20.898 %
+53	f	s
+24	_	 
+17	 	_
+13	c	e
+10	'	_
+6	fl	st
+4	u	n
+4	û_	st
+4	l	s
+4	.	_
+4	r	t
+4	n	u
+3	P	p
+3	t	r
+3	fl	ss
+3	i'	s_
+3	fc	se
+2	-	 
+2	c_	e 
+2	ë	e
+2	n	_
+2	-	_
+2	i	_
+2	&	/
+2	fl'	ss_
+2	d	_
+2	ll	st
+2	,	_
+2	c	_
+2	j	i
+2	f	_
+2	C	c
+1	fi'f ''	e______
+1	z	.
+1	ô	c
+1	°lls	on,_
+1	k	t
+1	/ol	sd_
+1	mc_	ine
+1	CMOM_	ectio
+1	li	h_
+1	t	l
+1	s	ë
+1	P_	l'
+1	'i'	 r_
+1	flëu' .	nan-___
+1	tié	uc_
+1	d	o
+1	?'	 a
+1	fè	sc
+1	fl'çlj	ssor__
+1	cäow	eau_
+1	i	s
+1	5	3
+1	&_	/ 
+1	 i	p_
+1	«i'	 s_
+1	x	 
+1	_	c
+1	k	r
+1	m	n
+1	'	-
+1	u_	ti
+1	Psks	par_
+1	(	s
+1	''?	n-_
+1	ïi- z	r,___
+1	nië	me_
+1	'i	n_
+1	..	__
+1	l'	s_
+1	iï'	ss_
+1	ä	a
+1	,fl	a__
+1	rc	te
+1	là	fa
+1	llà	ssa
+1	fi	ss
+1	fe 	s__
+1	ô	o
+1	1g	le
+1	_	a
+1	k	p
+1	$	S
+1	V	v
+1	ti	u_
+1	?'' :	e-___
+1	XiÇlçh',	x de____
+1	cm__	er,t
+1	- 	__
+1	fin	sm_
+1	cf	es
+1	i-	e_
+1	&:	à_
+1	-P	p_
+1	i	o
+1	-«11	 n__
+1	t	i
+1	l	t
+1	[W_	iur
+1	îh	i_
+1	ô'ï	ct_
+1	_	q
+1	 -	s_
+1	llîm	ssan
+1	s	_
+1	 '	g_
+1	 :	es
+1	s 	l_
+1	€	e
+1	l	n
+1	fl' 	ers,
+1	 ;	,_
+1	''	__
+1	fi	so
+1	z	:
+1	. 	M_
+1	lI	n_
+1	ocu	gen
+1	fiIX'RCmÇ	sur peine
+1	g	_
+1	c n	qu_
+1	êl' ''	ai-___
+1	_	e
+1	M__	est
+1	ë	c
+1	'	 
+1	_	l
+1	é	e
+1	ç	e
+1	fe	st
+1	m_	ro
+1	.21	à__
+1	'?''	e___
+1	ull	est
+1	fi'	ss_
+1	c	 
+1	:p,	152
+1	v	b
+1	Î	'
+1	FC» .	re-__
+1	li	E_
+1	lfi	ns_
+1	_	&
+1	J;	15
+1	il'	sse
+1	 '?	es,
+1	u	i
+1	_	u
+1	c	t
+1	'''	&__
+1	nl_	ris
+1	ù « -	s,___
+1	ÿ	p
+1	l	I
+1	z	i
+1	 »  ,	_____
+1	ulä	isa
+1	. E	de_
+1	H	n
+1	 	l
+1	n___	tuts
+1	ç	t
+1	l'	f_
+1	__	, 
+1	ö	o
+1	lls	ire
+1	fit-	se__
+1	â__	cht
+1	l'f'fl ''	i________
+1	m__	str
+1	ci	e_
+1	äer 	an__
+1	tt-jem-_	 11.iour
+1	n	a
+1	_	i
+1	m_	na
+1	t	_
+1	qu_	les
+1	?!''	oiet
+1	'e'	ë__
+1	ihr	fl_
+1	J'î	.E_
+1	''	re
+1	ai	us
+1	mch__	niere
+1	r_	 i
+1	?__	'i-
+1	fln	ssa
+1	fckkch	sentes
+1	e	o
+1	rie	no_
+1	î_	 a
+1	l	i
+1	50116	signé
+1	lfâ	its
+1	m	o
+1	l	 
+1	{ti	Iu_
+1	cüf'' »	eurs___
+1	-(	s_
+1	ï-'	f__
+1	i	u
+1	i'	r_
+1	l	f
+1	!?'	tou
+1	l »-	____
+1	lT	ss
+1	li	st
+1	[	s
+1	f'	s_
+1	F	f
+1	t'	c_
+1	n_	r 
+1	h	b
+1	z	,
+1	ià	sa
+1	_	p
+1	«	'
+1	nt'	ur 
+1	å_	ct
+1	ii<f	c___
+1	t-	e_
+1	l-Mk '	Lieu-_
+1	h 	i-
+1	i	 
+1	llc	ue 
+1	 f	s_
+1	îl	n_
+1	u_	it
+1	finc	sme_
+1	n_	,a
+0.208980513979

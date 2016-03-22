@@ -1,0 +1,46 @@
+errors         116
+missing          0
+total         1024
+err         11.328 %
+errnomiss   11.328 %
+30	f	s
+4	æ_	ae
+3	 	_
+3	i	s
+2	iT	ss
+2	e	è
+2	j	i
+2	fl	ss
+1	fï	ss
+1	ilz	st_
+1	:	t
+1	lk	st
+1	e	-
+1	f_	as
+1	s	S
+1	a	à
+1	f 	sp
+1	t	.
+1	ï	_
+1	l	_
+1	o	é
+1	f_	 s
+1	P	s
+1	 B 	E__
+1	H_	si
+1	u	_
+1	€IJ_	e ij
+1	f_	ss
+1	_	 
+1	_	s
+1	g	f
+1	u	ù
+1	öcf	& s
+1	b	h
+1	' 	__
+1	ïæ	ae
+1	. Pc	st__
+1	a	_
+1	 0 	O__
+1	Pc	st
+0.11328125

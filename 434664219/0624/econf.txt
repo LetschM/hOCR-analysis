@@ -1,0 +1,122 @@
+errors         354
+missing          0
+total         1504
+err         23.537 %
+errnomiss   23.537 %
+33	c	e
+14	f	s
+5	_	 
+5	fc	se
+3	_	e
+3	u	n
+2	cu	en
+2	ä	t
+2	u	e
+2	n	_
+2	d_	,i
+2	l	s
+2	a	à
+2	æl_	aes
+2	l	i
+2	li	st
+2	u	ù
+1	___	nt,
+1	h^&95_	fectos
+1	k	t
+1	Æ__	AE 
+1	æ_	ae
+1	li	h_
+1	c_	e 
+1	c«1	q__
+1	ü	u
+1	m_	nt
+1	It	il
+1	ä_	ct
+1	;i	a_
+1	ü	ù
+1	flu	cta
+1	m_	in
+1	ägcmitusc'	e_________
+1	m_	o,
+1	lþ_	spe
+1	(	s
+1	lh	so
+1	im	à,
+1	m	n
+1	ü	s
+1	i	_
+1	 »	__
+1	f_	 s
+1	s''·	 au-
+1	ä-	è_
+1	æc'i	aeq_
+1	m_	ui
+1	III_	dis-
+1	p	_
+1	· «__	Medic
+1	'f'	ir-
+1	i.1	u__
+1	J	j
+1	cE_	efi
+1	i-	r_
+1	__	 i
+1	n_	ii
+1	fcs	ie_
+1	li-	se_
+1	c l	edi
+1	i_	se
+1	ll	st
+1	 '	s-
+1	ä	à
+1	l''_	 in 
+1	P	p
+1	F	f
+1	äPm'_	;poe-
+1	llm_	stra
+1	a	e
+1	OS'''	os in
+1	-C	,c
+1	Uï__	 (si
+1	m_	ta
+1	MEPfo____	animi,cy-
+1	!__	 id
+1	A_	la
+1	ny 	re,
+1	i-'.0	co___
+1	m''	nt,
+1	cj_	e i
+1	tscL	ISQ.
+1	t	r
+1	k	_
+1	z	t
+1	wn_	tur
+1	il	u_
+1	cmü__	entu 
+1	on	OR
+1	 	_
+1	t	,
+1	chï'c	edere
+1	Ul'	ur_
+1	_	i
+1	t	_
+1	'' 0	alo_
+1	l	h
+1	d	j
+1	«mu	ce_
+1	u	i
+1	'	-
+1	cfl	est
+1	r'l	q__
+1	cmc_	erne
+1	ä_	â 
+1	''_	ut 
+1	fg:	se_
+1	lï	u_
+1	(1	si
+1	rm__	t, u
+1	t-	r_
+1	u 	;_
+1	:c	ae
+1	Io	10
+1	ü_	fi
+0.235372340426

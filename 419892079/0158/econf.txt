@@ -1,0 +1,393 @@
+errors        1589
+missing          0
+total         3259
+err         48.757 %
+errnomiss   48.757 %
+49	_	 
+29	f	s
+28	c	e
+25	r	t
+22	'	_
+13	 	_
+8	'	 
+5	t	r
+4	-	_
+4	r_	t 
+4	å_	ct
+4	P	p
+3	-	 
+3	cf	es
+3	é	e
+3	f	_
+3	f_	 s
+3	_	t
+3	h	n
+3	j	i
+3	s	S
+3	r	_
+3	,	_
+3	k	_
+3	lk	st
+3	u	n
+2	è	é
+2	c_	e 
+2	il	s_
+2	c	C
+2	_	e
+2	e	c
+2	t	_
+2	_	s
+2	s	_
+2	h	u
+2	ll	st
+2	î	i
+2	f'c	st_
+2	F	p
+2	c	r
+2	a	_
+2	l	_
+2	â'_	ct 
+2	èf	es
+2	_	r
+2	n	_
+2	_	p
+2	e	é
+2	k	r
+2	ô	o
+2	c'	e 
+2	''	__
+2	î	 
+2	cl	d_
+2	j	_
+1	fäâê'r	______
+1	TANZ- ,	sans___
+1	m	_
+1	f_	as
+1	th_	ont
+1	ä	u
+1	xau	t__
+1	ë	e
+1	J_	,l
+1	on	ib
+1	j' ' ' l	s_______
+1	Defauxqu'd:	Et_________
+1	« 	du
+1	chf_	egis
+1	» ; 	____
+1	lfitæfi » '	Au_________
+1	â:	ct
+1	fq	so
+1	.	_
+1	a	s
+1	k	x
+1	ünlk_	strib
+1	xflj	di__
+1	s Er	____
+1	çç	en
+1	t	i
+1	Fc	x_
+1	 ', s» ,E-l«« » '	_________________
+1	__	di
+1	;	s
+1	skkst '	z pour_
+1	flÿ',	_____
+1	ji	x_
+1	H_	Li
+1	é	s
+1	&''an	à____
+1	jèf_	ier 
+1	l_	i 
+1	'	t
+1	è	e
+1	c	t
+1	cfiv	esp_
+1	 A__	stri
+1	jf	__
+1	z	i
+1	k	a
+1	'éï	ct 
+1	ttk	iss
+1	 	l
+1	J	'
+1	x	r
+1	R_	'A
+1	q	n
+1	w-:	ms_
+1	i	.
+1	œ__	 re
+1	kle	sté
+1	e	o
+1	cg 	op_
+1	gç	at
+1	1,55:	les__
+1	mê_	inc
+1	fre_	si c
+1	Erf	s__
+1	à	s
+1	mc'_	rtic
+1	äk	ct
+1	fc 	se_
+1	r-M de » « « E	______________
+1	rqu	te-
+1	ll	ss
+1	h_	 q
+1	le	t,
+1	    » },	________
+1	re	té
+1	. · k	r____
+1	ggôc	n,&l
+1	j	,
+1	rz	t,
+1	 1__	dict
+1	g_	,a
+1	fi	st
+1	'êc	 &_
+1	à	a
+1	,- ' '' » ''' ' ' ''	____________________
+1	- [ ''	______
+1	lI	h_
+1	â	a
+1	r-r	nt_
+1	'uÇ'	te__
+1	lr	ss
+1	   » ·»  s  » . , .-	____________________
+1	ç?!''	ex-__
+1	fln	soi
+1	fl{	ssi
+1	rs	t 
+1	l	s
+1	rc	te
+1	êfl	est
+1	rll	us_
+1	m_	ni
+1	Zï-	z__
+1	ITo	sse
+1	ï_	s 
+1	foj	sei
+1	îëq'	ieg_
+1	SVICFÔI'l-	s seron___
+1	rlp	tio
+1	;_	qu
+1	kF	ff
+1	'' , ....i ,	____________
+1	cçq	eau
+1	cn	eu
+1	m__	i n
+1	è'	e 
+1	m_	ra
+1	F	t
+1	Cf. -	des__
+1	çf	es
+1	û	_
+1	àg	__
+1	rt	n_
+1	y	r
+1	fcin	squ_
+1	ù_	u 
+1	;	,
+1	athk	____
+1	q	&
+1	s	-
+1	. - « . .«- - - - -I = - - « « :-.I '''''''f	____________________________________________
+1	rl	u_
+1	lim	ure
+1	fè	se
+1	Cc alu	Po____
+1	t	e
+1	fà_	 sa
+1	c_	 G
+1	q	o
+1	l	k
+1	cfi	est
+1	gc_	a C
+1	t!	n_
+1	,--- ,	._____
+1	__	l'
+1	:	t
+1	ç_	t 
+1	l	i
+1	gx	ut
+1	P_	I'
+1	U	n
+1	lïçtg	 heu_
+1	_	y
+1	r	s
+1	 1	di
+1	F	s
+1	i	u
+1	h_	r 
+1	cfl	est
+1	'l	 I
+1	lÿfim	s , S
+1	li	st
+1	D»Wz»««-«»	Et________
+1	ucc_	ne e
+1	fi	E_
+1	E	p
+1	___	str
+1	-m	ut
+1	[309	pou_
+1	dîp'îffffiî « « : q	Po_________________
+1	3	8
+1	gôç-{éf	,& les_
+1	jk	ir
+1	iô	ch
+1	ig	c_
+1	pmçed	â____
+1	€C1	ecl
+1	s-	r,
+1	__	 e
+1	k	t
+1	xr	it
+1	jå_	ict
+1	e	_
+1	g	r
+1	h	a
+1	åöc_	ct &
+1	l'	__
+1	i_	 l
+1	ôGd	& c
+1	ç_	 c
+1	Pc	pr
+1	r__	 iu
+1	èé_	ee 
+1	u''... « 	an_______
+1	(	s
+1	  «Z ,}, «	__________
+1	ev	__
+1	see-»Hu-	Et______
+1	nll	ust
+1	é'	c_
+1	rr	tt
+1	fl   -	._____
+1	Z	_
+1	lc	ie
+1	e-T	os_
+1	le	ts
+1	nä	ic
+1	_	n
+1	B	P
+1	muc_	aire
+1	F	z
+1	-M_	esd
+1	rnFrcsFr	mpte,t__
+1	'd	ti
+1	HJ	sp
+1	-r'	t__
+1	zc	ie
+1	ph_	on 
+1	_	l
+1	gh_	al,
+1	hfc	use
+1	gq	ro
+1	,,	__
+1	cl	 d
+1	c'	e_
+1	ïn	__
+1	desprorô'. - gg	ua_____________
+1	9:13__	sur le
+1	ôc'	 & 
+1	ch1	elu
+1	.  ,	____
+1	lld	sso
+1	_	i
+1	!.q	A__
+1	fi	__
+1	fs « ' « 	*________
+1	xlln_	istri
+1	cmè	enu
+1	êc	te
+1	g_	 p
+1	fc	se
+1	o	_
+1	ikkis «	ffe,___
+1	l	f
+1	» ',	sear
+1	jxty	rro_
+1	çgtfk	eure_
+1	;- Î «	______
+1	p	i
+1	fi	ct
+1	p	 
+1	1&_	ict
+1	«(3-	'of_
+1	[.ch_	Lieu-
+1	N_	Li
+1	 i	e_
+1	ëù	eu
+1	s·cl	d___
+1	fcm__	sera 
+1	lfc	ise
+1	'ä'	a _
+1	tw '..	u-____
+1	fiaë	spe_
+1	å_	gt
+1	en 	___
+1	ô	c
+1	â__	ct 
+1	P_	 p
+1	ûc_	ste
+1	  ',	die_
+1	d	o
+1	 f	oc
+1	fit:	sur_
+1	lzm	son
+1	 _	i-
+1	ç	c
+1	RIGHT -' :	seron_____
+1	-__	pou
+1	m_	ai
+1	û_	ct
+1	r;	dé
+1	o_	e 
+1	pn: » ,	u-_____
+1	''...	ce___
+1	«e,2cl	é ad__
+1	ÿ.	n_
+1	tl	d_
+1	« .	au-
+1	gèt	er_
+1	e	a
+1	L_	l,
+1	F	f
+1	q_	u 
+1	«-	de
+1	g	a
+1	c	 
+1	_	u
+1	är	at
+1	-IF '',	ge_____
+1	ör	ot
+1	llk	ssa
+1	 	'
+1	y	n
+1	â_	ct
+1	fi	,d
+1	flz	st_
+1	b	o
+1	 	m
+1	 ' 	___
+1	!''	,su
+1	 Wes	&c._
+1	g	e
+1	âüfi '	aux___
+1	ï	r
+1	ÿ	_
+1	Y ' » î s- ««'- ' « « - « - « · 	________________________________
+1	'g	t,
+1	flc	t__
+1	fi__	nesc
+1	fg	sa
+1	kj	p_
+1	kt	'i
+1	l_	 i
+1	wallean____	cousts & mi
+1	'fÿ	st_
+1	- , 	q___
+1	H_	ff
+1	c_	rr
+1	sey-l	caus_
+1	de	ca
+1	__	, 
+1	må öc-	inct &
+1	flî	ssi

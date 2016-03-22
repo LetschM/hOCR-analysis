@@ -1,0 +1,73 @@
+errors         192
+missing          0
+total         1496
+err         12.834 %
+errnomiss   12.834 %
+17	f	s
+8	fi	st
+7	_	 
+4	æ_	ae
+2	u	ù
+2	.	_
+2	c	t
+2	u_	 U
+2	e	è
+2	i	s
+2	üf	ùs
+1	V___	Quae
+1	v__	off
+1	öf	ós
+1	m_	ru
+1	m_	IN
+1	a	s
+1	fïz	st_
+1	k	t
+1	m	_
+1	-	 
+1	H_	fl
+1	s-	v_
+1	i	E
+1	a	à
+1	æ/fu_	aesta
+1	m_	nt
+1	'	_
+1	l	f
+1	ii'	ss_
+1	'r	T_
+1	c	e
+1	[	s
+1	d	_
+1	rsi	151
+1	æfi_	aest
+1	il	ís
+1	üæ__	stae
+1	c	_
+1	,_	 ;
+1	af	ás
+1	ii	ù_
+1	r	c
+1	Ll	Q_
+1	(	_
+1	æ_	oe
+1	o	O
+1	M	_
+1	ff	ss
+1	ü	ú
+1	Pafl'	post_
+1	ll	ss
+1	rum-znr	FUNERE_
+1	æli_	aest
+1	e'f	ès_
+1	nm_	HRI
+1	/f	st
+1	 f	s_
+1	XVI-L_	Repub.
+1	i	_
+1	»Es-w	Anno_
+1	l	s
+1	''	__
+1	srx	STI
+1	us_	U S
+1	æf_	aes
+1	ch_	ésq
+0.128342245989

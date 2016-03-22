@@ -1,0 +1,136 @@
+errors         412
+missing          0
+total         2989
+err         13.784 %
+errnomiss   13.784 %
+37	f	s
+26	_	 
+21	 	_
+9	t	r
+6	û_	st
+6	l	s
+4	c	e
+4	å_	ct
+3	fi	st
+3	.	_
+3	fl	st
+3	ll	st
+3	_	-
+2	li	h_
+2	_	t
+2	_	c
+2	û_	ct
+2	e	ë
+2	cf	es
+2	r	t
+2	F	f
+2	fl	ss
+2	u	n
+1	fl	ct
+1	PfOÜl	prou_
+1	-	 
+1	en 	___
+1	ô	c
+1	&	R
+1	P_	 p
+1	ff	ss
+1	l_	 I
+1	t_	r 
+1	.	,
+1	nfilz	ct___
+1	a	o
+1	z	2
+1	-	_
+1	(	s
+1	xk	rt
+1	é'	c_
+1	:	s
+1	éî_	ct 
+1	l'	s_
+1	i	'
+1	1	l
+1	lOl'lS	sions_
+1	tcc	ree
+1	Fri	pa_
+1	Fxe «	stat.
+1	I	l
+1	t	T
+1	q/lf/tgfa'	ests susd_
+1	5_	es
+1	î	'
+1	f'	s_
+1	fl	__
+1	l	_
+1	mm-m-__	cureurs
+1	ËX	EC
+1	n	u
+1	K	R
+1	ti/l'a	u sie_
+1	 f	s_
+1	V	U
+1	''	__
+1	fi	ss
+1	ka_	sts
+1	e'	é_
+1	F	P
+1	'	 
+1	'ôc	 &_
+1	le	st
+1	5,0â_	3.Oct
+1	e	c
+1	_	&
+1	m	u
+1	;	:
+1	-:	e_
+1	c	t
+1	zo	30
+1	k	s
+1	»	_
+1	(''	s__
+1	t	d
+1	TH-	&__
+1	io	10
+1	[_	l'
+1	j	i
+1	t	_
+1	m I	an_
+1	€	_
+1	Ï	I
+1	R_	d'
+1	ï	r
+1	kle	sté
+1	m__	ssi
+1	i	I
+1	m-_	nt 
+1	u	i
+1	s	S
+1	'	-
+1	w_	,v
+1	e_	ic
+1	_	
+1	C.''.CWÔ	erecaud_
+1	;	_
+1	x	c
+1	fl:	___
+1	li	st
+1	[	s
+1	i'	s_
+1	d	a
+1	Il	11
+1	a	e
+1	möe	n,&
+1	T	i
+1	{mi_	cont
+1	KÂÏ_	RACI
+1	l'	v_
+1	ll	ss
+1	;	5
+1	[a	su
+1	Vå___	Quict
+1	flî	ssi
+1	I'	V_
+1	_	1
+1	«- î	p___
+1	PP	pp
+1	u_	at
+0.137838742054

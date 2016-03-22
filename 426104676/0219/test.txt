@@ -1,0 +1,37 @@
+fi	sa	0219/line-002.gt.txt
+i	_	0219/line-002.gt.txt
+s	S	0219/line-002.gt.txt
+f	s	0219/line-004.gt.txt
+l	s	0219/line-006.gt.txt
+f	s	0219/line-006.gt.txt
+il	s-	0219/line-009.gt.txt
+f	s	0219/line-010.gt.txt
+r	t	0219/line-010.gt.txt
+f	s	0219/line-011.gt.txt
+f	s	0219/line-013.gt.txt
+s	_	0219/line-016.gt.txt
+s	_	0219/line-017.gt.txt
+fl	ss	0219/line-017.gt.txt
+..	10	0219/line-018.gt.txt
+f	s	0219/line-018.gt.txt
+_	r	0219/line-019.gt.txt
+I	_	0219/line-019.gt.txt
+'îîgnïœ____	embre 1590.	0219/line-019.gt.txt
+flî	ssi	0219/line-020.gt.txt
+f	s	0219/line-020.gt.txt
+ '	__	0219/line-020.gt.txt
+_	e	0219/line-021.gt.txt
+un 	___	0219/line-021.gt.txt
+f	s	0219/line-021.gt.txt
+î	i	0219/line-022.gt.txt
+f	s	0219/line-022.gt.txt
+_	 	0219/line-023.gt.txt
+f	s	0219/line-023.gt.txt
+£	s	0219/line-023.gt.txt
+f	s	0219/line-024.gt.txt
+f	s	0219/line-025.gt.txt
+I	l	0219/line-026.gt.txt
+er_	ssé	0219/line-026.gt.txt
+fk	st	0219/line-027.gt.txt
+ 	_	0219/line-027.gt.txt
+f	s	0219/line-027.gt.txt

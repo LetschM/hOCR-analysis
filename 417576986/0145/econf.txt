@@ -1,0 +1,150 @@
+errors         457
+missing          0
+total         1047
+err         43.649 %
+errnomiss   43.649 %
+35	c	e
+4	f	s
+4	_	 
+3	r	t
+2	z	a
+2	cf	es
+2	cc	te
+2	_	-
+2	c	t
+2	F	p
+2	j_	 i
+1	: 	t_
+1	lm_	ins
+1	(E_	ént
+1	r	e
+1	k	t
+1	cfc_	e se
+1	aroiJ_	 à tou
+1	 	_
+1	i_	'à
+1	el	és
+1	i	î
+1	iic	lle
+1	«x	&_
+1	LE	êt
+1	jd_	ifi
+1	-	_
+1	:	_
+1	(	s
+1	llIllc	ssiste
+1	m;	au
+1	«:th_	c'est
+1	l	s
+1	__	vé
+1	lj	ti
+1	E_	se
+1	cc_	tes
+1	 o	__
+1	_	a
+1	.	_
+1	chc_	prie
+1	so	__
+1	z	e
+1	r_	ff
+1	cf	él
+1	kl	d_
+1	n-»E	va__
+1	i	_
+1	i	à
+1	u	a
+1	CCL:	célé
+1	:1·.	er,_
+1	iü_	sei
+1	_	x
+1	jc	ie
+1	C	G
+1	&	à
+1	n	u
+1	lïc	sse
+1	llj	ssi
+1	lj	h_
+1	ä	à
+1	x	i
+1	P	p
+1	ä	é
+1	a_	oi
+1	1_	 i
+1	S	a
+1	lr_	it 
+1	_	é
+1	l«	 s
+1	mq	ro
+1	a	e
+1	ch_	eût
+1	cü	eû
+1	c	o
+1	:l	à_
+1	n:	it
+1	!	t
+1	/:::''; '''['-	esiastiq______
+1	Hjc_	fidé
+1	xc	ie
+1	u_	12
+1	cxså	évê_
+1	z	i
+1	File	pub_
+1	;	s
+1	r::0::	c_____
+1	[f	Ec
+1	x	_
+1	«i	d_
+1	c	é
+1	n_	 t
+1	dk	ét
+1	ï	'
+1	 	'
+1	y	n
+1	n	r
+1	;]	n_
+1	.G	fa
+1	i-cur	sent_
+1	ö	ê
+1	e	r
+1	j	i
+1	u«-	iv_
+1	HQ	ff
+1	)	'
+1	n	s
+1	c	.
+1	ex-E	'évê
+1	nd_	uss
+1	(011	son_
+1	:	t
+1	«	'
+1	e	o
+1	f	_
+1	c_	ie
+1	öc	ée
+1	ch	se
+1	QR_	est
+1	i	d
+1	::: '	t____
+1	Is	F_
+1	r_	t 
+1	 vm. ipi-(?,	____________
+1	)''	y__
+1	1«0;1	ou___
+1	s	j
+1	CS	es
+1	nnj_	 mai
+1	ïc_	l'e
+1	ckfi	erst
+1	ich [c	so____
+1	 IF-	____
+1	.1	u_
+1	n_	ma
+1	j	_
+1	jmo	b__
+1	äf	és
+1	cc	er
+1	hlf	asi
+1	zz	o_
+1	å	à
+0.436485195798
+

@@ -1,0 +1,165 @@
+errors         504
+missing          0
+total         3769
+err         13.372 %
+errnomiss   13.372 %
+51	f	s
+33	_	 
+16	 	_
+8	t	r
+7	ll	st
+6	-	 
+6	l'	s_
+6	l	s
+6	u	n
+5	r	t
+5	fl	st
+5	'	_
+4	c	e
+3	fl:	st_
+3	.	 
+2	-	_
+2	i	_
+2	H_	si
+2	F	f
+2	,	_
+2	ç	e
+2	'	 
+2	zo	30
+2	j	i
+2	t	_
+2	ll	ss
+1	_	.
+1	z	,
+1	M	m
+1	zwp__	tus,o
+1	P_	 p
+1	s-Z	t__
+1	.s_	a p
+1	fi	st
+1	o	c
+1	l'c	fe_
+1	;	3
+1	c_	e 
+1	c -	t__
+1	ri	n_
+1	xw_	tur
+1	5	3
+1	l'	__
+1	lle	sté
+1	 ö	o_
+1	g__	 , 
+1	!''	s__
+1	cCV__	té.Qu
+1	m_	on
+1	â	a
+1	a	o
+1	J_	,l
+1	n	i
+1	lf	ss
+1	(r	&_
+1	û_	st
+1	'c'	ë__
+1	'e'	ë _
+1	û_	ct
+1	ôl:	ct_
+1	d_	,I
+1	i	l
+1	_	a
+1	e_	ur
+1	.	_
+1	V	v
+1	u	ü
+1	+	4
+1	1	2
+1	/É	se
+1	éc	et
+1	l	L
+1	r	1
+1	f_	,s
+1	b_	 o
+1	jf	is
+1	l	_
+1	_	x
+1	cm_	ré,
+1	C	G
+1	a_	 A
+1	m'	ni
+1	l_	st
+1	iâ	ct
+1	71m	quo
+1	P	p
+1	j1_	il 
+1	e'	é_
+1	ticqu	deuat
+1	l°	s_
+1	It	si
+1	yik	ru_
+1	F_	f 
+1	llx	st_
+1	_	l
+1	«	_
+1	B	b
+1	tiahl	u 6.M
+1	»Z(f-__	cclesia
+1	7«	qu
+1	- q	I__
+1	x	 
+1	è	e
+1	î	r
+1	e	c
+1	POJU	pour
+1	l'_	ie 
+1	t	u
+1	U	u
+1	(1	ss
+1	l	I
+1	c	t
+1	z'mw_	 iure
+1	il	st
+1	ôf	os
+1	c':	é__
+1	c	_
+1	°	_
+1	fl	si
+1	z	:
+1	ll_	st 
+1	f	_
+1	fl	ss
+1	vfc	 se
+1	.:z'	 d__
+1	i	s
+1	··ft	 pr_
+1	i	e
+1	fl	s_
+1	ï	r
+1	tt	rr
+1	» 	s_
+1	lle-	sté_
+1	n_	rt
+1	ælim__	,estan
+1	u	i
+1	_	r
+1	{	1
+1	__	 a
+1	x_	,t
+1	fl	A_
+1	;	_
+1	m_	tu
+1	i-	s_
+1	fi	ss
+1	f_	 s
+1	P	s
+1	fe	so
+1	'a	à_
+1	fi	,S
+1	r'	t_
+1	l_	 s
+1	i	 
+1	Ät	Ar
+1	lî'	ss_
+1	flî	ssi
+1	E_	f 
+1	x	a
+1	ër	et
+1	amà'w__	ciendus

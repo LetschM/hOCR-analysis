@@ -1,0 +1,62 @@
+errors         147
+missing          0
+total         1240
+err         11.855 %
+errnomiss   11.855 %
+14	f	s
+11	_	 
+9	c	e
+5	e	é
+4	l'	s_
+2	è	é
+2	flä	ssa
+2	i	j
+2	·	_
+2	:	s
+2	_	s
+1	öc	__
+1	s	S
+1	s_	 S
+1	ch_	dev
+1	 	g
+1	__	is
+1	cl	d_
+1	lr	h_
+1	1	2
+1	'	;
+1	;	3
+1	a	à
+1	,_	_-
+1	ü	u
+1	III-IX	& qui_
+1	ô	é
+1	l	f
+1	H_	sa
+1	â_	ct
+1	flmafi	nne___
+1	[	s
+1	s	a
+1	Œ	s
+1	_	n
+1	(e	sé
+1	&	à
+1	-	&
+1	 	.
+1	ll	st
+1	il	:I
+1	z__	 ; 
+1	R_	sc
+1	lf	ss
+1	 	_
+1	F_	n'
+1	cf:	est
+1	-d	al
+1	ll:	st_
+1	r 1	mm_
+1	i	_
+1	û_	ct
+1	l	s
+1	_	e
+1	q	s
+1	ff	ss
+0.118548387097

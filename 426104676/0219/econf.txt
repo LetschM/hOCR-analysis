@@ -1,0 +1,30 @@
+errors          61
+missing          0
+total         1139
+err          5.356 %
+errnomiss    5.356 %
+16	f	s
+2	s	_
+1	£	s
+1	il	s-
+1	fi	sa
+1	s	S
+1	_	r
+1	I	l
+1	un 	___
+1	l	s
+1	r	t
+1	'îîgnïœ____	embre 1590.
+1	I	_
+1	î	i
+1	 	_
+1	_	 
+1	fk	st
+1	..	10
+1	fl	ss
+1	flî	ssi
+1	i	_
+1	er_	ssé
+1	 '	__
+1	_	e
+0.0535557506585

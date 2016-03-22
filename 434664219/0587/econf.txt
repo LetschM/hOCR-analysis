@@ -1,0 +1,177 @@
+errors         529
+missing          0
+total         2238
+err         23.637 %
+errnomiss   23.637 %
+43	_	 
+27	f	s
+17	r	t
+10	c	e
+4	u	ù
+3	ä	â
+3	e	c
+3	n	a
+2	æ_	ae
+2	æü__	aest
+2	z_	ae
+2	.	,
+2	-	_
+2	:	_
+2	(	s
+2	l	s
+2	:	e
+2	ä	à
+2	m_	ra
+2	c	t
+2	t	r
+2	u	i
+2	i'	s_
+2	r	s
+1	rofg__	ipse, 
+1	flE_	sse 
+1	nn_	mqu
+1	n	o
+1	li	h_
+1	II	si
+1	Is	u_
+1	flii	ssu_
+1	erl'lmï-___	i spiritus.
+1	' -]	Ju__
+1	in_	st,
+1	ri-m	:no_
+1	i	î
+1	ä_	â 
+1	a	o
+1	n	_
+1	_	c
+1	ii	à_
+1	rä	tâ
+1	e	t
+1	l	r
+1	- æ	ae_
+1	'e	c_
+1	a_	s 
+1	z__	 : 
+1	ü	s
+1	il_	sse
+1	''m'	 in 
+1	j_	 J
+1	i	_
+1	e_	 c
+1	rc	te
+1	r	i
+1	k_	er
+1	ed_	t ?
+1	 (,., J'F'm	___________
+1	eu_	 co
+1	V	v
+1	ll'	ss_
+1	!!	 E
+1	r_	 t
+1	('	s_
+1	ue	nè
+1	r	_
+1	il'	ss_
+1	c	ć
+1	ö'	__
+1	mc	,n
+1	i	à
+1	?!	à_
+1	ä_	é 
+1	n_	t?
+1	E_	? 
+1	læ	A_
+1	?)	ô_
+1	s	_
+1	ï	i
+1	e'	? 
+1	.	:
+1	_	n
+1	a	u
+1	ll	st
+1	] demum n.,;-	_____________
+1	-sc	: &
+1	l	)
+1	m__	 ut
+1	31	à_
+1	ï'lïc	ne___
+1	r_	se
+1	r	d
+1	_	e
+1	I	E
+1	i'cfx	se si
+1	m_	ta
+1	næ___	stae 
+1	ka	su
+1	iirä	suâ_
+1	i	;
+1	n_	lâ
+1	r.'r	ù___
+1	'	_
+1	»	_
+1	'';	553
+1	e_	cc
+1	m_	or
+1	clr	e h
+1	__	 t
+1	a	_
+1	ö	ò
+1	c	_
+1	a_	ss
+1	__	, 
+1	t	e
+1	xäpv 	_____
+1	?	_
+1	flir	ssu_
+1	.	-
+1	ægri-t	p_____
+1	Inha____	lubet, s
+1	m__	it,
+1	fl'	ss_
+1	(i	q_
+1	i	s
+1	ll	__
+1	fm_	sin
+1	u	n
+1	rf	is
+1	. j	J__
+1	o	ò
+1	 »Es-»M-	________
+1	e	o
+1	il	ss
+1	ä_	 à
+1	C	c
+1	m__	ist
+1	n___	it,s
+1	_	o
+1	(l	d_
+1	!Ef	Aes
+1	t	i
+1	ihrn	sum_
+1	fr__	 si 
+1	l	f
+1	a_	ct
+1	l;u'r	m____
+1	-m__	 , n
+1	'	 
+1	or	et
+1	lï'	ss_
+1	-,	;_
+1	f_	 s
+1	f'	s_
+1	D	P
+1	li	__
+1	n	à
+1	&	_
+1	-_	ae
+1	«	a
+1	m_	tr
+1	eü	cù
+1	fi'c	sse_
+1	;	5
+1	('c	se_
+1	vi	an
+1	ö	è
+1	H_	fi
+1	cl	ù_
+0.2363717605

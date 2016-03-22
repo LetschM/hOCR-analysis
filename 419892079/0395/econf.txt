@@ -1,0 +1,280 @@
+errors        1136
+missing          0
+total         3687
+err         30.811 %
+errnomiss   30.811 %
+66	_	 
+47	f	s
+12	 	_
+8	c	e
+7	ll	st
+6	l	s
+6	'	 
+5	P	p
+4	-	 
+4	r	t
+4	 	'
+3	a	o
+3	.	_
+3	ll'	ss_
+3	u	n
+3	fc	se
+2	i	u
+2	e	_
+2	k	r
+2	m_	us
+2	m_	ni
+2	fi	st
+2	:	c
+2	n	u
+2	1_	 i
+2	'	_
+2	u	i
+2	t	r
+2	ll	ss
+2	j	i
+2	_	i
+2	lk	st
+2	 .	__
+2	u_	it
+2	t	i
+2	h_	li
+2	å_	ct
+2	ll:	st_
+2	f_	 s
+1	 Wiss-»Mwa , « ' ]	__________________
+1	::s	en 
+1	le_	sts
+1	a_	à 
+1	fÇ_	sei
+1	.	à
+1	r	n
+1	»m_	rer
+1	{_	 s
+1	m	_
+1	v	 
+1	frai_	de de
+1	!' RCS, ''(lume	stes visitatio_
+1	ñ_	ff
+1	c_	e 
+1	-44	da_
+1	gez	ou_
+1	q	c
+1	?:  » « l |	___________
+1	 Taxe de: dam-	______________
+1	__	mb
+1	Mkwk_	earum
+1	m_	nc
+1	J ; , 	d_____
+1	,»____	la cha
+1	lalg s'	proc___
+1	t_	r 
+1	nnn	mm_
+1	 WITH O- mrc;	_____________
+1	 'L	___
+1	m_	in
+1	n	_
+1	_	c
+1	mm__	ntra
+1	 ''''' l	________
+1	g	y
+1	' t	r__
+1	(	s
+1	'____	faire
+1	l  	___
+1	 n	u_
+1	û_	st
+1	lr	fi
+1	ÿ_	 v
+1	:	s
+1	l'	s_
+1	ç	_
+1	i	_
+1	s &	nds
+1	ä	a
+1	 - « «	______
+1	_	s
+1	flà	ssa
+1	äi_	 à 
+1	fl'	st_
+1	d	_
+1	nd	xe
+1	_	a
+1	lh'	str
+1	A_	ff
+1	uf_	ù s
+1	,''	eo_
+1	ëxc	ri_
+1	'' ' 	_____
+1	fin	sm_
+1	gr	t_
+1	quæïïz	a loy_
+1	r	_
+1	é	c
+1	t	_
+1	æ	a
+1	_	o
+1	-__	qui
+1	bw_	vus
+1	 ''& ?'''' Piwi:  - ;	_____________________
+1	d_	el
+1	da	oe
+1	l	:
+1	t qUe uandil__	ienda,postquam
+1	Iÿ	R_
+1	 denim... « » k »	_________________
+1	ri	u_
+1	zfl	ist
+1	pmu_	atas
+1	di 	gr_
+1	ul:	 ab
+1	r-»M-_	cuisse
+1	g	r
+1	? THE_	pens,&
+1	lïà	ssa
+1	f	 
+1	n___	atio
+1	nu__	icis
+1	 '  f l	_______
+1	u	_
+1	ê	a
+1	 IÊPOHF__	bre pour 
+1	j}	55
+1	î	i
+1	lÎÇIOI	sseroi
+1	A	a
+1	x	i
+1	m_	ci
+1	flâ	ssa
+1	m_	ra
+1	%	g
+1	;.ï	de_
+1	ug_	ici
+1	'	à
+1	 -	__
+1	fl	st
+1	f	S
+1	ll: pourai	s_________
+1	w__	us 
+1	'''''' Cp	co_______
+1	c'k	 & 
+1	x_	 i
+1	,	_
+1	Ha	qu
+1	.___	port
+1	f__	, s
+1	'ôc	 &_
+1	__	nt
+1	finienddafof	les mots de 
+1	r	i
+1	 Paurquoy ,'' »	-______________
+1	'_	ce
+1	fç.''f''.	 se______
+1	'e	è_
+1	äla_	 que
+1	__	c'
+1	m_	ta
+1	 5	fs
+1	m_	cu
+1	h	_
+1	cc	rr
+1	 E	sp
+1	 ' J	____
+1	8c « l	&_____
+1	mîm_	e iu
+1	e	u
+1	k	p
+1	c	t
+1	&_	ct
+1	__	nd
+1	 _	Ti
+1	rn	m_
+1	a	à
+1	 $;	___
+1	 - : Ÿ	______
+1	lm	a_
+1	 »F	___
+1	ta	fi
+1	 mec 1,	_______
+1	æV_	a v
+1	fn	m 
+1	' 	,_
+1	C	e
+1	ij_	ssi
+1	c	r
+1	|	i
+1	ajff	ostu
+1	b_	il
+1	o_	s,
+1	fl	ss
+1	 	s
+1	__	ti
+1	iî	sa
+1	jk	ir
+1	m_	at
+1	uë	ic
+1	«-m-	ntur
+1	e	é
+1	t	c
+1	F	f
+1	i	r
+1	a_	es
+1	W_	n'
+1	C	c
+1	-	_
+1	1n	m_
+1	M	v
+1	p_	r 
+1	ZF	&_
+1	i· les mots	rapporteur_
+1	t_	,a
+1	r_	t 
+1	m_	io
+1	- rapporte_	dicts & fal
+1	'___	pour
+1	l	f
+1	t_	au
+1	Por	tan
+1	__	f 
+1	éll	qu_
+1	« 'C	c___
+1	 . '	____
+1	[	s
+1	_	:
+1	taîfdîâëcdü'	d'estre renu
+1	-	m
+1	s	_
+1	à?	re
+1	flz	sti
+1	m_	ie
+1	jr	it
+1	t_	 f
+1	o	O
+1	 ' - Us-	________
+1	r-»m-__	ntitate
+1	(P	 p
+1	 fu	si_
+1	 ou	in_
+1	mr____	i fece
+1	}_	 à
+1	-_____	semble
+1	s ...er d...gle, 	_________________
+1	 «	__
+1	;:''_	iurat
+1	'l	q_
+1	«_______	arrester
+1	a lu	r___
+1	e'	é 
+1	ÿ	y
+1	flî	ssi
+1	 »Ja-»Im- ordi- &]	__________________
+1	'. &	ct__
+1	d	a
+1	fiu___	esas,t
+1	-	e
+1	_______________________________	eux seilement , il faut donc ne
+1	{'	s_
+1	m_	iu
+1	Cl	ci
+1	r du roc_	ations ,&
+0.30810957418

@@ -1,0 +1,45 @@
+errors          98
+missing          0
+total         1154
+err          8.492 %
+errnomiss    8.492 %
+10	f	s
+4	:	s
+2	r	s
+2	'a	à_
+1	fi	se
+1	fi	so
+1	) mn:	vous_
+1	______	1615. 
+1	fi	st
+1	li	s_
+1	lîî	ssi
+1	11	II
+1	 	5
+1	z,	s_
+1	â_	ct
+1	j	s
+1	i	î
+1	P	s
+1	FZ	58
+1	K	R
+1	m_	ra
+1	?ÊVÎÏI_	9 Avril
+1	[l	d_
+1	T	_
+1	i/à:	ses_
+1	:	_
+1	59''	&___
+1	_	 
+1	e'	é_
+1	IF	&_
+1	fl	ss
+1	t	_
+1	!	s
+1	lÎ	ss
+1	l	s
+1	''	__
+1	a	e
+1	,	_
+1	;	-
+1	i	e

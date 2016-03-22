@@ -1,0 +1,119 @@
+errors         300
+missing          0
+total         1723
+err         17.411 %
+errnomiss   17.411 %
+17	f	s
+9	_	 
+5	-	_
+3	i	s
+2	_	.
+2	æ_	ae
+2	c	e
+2	a	o
+2	ü_	st
+2	æf_	aes
+2	i	_
+2	'	_
+2	(	_
+2	i	1
+1	t''	i &
+1	ji	st
+1	H.	12
+1	 x	X_
+1	.-	:_
+1	ff	ss
+1	-	 
+1	z	a
+1	(	c
+1	B _	.8.
+1	im/	bus
+1	xxv	XXV
+1	k	r
+1	11_	II 
+1	i-6:_	5.c. 
+1	cccxux_	CCCXIIX
+1	::	x_
+1	g	f
+1	n	X
+1	:	s
+1	cccxx1x	CCCXXIX
+1	6	c
+1	15_	 23
+1	k-E	tè_
+1	(ä'	___
+1	jir/Ja	supe__
+1	i	l
+1	m_	ni
+1	IGA_	 16.
+1	.	_
+1	(I	q_
+1	LON_	i. &
+1	ae_	ctè
+1	æ	a
+1	fcl	sd_
+1	[_	s 
+1	r	1
+1	CKP	cap
+1	1r	c.
+1	!?	b_
+1	_	n
+1	n	u
+1	I	J
+1	5!	y_
+1	lk 	st_
+1	fl	st
+1	'I).	 12_
+1	l_	st
+1	-	.
+1	(waþ_	Ivo p
+1	 a	o_
+1	c	C
+1	_	I
+1	ON	&_
+1	h	_
+1	æ-	ae
+1	::	a_
+1	(	z
+1	'	 
+1	VO)!	vo y
+1	l	I
+1	(''	s__
+1	g	q
+1	il	st
+1	Is	15
+1	7.I	21_
+1	:	r
+1	-je	io_
+1	OR	&_
+1	zo	20
+1	/£	st
+1	fh_	str
+1	e	è
+1	/f	st
+1	j	i
+1	vm__	VIII
+1	11	22
+1	x x 1 	XXI___
+1	i:	s_
+1	wt	vu
+1	C	c
+1	u	i
+1	'u	v_
+1	'oais	ORIS_
+1	eä'	 & 
+1	ihi	stu
+1	«'	d_
+1	m_	tu
+1	[	s
+1	ä	è
+1	q_	.7
+1	(	5
+1	4):	.in
+1	:i	 d
+1	)(	x_
+1	z XII-NEU- j	S___________
+1	[rf___	 Caes.
+1	a;	us
+1	100	Ivo
+0.174114915844

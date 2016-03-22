@@ -1,0 +1,224 @@
+ï	r	0910/line-002.gt.txt
+cf	es	0910/line-002.gt.txt
+t	T	0910/line-002.gt.txt
+d	a	0910/line-002.gt.txt
+;	5	0910/line-002.gt.txt
+ 	_	0910/line-004.gt.txt
+I'	V_	0910/line-004.gt.txt
+ 	_	0910/line-005.gt.txt
+mm-m-__	cureurs	0910/line-005.gt.txt
+{mi_	cont	0910/line-005.gt.txt
+F	P	0910/line-005.gt.txt
+a	o	0910/line-005.gt.txt
+[a	su	0910/line-005.gt.txt
+ti/l'a	u sie_	0910/line-005.gt.txt
+fl	ct	0910/line-006.gt.txt
+I	l	0910/line-006.gt.txt
+q/lf/tgfa'	ests susd_	0910/line-006.gt.txt
+TH-	&__	0910/line-006.gt.txt
+:	s	0910/line-006.gt.txt
+éî_	ct 	0910/line-006.gt.txt
+z	2	0910/line-006.gt.txt
+m I	an_	0910/line-006.gt.txt
+_	1	0910/line-006.gt.txt
+[_	l'	0910/line-006.gt.txt
+u_	at	0910/line-006.gt.txt
+i	I	0910/line-007.gt.txt
+V	U	0910/line-008.gt.txt
+&	R	0910/line-008.gt.txt
+ËX	EC	0910/line-008.gt.txt
+KÂÏ_	RACI	0910/line-008.gt.txt
+K	R	0910/line-008.gt.txt
+Ï	I	0910/line-008.gt.txt
+Fxe «	stat.	0910/line-009.gt.txt
+R_	d'	0910/line-009.gt.txt
+ 	_	0910/line-012.gt.txt
+t_	r 	0910/line-012.gt.txt
+fi	st	0910/line-012.gt.txt
+_	 	0910/line-013.gt.txt
+(''	s__	0910/line-013.gt.txt
+a	e	0910/line-013.gt.txt
+u	n	0910/line-013.gt.txt
+fl	st	0910/line-013.gt.txt
+f	s	0910/line-013.gt.txt
+t	r	0910/line-013.gt.txt
+ll	ss	0910/line-014.gt.txt
+ f	s_	0910/line-014.gt.txt
+c	e	0910/line-014.gt.txt
+li	h_	0910/line-015.gt.txt
+le	st	0910/line-015.gt.txt
+_	c	0910/line-015.gt.txt
+fl:	___	0910/line-015.gt.txt
+5_	es	0910/line-015.gt.txt
+ 	_	0910/line-015.gt.txt
+c	e	0910/line-015.gt.txt
+_	 	0910/line-016.gt.txt
+û_	st	0910/line-016.gt.txt
+l	s	0910/line-017.gt.txt
+û_	st	0910/line-017.gt.txt
+-	_	0910/line-017.gt.txt
+f	s	0910/line-017.gt.txt
+t	r	0910/line-017.gt.txt
+f	s	0910/line-018.gt.txt
+_	 	0910/line-018.gt.txt
+li	h_	0910/line-018.gt.txt
+t	d	0910/line-018.gt.txt
+cf	es	0910/line-018.gt.txt
+w_	,v	0910/line-018.gt.txt
+û_	st	0910/line-019.gt.txt
+m	u	0910/line-019.gt.txt
+;	:	0910/line-019.gt.txt
+f	s	0910/line-019.gt.txt
+.	,	0910/line-019.gt.txt
+l	s	0910/line-019.gt.txt
+m-_	nt 	0910/line-019.gt.txt
+P_	 p	0910/line-019.gt.txt
+ 	_	0910/line-019.gt.txt
+l'	v_	0910/line-019.gt.txt
+_		0910/line-020.gt.txt
+ 	_	0910/line-020.gt.txt
+»	_	0910/line-020.gt.txt
+_	&	0910/line-020.gt.txt
+''	__	0910/line-020.gt.txt
+flî	ssi	0910/line-021.gt.txt
+_	 	0910/line-021.gt.txt
+s	S	0910/line-021.gt.txt
+e_	ic	0910/line-021.gt.txt
+_	 	0910/line-022.gt.txt
+f	s	0910/line-022.gt.txt
+t	r	0910/line-022.gt.txt
+î	'	0910/line-022.gt.txt
+å_	ct	0910/line-023.gt.txt
+c	t	0910/line-023.gt.txt
+f	s	0910/line-024.gt.txt
+j	i	0910/line-024.gt.txt
+e	c	0910/line-024.gt.txt
+ 	_	0910/line-024.gt.txt
+[	s	0910/line-024.gt.txt
+f	s	0910/line-025.gt.txt
+å_	ct	0910/line-025.gt.txt
+-	 	0910/line-025.gt.txt
+u	n	0910/line-025.gt.txt
+ 	_	0910/line-025.gt.txt
+_	 	0910/line-026.gt.txt
+t	_	0910/line-026.gt.txt
+û_	st	0910/line-026.gt.txt
+r	t	0910/line-026.gt.txt
+å_	ct	0910/line-027.gt.txt
+i'	s_	0910/line-027.gt.txt
+fi	st	0910/line-027.gt.txt
+ 	_	0910/line-027.gt.txt
+fl	ss	0910/line-027.gt.txt
+_	 	0910/line-028.gt.txt
+f	s	0910/line-028.gt.txt
+e	ë	0910/line-028.gt.txt
+fi	ss	0910/line-028.gt.txt
+l'	s_	0910/line-028.gt.txt
+f	s	0910/line-029.gt.txt
+û_	st	0910/line-029.gt.txt
+;	_	0910/line-029.gt.txt
+ff	ss	0910/line-029.gt.txt
+_	t	0910/line-029.gt.txt
+fl	__	0910/line-029.gt.txt
+_	 	0910/line-029.gt.txt
+f	s	0910/line-030.gt.txt
+_	 	0910/line-031.gt.txt
+å_	ct	0910/line-031.gt.txt
+_	c	0910/line-031.gt.txt
+m__	ssi	0910/line-031.gt.txt
+f	s	0910/line-031.gt.txt
+_	 	0910/line-032.gt.txt
+û_	ct	0910/line-032.gt.txt
+x	c	0910/line-032.gt.txt
+.	_	0910/line-032.gt.txt
+ 	_	0910/line-032.gt.txt
+zo	30	0910/line-032.gt.txt
+f	s	0910/line-032.gt.txt
+f	s	0910/line-033.gt.txt
+nfilz	ct___	0910/line-033.gt.txt
+Il	11	0910/line-033.gt.txt
+1	l	0910/line-033.gt.txt
+l	_	0910/line-033.gt.txt
+io	10	0910/line-033.gt.txt
+ 	_	0910/line-033.gt.txt
+t	r	0910/line-033.gt.txt
+f	s	0910/line-034.gt.txt
+'ôc	 &_	0910/line-034.gt.txt
+li	st	0910/line-034.gt.txt
+f	s	0910/line-035.gt.txt
+ll	st	0910/line-035.gt.txt
+_	 	0910/line-035.gt.txt
+l_	 I	0910/line-035.gt.txt
+f'	s_	0910/line-036.gt.txt
+_	-	0910/line-036.gt.txt
+kle	sté	0910/line-036.gt.txt
+e'	é_	0910/line-036.gt.txt
+F	f	0910/line-036.gt.txt
+l	s	0910/line-036.gt.txt
+(	s	0910/line-036.gt.txt
+ 	_	0910/line-036.gt.txt
+f	s	0910/line-037.gt.txt
+möe	n,&	0910/line-037.gt.txt
+ 	_	0910/line-037.gt.txt
+t	r	0910/line-037.gt.txt
+_	-	0910/line-038.gt.txt
+fl	st	0910/line-038.gt.txt
+en 	___	0910/line-038.gt.txt
+f	s	0910/line-038.gt.txt
+_	 	0910/line-039.gt.txt
+ 	_	0910/line-039.gt.txt
+i	'	0910/line-039.gt.txt
+ka_	sts	0910/line-039.gt.txt
+ô	c	0910/line-039.gt.txt
+f	s	0910/line-039.gt.txt
+fl	ss	0910/line-039.gt.txt
+f	s	0910/line-040.gt.txt
+n	u	0910/line-040.gt.txt
+û_	st	0910/line-040.gt.txt
+ 	_	0910/line-040.gt.txt
+ll	st	0910/line-041.gt.txt
+_	 	0910/line-041.gt.txt
+l	s	0910/line-041.gt.txt
+fl	st	0910/line-041.gt.txt
+F	f	0910/line-041.gt.txt
+f	s	0910/line-041.gt.txt
+t	r	0910/line-041.gt.txt
+f	s	0910/line-042.gt.txt
+û_	ct	0910/line-042.gt.txt
+c	e	0910/line-042.gt.txt
+_	 	0910/line-048.gt.txt
+_	-	0910/line-048.gt.txt
+lOl'lS	sions_	0910/line-048.gt.txt
+fi	st	0910/line-048.gt.txt
+é'	c_	0910/line-048.gt.txt
+PfOÜl	prou_	0910/line-048.gt.txt
+_	 	0910/line-049.gt.txt
+f	s	0910/line-049.gt.txt
+«- î	p___	0910/line-049.gt.txt
+u	i	0910/line-049.gt.txt
+'	-	0910/line-049.gt.txt
+tcc	ree	0910/line-049.gt.txt
+e	ë	0910/line-050.gt.txt
+.	_	0910/line-050.gt.txt
+r	t	0910/line-050.gt.txt
+ 	_	0910/line-050.gt.txt
+xk	rt	0910/line-050.gt.txt
+f	s	0910/line-050.gt.txt
+k	s	0910/line-050.gt.txt
+ll	st	0910/line-051.gt.txt
+-:	e_	0910/line-051.gt.txt
+t	r	0910/line-051.gt.txt
+_	 	0910/line-052.gt.txt
+5,0â_	3.Oct	0910/line-052.gt.txt
+_	t	0910/line-052.gt.txt
+Vå___	Quict	0910/line-052.gt.txt
+C.''.CWÔ	erecaud_	0910/line-052.gt.txt
+€	_	0910/line-052.gt.txt
+c	e	0910/line-052.gt.txt
+t	r	0910/line-052.gt.txt
+Fri	pa_	0910/line-053.gt.txt
+'	 	0910/line-053.gt.txt
+l	s	0910/line-053.gt.txt
+.	_	0910/line-053.gt.txt
+T	i	0910/line-053.gt.txt
+PP	pp	0910/line-054.gt.txt

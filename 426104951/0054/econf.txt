@@ -1,0 +1,34 @@
+errors          76
+missing          0
+total         1085
+err          7.005 %
+errnomiss    7.005 %
+15	f	s
+3	è	ê
+3	li	st
+3	 	_
+2	.	_
+2	lT	ss
+2	_	 
+1	é	è
+1	ff	ss
+1	fi	st
+1	i'	s_
+1	r	_
+1	i	u
+1	e	ê
+1	l'c	st 
+1	s	_
+1	ssz	 __
+1	-	_
+1	i	f
+1	â_	ct
+1	å_	ct
+1	VII-	DU__
+1	e'	é_
+1	fl	ss
+1	t	_
+1	 »	__
+1	l	s
+1	fe	sé
+1	é	e

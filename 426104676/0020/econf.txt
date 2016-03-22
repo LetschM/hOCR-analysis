@@ -1,0 +1,32 @@
+errors          67
+missing          0
+total         1146
+err          5.846 %
+errnomiss    5.846 %
+13	f	s
+5	 	_
+2	_	 
+1	vf	s_
+1	V	v
+1	ff	ss
+1	ç	_
+1	__	ré
+1	i	o
+1	l'c	st_
+1	[l	si
+1	i	u
+1	ïf	is
+1	c	e
+1	n	_
+1	u	_
+1	xsæsolne	ISTOIRE_
+1	flëflë	ssesse
+1	:	_
+1	\f	v_
+1	fl'	ss_
+1	_	i
+1	fl	ss
+1	i	_
+1	fi	ss
+1	_	s
+0.0584642233857

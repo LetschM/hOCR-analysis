@@ -1,0 +1,171 @@
+errors         492
+missing          0
+total          940
+err         52.340 %
+errnomiss   52.340 %
+9	c	e
+5	r	t
+4	i	r
+3	:	2
+3	.	,
+3	ii	u_
+3	_	e
+3	ii	n_
+2	e	é
+2	a	o
+2	-	_
+2	l	s
+2	e_	'é
+2	f	s
+2	_	r
+1	Id: 6_	Eglise
+1	.'».	ont_
+1	_	.
+1	q	e
+1	ic	le
+1	i_	au
+1	_	d
+1	·	'
+1	»z-	les
+1	s sxx	ng___
+1	€:	è_
+1	i:. ir	sainte
+1	011:	ont_
+1	 	_
+1	z	s
+1	it	f_
+1	1'. 	n___
+1	»Ist-:	terme_
+1	t	é
+1	5	3
+1	ci:	es_
+1	or1.i.1_	 fondé s
+1	''.	___
+1	si	gn
+1	i	j
+1	1««.	sa__
+1	(	s
+1	s	é
+1	liilii»	suspe__
+1	. '	ce_
+1	tui»	for_
+1	. czi	l'égl
+1	*r.a	me__
+1	i	_
+1	.··:-.»««»	abusé_____
+1	mis_	elle
+1	_	s
+1	VCIhOX' i	version__
+1	-:·	72_
+1	_	a
+1	Z :	32_
+1	.	_
+1	I :	le_
+1	__	to
+1	il	s_
+1	6''	&__
+1	cf	es
+1	lch	s ,
+1	1	2
+1	r	_
+1	ll.	st_
+1	i-	r_
+1	c	a
+1	l	_
+1	!	_
+1	s	_
+1	.ii::	ans _
+1	i	n
+1	[Jr/.f	sainte
+1	i-:	rt_
+1	dr	ât
+1	n	u
+1	H	t
+1	c·	é_
+1	011	on_
+1	:	e
+1	 ''' 	cr___
+1	cll	est
+1	m.	nd
+1	.111011.11	ourquoi___
+1	_	 
+1	(ic	de_
+1	His	au_
+1	cl	es
+1	....' 	é_____
+1	.-7:311;	ement ,_
+1	c	t
+1	j	g
+1	. 	__
+1	ii 	___
+1	^' .	or__
+1	a	d
+1	8:	&_
+1	:	3
+1	8111	Sur_
+1	s it	en__
+1	; kn'.-11:	palement__
+1	»s«:	ég__
+1	c;.	été
+1	n,:	me_
+1	»	_
+1	THR__	prin-
+1	Picix	prem_
+1	il	st
+1	Di	m_
+1	z	t
+1	.;_	que
+1	c	é
+1	b	ê
+1	ni	qu
+1	»_	ré
+1	t	s
+1	iss	égl
+1	d	é
+1	Q	g
+1	 »li 	ébr__
+1	f_	se
+1	x	r
+1	1	s
+1	i	s
+1	»	e
+1	0211	ont_
+1	5711	S'il
+1	L cii:	C'est_
+1	:	t
+1	i:	n_
+1	e	o
+1	c 	__
+1	m'':_	iture
+1	k	_
+1	.i	â_
+1	cl	d_
+1	^	a
+1	1_	 t
+1	-.i	u__
+1	U.-	c__
+1	d_	ct
+1	f:	&_
+1	s	n
+1	zo;	303
+1	_	v
+1	ic	e_
+1	r-10.	ix a_
+1	1'1 	vr__
+1	a	e
+1	i	t
+1	ke-	té_
+1	ium	'on
+1	.'.111111011:	comment______
+1	___	t q
+1	.x. rm. D	l'éveq___
+1	iic	né_
+1	n	m
+1	F: S	pre_
+1	I	t
+1	.111'1.11.197	eur loi, to__
+1	_	l
+1	'	l
+1	c«	ê_
+1	ii:«c·.c	nte fai_
+0.523404255319

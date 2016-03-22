@@ -1,0 +1,136 @@
+errors         444
+missing          0
+total          994
+err         44.668 %
+errnomiss   44.668 %
+31	c	e
+5	f	s
+4	n	u
+4	_	 
+3	(	s
+3	r	t
+3	c	t
+2	_	.
+2	:	e
+2	ä	à
+2	ä	é
+2	:	t
+1	LLc	ue_
+1	38	&_
+1	öc	__
+1	 m	__
+1	fïm: j	strati
+1	E)	b_
+1	ïc	e_
+1	nLs	ble
+1	n	o
+1	6r0j:_	étoit 
+1	:n	m_
+1	U l	ns_
+1	P_	l'
+1	Lc	ve
+1	11k	nt 
+1	Lb (ch	dre___
+1	J Po	poss
+1	-n- c	me___
+1	C*ö	c'é
+1	5	3
+1	sik	ul_
+1	«	g
+1	k	r
+1	cr	et
+1	 E »Es , «	__________
+1	 '''' l'' '	___________
+1	&	a
+1	-1«ill	nast__
+1	c.:	e__
+1	CH:	est
+1	m r	___
+1	(IIC	que_
+1	ck	er
+1	tc_	le 
+1	_	s
+1	_	a
+1	E	I
+1	II :O	jo___
+1	jï	si
+1	fa_	nse
+1	h	e
+1	-T	ti
+1	k·0j	foi_
+1	ïlfc	'use
+1	H 	__
+1	Ic	le
+1	r:-	___
+1	'O_	les
+1	m_	pt
+1	ür	ût
+1	&	à
+1	o	e
+1	cn	eu
+1	ïde	l__
+1	in	m_
+1	(l	__
+1	F	f
+1	m- 3 ; '5	in_______
+1	i-	è_
+1	«	a
+1	L	e
+1	»sc-	ye__
+1	is	ll
+1	 L	u_
+1	c'	é_
+1	m_	ta
+1	Pc	pe
+1	kc	le
+1	_	-
+1	lïc	sse
+1	''alf-__	commende
+1	gy	qu
+1	'	_
+1	c	é
+1	timm	onn_
+1	: 	i_
+1	c- 	er_
+1	 	'
+1	0n	ou
+1	 	_
+1	d	é
+1	·	_
+1	m_	an
+1	zx (	____
+1	a__	u'à
+1	FUIT-c	fusse_
+1	_	i
+1	ht-d	laré
+1	 viv	____
+1	e	o
+1	nc	le
+1	öc	ée
+1	m:	au
+1	3119 (S	é______
+1	fc	se
+1	non	___
+1	rf. (. u.	te-______
+1	g	é
+1	[113	mê__
+1	He__	été 
+1	jï	st
+1	 V .-,	______
+1	'L	u_
+1	f's1____	solument
+1	L:	et
+1	ä	è
+1	£x	fa
+1	 _	se
+1	af	oi
+1	____	amné
+1	gk; 	____
+1	m_	rs
+1	s.1.c	ue___
+1	I	t
+1	fkc	ste
+1	mc__	rnez
+1	. ij_	issan
+1	_	'
+0.446680080483

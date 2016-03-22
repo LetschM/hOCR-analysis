@@ -1,0 +1,26 @@
+errors          45
+missing          0
+total         1072
+err          4.198 %
+errnomiss    4.198 %
+12	f	s
+3	ff	ss
+3	 	_
+2	s	_
+1	u	û
+1	p	e
+1	l'c	st_
+1	_	.
+1	'	 
+1	p	_
+1	è	ê
+1	e	_
+1	ll	st
+1	l	f
+1	l	s
+1	s	i
+1	lf	ss
+1	c	e
+1	Ch	Q_
+1	L_	I.
+0.0419776119403

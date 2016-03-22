@@ -1,0 +1,80 @@
+ 	_	0035/line-002.gt.txt
+ J	A_	0035/line-002.gt.txt
+ J 	A__	0035/line-002.gt.txt
+ ! G-	IO___	0035/line-002.gt.txt
+-,	;_	0035/line-003.gt.txt
+m	-	0035/line-004.gt.txt
+Pf	ps	0035/line-004.gt.txt
+f	s	0035/line-005.gt.txt
+i	_	0035/line-006.gt.txt
+_	 	0035/line-006.gt.txt
+ä_	ct	0035/line-006.gt.txt
+_	,	0035/line-006.gt.txt
+G	g	0035/line-006.gt.txt
+(	s	0035/line-007.gt.txt
+u	n	0035/line-007.gt.txt
+d_	cl	0035/line-008.gt.txt
+e	_	0035/line-008.gt.txt
+__	is	0035/line-008.gt.txt
+_	J	0035/line-009.gt.txt
+-''*	____	0035/line-009.gt.txt
+l	s	0035/line-009.gt.txt
+i	_	0035/line-009.gt.txt
+l	h	0035/line-009.gt.txt
+'	_	0035/line-009.gt.txt
+o	ò	0035/line-010.gt.txt
+i-f	rs_	0035/line-010.gt.txt
+;	.	0035/line-010.gt.txt
+f	s	0035/line-011.gt.txt
+fl	ss	0035/line-011.gt.txt
+;	.	0035/line-012.gt.txt
+o	ò	0035/line-012.gt.txt
+;	-	0035/line-012.gt.txt
+å	t	0035/line-013.gt.txt
+_	e	0035/line-013.gt.txt
+-	_	0035/line-013.gt.txt
+æ_	ae	0035/line-014.gt.txt
+:	e	0035/line-014.gt.txt
+f	s	0035/line-014.gt.txt
+ll	st	0035/line-015.gt.txt
+ «	__	0035/line-015.gt.txt
+ 	_	0035/line-016.gt.txt
+d	_	0035/line-016.gt.txt
+«	-	0035/line-016.gt.txt
+f	s	0035/line-017.gt.txt
+_	n	0035/line-017.gt.txt
+;	_	0035/line-017.gt.txt
+l	s	0035/line-017.gt.txt
+ .	__	0035/line-017.gt.txt
+ x	__	0035/line-018.gt.txt
+llii	ssu_	0035/line-018.gt.txt
+ 	X	0035/line-018.gt.txt
+_	-	0035/line-018.gt.txt
+P	p	0035/line-020.gt.txt
+f	s	0035/line-020.gt.txt
+-	_	0035/line-020.gt.txt
+fl	st	0035/line-021.gt.txt
+f	t	0035/line-021.gt.txt
+P	p	0035/line-021.gt.txt
+f	s	0035/line-021.gt.txt
+'-	__	0035/line-022.gt.txt
+ü	ù	0035/line-022.gt.txt
+e	è	0035/line-023.gt.txt
+pc	st	0035/line-024.gt.txt
+t	r	0035/line-024.gt.txt
+,-	;_	0035/line-024.gt.txt
+'	_	0035/line-024.gt.txt
+ä	_	0035/line-025.gt.txt
+_	t	0035/line-025.gt.txt
+lf	ss	0035/line-026.gt.txt
+u	ù	0035/line-026.gt.txt
+z	,	0035/line-026.gt.txt
+f	s	0035/line-027.gt.txt
+æ_	ae	0035/line-027.gt.txt
+.	_	0035/line-027.gt.txt
+å	à	0035/line-027.gt.txt
+fl'	st_	0035/line-028.gt.txt
+.	_	0035/line-029.gt.txt
+f	s	0035/line-029.gt.txt
+' 	__	0035/line-030.gt.txt
+ff	ss	0035/line-030.gt.txt

@@ -1,0 +1,45 @@
+ VII-«	______	0054/line-002.gt.txt
+.	_	0054/line-003.gt.txt
+i	f	0054/line-003.gt.txt
+f	s	0054/line-003.gt.txt
+s	_	0054/line-004.gt.txt
+-	_	0054/line-004.gt.txt
+t	_	0054/line-005.gt.txt
+ff	ss	0054/line-005.gt.txt
+li	st	0054/line-005.gt.txt
+_	 	0054/line-006.gt.txt
+i	u	0054/line-007.gt.txt
+ »	__	0054/line-008.gt.txt
+li	st	0054/line-008.gt.txt
+_	 	0054/line-010.gt.txt
+è	ê	0054/line-010.gt.txt
+l	s	0054/line-011.gt.txt
+f	s	0054/line-011.gt.txt
+fl	ss	0054/line-012.gt.txt
+e	ê	0054/line-013.gt.txt
+è	ê	0054/line-014.gt.txt
+å_	ct	0054/line-015.gt.txt
+é	è	0054/line-017.gt.txt
+f	s	0054/line-018.gt.txt
+ 	_	0054/line-018.gt.txt
+r	_	0054/line-018.gt.txt
+f	s	0054/line-019.gt.txt
+e'	é_	0054/line-022.gt.txt
+ 	_	0054/line-022.gt.txt
+f	s	0054/line-022.gt.txt
+lT	ss	0054/line-023.gt.txt
+è	ê	0054/line-023.gt.txt
+ssz	 __	0054/line-024.gt.txt
+f	s	0054/line-025.gt.txt
+.	_	0054/line-025.gt.txt
+li	st	0054/line-025.gt.txt
+lT	ss	0054/line-026.gt.txt
+fe	sé	0054/line-026.gt.txt
+l'c	st 	0054/line-026.gt.txt
+â_	ct	0054/line-026.gt.txt
+f	s	0054/line-027.gt.txt
+fi	st	0054/line-027.gt.txt
+f	s	0054/line-028.gt.txt
+i'	s_	0054/line-028.gt.txt
+ 	_	0054/line-028.gt.txt
+é	e	0054/line-028.gt.txt

@@ -1,0 +1,151 @@
+errors         515
+missing          0
+total         1237
+err         41.633 %
+errnomiss   41.633 %
+12	_	 
+6	f	s
+6	 	_
+5	c	e
+5	i	r
+4	e	é
+3	 	'
+3	_	'
+2	_	,
+2	j	s
+2	u	_
+2	P	p
+2	fl	st
+2	1'	r_
+2	z	i
+2	j	i
+2	11	n_
+1	11	la
+1	'<:	,__
+1	11.	 il
+1	111155136515_	sa place , &c
+1	v	 
+1	1'11	ar__
+1	1'c1	rer_
+1	c_	e 
+1	cm	e_
+1	111	n__
+1	D	p
+1	till	uss_
+1	...110111E	savoir l'e
+1	1	s
+1	q	g
+1	JFFJME ris-	uissance du
+1	P c	Re_
+1	111	m__
+1	Fum__	Princ
+1	616111111161-	d'eux qu'el__
+1	j	a
+1	ikkn_	nt pa
+1	L.O-..l	ubliq__
+1	m_	un
+1	f	c
+1	a);	uy_
+1	e 111	éja__
+1	: c	sé_
+1	l	s
+1	_	s
+1	fe	sé
+1	lle	Ré_
+1	_	a
+1	 ''	us 
+1	 cPc	'est
+1	': 1111111	rdinal____
+1	(111611111111_	que distin___-
+1	r	_
+1	{	s
+1	m:_	ant
+1	11111111111	puissan____
+1	oc	&_
+1	H7pzxzs_	est soûm
+1	fæ	__
+1	.111	an__
+1	È_	se
+1	.1	à_
+1	c'11	est 
+1	me_	nsé
+1	n	u
+1	11101116:	prové____
+1	Èfz	bli
+1	On	Qu
+1	j_	sp
+1	m__	172
+1	011	on_
+1	 1	u_
+1	@:	&_
+1	1Ç-1111111	lésiastiq_
+1	sic	fe_
+1	ll	st
+1	; z	a__
+1	-I1	nt 
+1	_	e
+1	t	f
+1	;	r
+1	.;	a_
+1	ciä	est
+1	11 	en_
+1	BC11111'11'1111	 bellarmin_____
+1	11	si
+1	jli	ist
+1	IMMng_	raison
+1	m m	cré
+1	:1	à_
+1	_	-
+1	(m_	sen
+1	u	i
+1	vic:	yée_
+1	&	,
+1	 E	'e
+1	k	s
+1	c'	e_
+1	mm__	autr
+1	urn	ûm_
+1	i	c
+1	JDI 	épu_
+1	sr	g_
+1	il	à_
+1	1	r
+1	(U;-u	cont_
+1	1_	en
+1	i	e
+1	'_	 l
+1	i 	ï_
+1	__	li
+1	1 	r_
+1	e	_
+1	r	t
+1	ic	re
+1	;.-1	ti__
+1	a''	ée_
+1	11	&_
+1	8311111131:	Séculiers__
+1	1'	 s
+1	xl	is
+1	F	s
+1	:-;; 	nt___
+1	cum_	erne
+1	d	u
+1	ef)'' »Hm-W	épublique__
+1	lT	ss
+1	CH:__	n'est
+1	 :	e_
+1	f	ï
+1	1 	__
+1	111111111116	siastique___
+1	8:13_	 & la
+1	m'' ;; E	ritue___
+1	13_	le 
+1	n_	ct
+1	W_	un
+1	va	le
+1	,1111'011'	savoir____
+1	__	, 
+1	ll:	st_
+1	N_	bl
+1	 ;	u_
+0.416329830234

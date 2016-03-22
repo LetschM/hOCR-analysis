@@ -1,0 +1,168 @@
+jï	st	0459/line-001.gt.txt
+jï	si	0459/line-001.gt.txt
+5	3	0459/line-001.gt.txt
+m:	au	0459/line-001.gt.txt
+gy	qu	0459/line-001.gt.txt
+af	oi	0459/line-001.gt.txt
+c.:	e__	0459/line-002.gt.txt
+fïm: j	strati	0459/line-002.gt.txt
+c	e	0459/line-002.gt.txt
+C*ö	c'é	0459/line-002.gt.txt
+. ij_	issan	0459/line-003.gt.txt
+tc_	le 	0459/line-003.gt.txt
+II :O	jo___	0459/line-003.gt.txt
+cr	et	0459/line-003.gt.txt
+f	s	0459/line-003.gt.txt
+c	e	0459/line-003.gt.txt
+_	.	0459/line-004.gt.txt
+Lb (ch	dre___	0459/line-004.gt.txt
+timm	onn_	0459/line-004.gt.txt
+CH:	est	0459/line-004.gt.txt
+c- 	er_	0459/line-004.gt.txt
+ä	à	0459/line-004.gt.txt
+m_	pt	0459/line-004.gt.txt
+_	'	0459/line-004.gt.txt
+ür	ût	0459/line-005.gt.txt
+&	a	0459/line-005.gt.txt
+_	a	0459/line-005.gt.txt
+is	ll	0459/line-005.gt.txt
+c	é	0459/line-005.gt.txt
+:	t	0459/line-005.gt.txt
+I	t	0459/line-005.gt.txt
+He__	été 	0459/line-005.gt.txt
+-n- c	me___	0459/line-005.gt.txt
+ 	'	0459/line-005.gt.txt
+f	s	0459/line-006.gt.txt
+&	à	0459/line-006.gt.txt
+nLs	ble	0459/line-006.gt.txt
+11k	nt 	0459/line-006.gt.txt
+ L	u_	0459/line-006.gt.txt
+L:	et	0459/line-006.gt.txt
+J Po	poss	0459/line-006.gt.txt
+U l	ns_	0459/line-007.gt.txt
+ E »Es , «	__________	0459/line-007.gt.txt
+:	e	0459/line-007.gt.txt
+ck	er	0459/line-007.gt.txt
+ 	_	0459/line-007.gt.txt
+: 	i_	0459/line-007.gt.txt
+c	e	0459/line-007.gt.txt
+c	t	0459/line-008.gt.txt
+·	_	0459/line-008.gt.txt
+nc	le	0459/line-008.gt.txt
+ V .-,	______	0459/line-008.gt.txt
+Lc	ve	0459/line-008.gt.txt
+c	e	0459/line-009.gt.txt
+38	&_	0459/line-009.gt.txt
+_	 	0459/line-009.gt.txt
+öc	__	0459/line-009.gt.txt
+lïc	sse	0459/line-009.gt.txt
+n	u	0459/line-009.gt.txt
+ '''' l'' '	___________	0459/line-009.gt.txt
+r	t	0459/line-009.gt.txt
+»sc-	ye__	0459/line-011.gt.txt
+g	é	0459/line-011.gt.txt
+c	t	0459/line-011.gt.txt
+«	g	0459/line-011.gt.txt
+E)	b_	0459/line-011.gt.txt
+gk; 	____	0459/line-011.gt.txt
+f	s	0459/line-011.gt.txt
+c	e	0459/line-011.gt.txt
+_	.	0459/line-012.gt.txt
+ä	à	0459/line-012.gt.txt
+n	u	0459/line-012.gt.txt
+öc	ée	0459/line-012.gt.txt
+c	e	0459/line-012.gt.txt
+d	é	0459/line-012.gt.txt
+:	e	0459/line-013.gt.txt
+_	i	0459/line-013.gt.txt
+____	amné	0459/line-014.gt.txt
+«	a	0459/line-014.gt.txt
+f's1____	solument	0459/line-014.gt.txt
+'O_	les	0459/line-014.gt.txt
+''alf-__	commende	0459/line-014.gt.txt
+ht-d	laré	0459/line-016.gt.txt
+E	I	0459/line-016.gt.txt
+H 	__	0459/line-016.gt.txt
+c	t	0459/line-016.gt.txt
+(IIC	que_	0459/line-016.gt.txt
+ä	é	0459/line-016.gt.txt
+m- 3 ; '5	in_______	0459/line-016.gt.txt
+(	s	0459/line-016.gt.txt
+fc	se	0459/line-016.gt.txt
+rf. (. u.	te-______	0459/line-017.gt.txt
+_	 	0459/line-017.gt.txt
+-1«ill	nast__	0459/line-017.gt.txt
+r:-	___	0459/line-017.gt.txt
+Ic	le	0459/line-017.gt.txt
+6r0j:_	étoit 	0459/line-017.gt.txt
+s.1.c	ue___	0459/line-017.gt.txt
+-T	ti	0459/line-017.gt.txt
+c	e	0459/line-017.gt.txt
+:n	m_	0459/line-017.gt.txt
+c	e	0459/line-018.gt.txt
+n	o	0459/line-018.gt.txt
+FUIT-c	fusse_	0459/line-018.gt.txt
+mc__	rnez	0459/line-018.gt.txt
+:	t	0459/line-018.gt.txt
+n	u	0459/line-019.gt.txt
+sik	ul_	0459/line-019.gt.txt
+c	e	0459/line-019.gt.txt
+ä	é	0459/line-019.gt.txt
+[113	mê__	0459/line-019.gt.txt
+c	e	0459/line-020.gt.txt
+P_	l'	0459/line-020.gt.txt
+a__	u'à	0459/line-020.gt.txt
+ m	__	0459/line-020.gt.txt
+F	f	0459/line-020.gt.txt
+f	s	0459/line-020.gt.txt
+c	e	0459/line-021.gt.txt
+zx (	____	0459/line-021.gt.txt
+kc	le	0459/line-021.gt.txt
+o	e	0459/line-021.gt.txt
+c	e	0459/line-022.gt.txt
+ä	è	0459/line-022.gt.txt
+'	_	0459/line-022.gt.txt
+r	t	0459/line-022.gt.txt
+_	 	0459/line-023.gt.txt
+£x	fa	0459/line-023.gt.txt
+m r	___	0459/line-023.gt.txt
+in	m_	0459/line-023.gt.txt
+k·0j	foi_	0459/line-023.gt.txt
+0n	ou	0459/line-023.gt.txt
+c	e	0459/line-023.gt.txt
+r	t	0459/line-023.gt.txt
+c	e	0459/line-024.gt.txt
+L	e	0459/line-024.gt.txt
+'L	u_	0459/line-025.gt.txt
+c'	é_	0459/line-025.gt.txt
+LLc	ue_	0459/line-025.gt.txt
+Pc	pe	0459/line-025.gt.txt
+m_	an	0459/line-026.gt.txt
+ viv	____	0459/line-026.gt.txt
+h	e	0459/line-026.gt.txt
+ _	se	0459/line-026.gt.txt
+i-	è_	0459/line-026.gt.txt
+(l	__	0459/line-026.gt.txt
+c	e	0459/line-027.gt.txt
+3119 (S	é______	0459/line-027.gt.txt
+_	 	0459/line-027.gt.txt
+ïlfc	'use	0459/line-027.gt.txt
+e	o	0459/line-027.gt.txt
+c	e	0459/line-028.gt.txt
+m_	rs	0459/line-028.gt.txt
+ïc	e_	0459/line-028.gt.txt
+fkc	ste	0459/line-028.gt.txt
+_	s	0459/line-028.gt.txt
+m_	ta	0459/line-029.gt.txt
+(	s	0459/line-029.gt.txt
+n	u	0459/line-029.gt.txt
+c	e	0459/line-029.gt.txt
+c	e	0459/line-030.gt.txt
+fa_	nse	0459/line-030.gt.txt
+ïde	l__	0459/line-030.gt.txt
+cn	eu	0459/line-030.gt.txt
+(	s	0459/line-031.gt.txt
+_	-	0459/line-031.gt.txt
+k	r	0459/line-031.gt.txt
+c	e	0459/line-031.gt.txt
+non	___	0459/line-031.gt.txt

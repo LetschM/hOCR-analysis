@@ -1,0 +1,89 @@
+ïz_	ssa	0074/line-001.gt.txt
+f	_	0074/line-001.gt.txt
+c	e	0074/line-001.gt.txt
+1	2	0074/line-001.gt.txt
+,:	a_	0074/line-001.gt.txt
+l	_	0074/line-003.gt.txt
+f	s	0074/line-004.gt.txt
+ 	_	0074/line-004.gt.txt
+lt	s_	0074/line-004.gt.txt
+__	st	0074/line-004.gt.txt
+ê	é	0074/line-005.gt.txt
+ä	à	0074/line-005.gt.txt
+u	û	0074/line-006.gt.txt
+f	s	0074/line-006.gt.txt
+ll	st	0074/line-008.gt.txt
+i	_	0074/line-008.gt.txt
+é	e	0074/line-008.gt.txt
+f	s	0074/line-009.gt.txt
+I	l	0074/line-009.gt.txt
+-	_	0074/line-009.gt.txt
+'f	s_	0074/line-009.gt.txt
+ 	_	0074/line-010.gt.txt
+îa	s_	0074/line-010.gt.txt
+_	 	0074/line-011.gt.txt
+'	 	0074/line-011.gt.txt
+l'	ie	0074/line-011.gt.txt
+_	 	0074/line-012.gt.txt
+}	?	0074/line-012.gt.txt
+e	é	0074/line-012.gt.txt
+leI	ssû	0074/line-013.gt.txt
+fi	ss	0074/line-013.gt.txt
+c	r	0074/line-013.gt.txt
+xfi'c	nst__	0074/line-014.gt.txt
+le	nd	0074/line-014.gt.txt
+m_	nt	0074/line-014.gt.txt
+n	 	0074/line-014.gt.txt
+f	s	0074/line-016.gt.txt
+i'	r_	0074/line-016.gt.txt
+Gl__	est 	0074/line-017.gt.txt
+-L	z,	0074/line-017.gt.txt
+ess	côt	0074/line-017.gt.txt
+Z	i	0074/line-018.gt.txt
+ch__	a Be	0074/line-018.gt.txt
+_	 	0074/line-018.gt.txt
+öc	 &	0074/line-018.gt.txt
+-	_	0074/line-018.gt.txt
+_	 	0074/line-019.gt.txt
+m_	ra	0074/line-019.gt.txt
+lîä	ssa	0074/line-019.gt.txt
+e	_	0074/line-019.gt.txt
+€	e	0074/line-020.gt.txt
+:	_	0074/line-020.gt.txt
+m	n	0074/line-021.gt.txt
+u	U	0074/line-021.gt.txt
+s_	 S	0074/line-021.gt.txt
+s	S	0074/line-021.gt.txt
+å_	ct	0074/line-022.gt.txt
+18_	I S	0074/line-022.gt.txt
+v	y	0074/line-023.gt.txt
+e	r	0074/line-023.gt.txt
+f	s	0074/line-023.gt.txt
+M	m	0074/line-024.gt.txt
+è	 	0074/line-025.gt.txt
+V__	Quo	0074/line-025.gt.txt
+qu_	osp	0074/line-026.gt.txt
+_	 	0074/line-026.gt.txt
+'f	s_	0074/line-026.gt.txt
+e	ë	0074/line-027.gt.txt
+h	o	0074/line-027.gt.txt
+_	 	0074/line-028.gt.txt
+ 	_	0074/line-028.gt.txt
+il''?	dre__	0074/line-029.gt.txt
+Mäl'	mar_	0074/line-029.gt.txt
+_	t	0074/line-029.gt.txt
+lè	se	0074/line-029.gt.txt
+fe	so	0074/line-030.gt.txt
+an	ms	0074/line-030.gt.txt
+u	ù	0074/line-030.gt.txt
+i	o	0074/line-031.gt.txt
+f	s	0074/line-031.gt.txt
+fi	st	0074/line-031.gt.txt
+ll	st	0074/line-032.gt.txt
+_	 	0074/line-032.gt.txt
+-	 	0074/line-032.gt.txt
+e	_	0074/line-032.gt.txt
+é	e	0074/line-032.gt.txt
+K	c	0074/line-034.gt.txt
+;	s	0074/line-034.gt.txt
+'	_	0074/line-034.gt.txt

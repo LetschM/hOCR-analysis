@@ -1,0 +1,162 @@
+errors         706
+missing          0
+total          913
+err         77.327 %
+errnomiss   77.327 %
+5	c	e
+3	j	i
+2	e	é
+2	:	s
+2	l	s
+2	.L	a_
+2	c	t
+2	L'	r_
+2	_	o
+1	_	.
+1	LL	dé
+1	LLLL'	par__
+1	11	la
+1	L'L..'.LLL.L.L	création______
+1	its-. m :;	affaires__
+1	':	e_
+1	LI	la
+1	(.L'»	Ces__
+1	e	_
+1	, LLLLLLL'	fournir___
+1	W__	tax
+1	Af	M_
+1	L( -S	1628_
+1	LLLL'L	furent
+1	s»-»	&___
+1	 :	73
+1	OL!	ou_
+1	.LLLc L 	v_______
+1	.	,
+1	LLL.L	uta__
+1	rchj_	terna
+1	n	_
+1	LLL.L	créa_
+1	L'LL:.L'«':	charge_____
+1	nf	s_
+1	rr	tt
+1	ä	s
+1	k	t
+1	l l»	se__
+1	x8_	eve
+1	__	if
+1	L	r
+1	CLLLL 	qu'___
+1	a	_
+1	l lT	ss__
+1	LL	ut
+1	.L	à_
+1	i	l
+1	l_	bv
+1	rj	ti
+1	« .LLLLc	lusieurs
+1	hLL	qu_
+1	j__	mes
+1	L	_
+1	L'L'L'CL'L'LLL»:	receveurs_______
+1	L'CV-LLLLL'E	eveurs______
+1	LLLL'	sur__
+1	chLLLLLLLL	extraordi_
+1	c 1l	____
+1	L'L'LL	reu___
+1	ner LL_	rétabli
+1	L	i
+1	l	_
+1	cg	eç
+1	r	t
+1	LLLLLL'L'L'L'	diocese______
+1	LL:L'	par__
+1	:.3L';:	clergé_
+1	LL'.	de__
+1	:	e
+1	e_	ép
+1	m?'':::1:kkc	lissement___
+1	P	p
+1	LLFLLL'LLLL'S	officiers____
+1	L;;	en_
+1	LL_	tio
+1	»«»-x''	cev____
+1	.*..	du__
+1	III	les
+1	_	e
+1	ct	er
+1	_	l
+1	I	E
+1	0e	gé
+1	I	a
+1	DHICTUS__	Officiers
+1	si	dé
+1	»J	al
+1	e_	t 
+1	c_	re
+1	 c	__
+1	L'LLLL	con___
+1	L	e
+1	U	u
+1	LLLLLLLLLL:	disposition
+1	un_	cha
+1	km L.:	chaque
+1	e .LLL'L	inaire__
+1	.LL'LLLL'	avoir____
+1	LLL	un_
+1	es.1	éta_
+1	U__	ect
+1	mv_	nry
+1	cum th	fo____
+1	9	0
+1	tLLL.LL'LL' .LLL	au______________
+1	s	e
+1	l«.-.I	haque_
+1	t	s
+1	LXL1L'LOHDL'LL1_	 pour fournir la
+1	'CLLLLLLLL	subvention
+1	i	s
+1	 La	___
+1	u POLIEIOLL .	ìmposition___
+1	lH_	ssi
+1	c C	e__
+1	;LLLL	au___
+1	Y 	VI
+1	L .N.''	jus____
+1	LO'LI	pour_
+1	L LL '.LL: L.LLL. 	nominat___________
+1	L:	le
+1	L'VL'Oï'iL'yï	évêques______
+1	 .:_	iere
+1	.L: LLLLLLL LL'L	suppri__________
+1	Ic-	re_
+1	L'	re
+1	EL	la
+1	'.L__	 créa
+1	c	é
+1	0H1_	offi
+1	r/	__
+1	.LLLLL'i	Alors___
+1	L'LLL1.L	enna____
+1	cis	en_
+1	8	s
+1	1·«»-	re.__
+1	LLL.	____
+1	kun	aor
+1	1_	on
+1	o	O
+1	 j	i_
+1	LL*LLL	sont__
+1	.LLLLL'LL.L	alternatif_
+1	. cL	1557
+1	L.L	la_
+1	.1	a_
+1	D.''!L	par___
+1	g	s
+1	IIL'I	1621_
+1	LLL'LLL;	deux____
+1	_	'
+1	LLL	su_
+1	 'r'LLL...ï	ettoient___
+1	 ï	__
+1	mLLLLLL	faisoit
+0.773274917853

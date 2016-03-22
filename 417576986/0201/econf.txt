@@ -1,0 +1,126 @@
+errors         365
+missing          0
+total         1006
+err         36.282 %
+errnomiss   36.282 %
+20	c	e
+5	r	t
+4	j	i
+3	f	s
+3	_	 
+3	ö	é
+3	u	n
+2	(	s
+2	(c	sé
+2	ä	'
+2	Ic	le
+2	s	_
+2	fc	sé
+2	å	à
+2	u	_
+2	_	e
+2	c	_
+2	d	é
+2	:	t
+2	fc	se
+2	jr	it
+2	ü	û
+2	_	'
+1	cTc	ése
+1	cu	en
+1	II	à_
+1	L-	ê_
+1	k	t
+1	h-	te
+1	·c	__
+1	öcä	été
+1	äC_	é é
+1	JI 	e__
+1	ms_	ina
+1	hariol	l'évêq
+1	cc	et
+1	 EDU- aff.	__________
+1	m_	in
+1	jchj__	iffici
+1	xï	il
+1	fd	sé
+1	o'': f	s_____
+1	n_	 a
+1	zsc	; &
+1	!	l
+1	l	s
+1	hH-7.I,7.-7.sir	clesiastique___
+1	(e'	fé_
+1	rc	te
+1	_	s
+1	fe	sé
+1	8(	& 
+1	i	l
+1	_	a
+1	jfkc	iste
+1	iu	ûj
+1	5	S
+1	cc	te
+1	uc	e_
+1	r	_
+1	d_	el
+1	nl:	oit
+1	.1	à_
+1	k	e
+1	i	t
+1	c'_	évê
+1	''	__
+1	ä	à
+1	:: 	t__
+1	P	p
+1	ä	é
+1	uf	ns
+1	h_	la
+1	j	u
+1	t	f
+1	ic	&_
+1	',	; 
+1	cmc_	ente
+1	 f't	____
+1	 24 M*'',	_________
+1	f	û
+1	ï	_
+1	-	r
+1	m/	uv
+1	t	r
+1	_____	ement
+1	c	é
+1	I- 	1__
+1	f_	'e
+1	C	é
+1	x	r
+1	n	a
+1	_	i
+1	c-	en
+1	MAX-w_	au dro
+1	us	re
+1	e'	é_
+1	zx	ai
+1	ä_	 à
+1	z_	 ;
+1	u	i
+1	i_	Hv
+1	m_	it
+1	w	_
+1	)	9
+1	 l· 16:21''	___________
+1	s	a
+1	Er	êt
+1	',	;_
+1	me 	ixé
+1	s	e
+1	 Tc	el_
+1	cd_	e é
+1	2	a
+1	T_	i'
+1	ch_	esi
+1	ch_	éfi
+1	'	é
+1	[PL f	s____
+1	III_	très
+0.36282306163

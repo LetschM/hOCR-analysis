@@ -1,0 +1,259 @@
+errors         902
+missing          0
+total         2266
+err         39.806 %
+errnomiss   39.806 %
+58	c	e
+28	_	 
+9	f	s
+9	æ_	ae
+4	c_	e 
+4	-	_
+3	.	,
+3	r	t
+3	'	_
+3	 «	__
+2	n_	ti
+2	m	_
+2	c_	 e
+2	m_	tu
+2	m_	in
+2	(	s
+2	_	a
+2	n	o
+2	ö	ò
+2	_	u
+2	l	I
+2	t	e
+2	u	o
+2	cü_	est
+2	_	,
+2	m_	,a
+2	t	i
+2	_	e
+2	u	ù
+2	i	s
+1	!?	st
+1	chi___	re, su
+1	(h	su
+1	r	e
+1	___	s a
+1	gn_	pti
+1	ü_	u 
+1	u!	c_
+1	d'-Nu:	e_____
+1	Hi-	sse
+1	h	s
+1	ï	u
+1	» Icllj	tem____
+1	ïc	ie
+1	h_	id
+1	m?''__	nxisti
+1	 , « , »	________
+1	u__	t i
+1	t	z
+1	mi_	orr
+1	 , .	____
+1	rn-_	tere
+1	xü__	aest
+1	äöc_	è & 
+1	l	i
+1	H__	si,
+1	q	s
+1	i	î
+1	ch-_	est,
+1	miærcm_	 aetern
+1	_	t
+1	P	?
+1	nd_	lla
+1	m_	o,
+1	i'æl'b	raesu_
+1	o	O
+1	(j	q_
+1	n_	rr
+1	lu	hi
+1	thm_	prin
+1	m	d
+1	m_	us
+1	_	N
+1	æii_	aest
+1	i/nmi_	ur,quî
+1	u_	rr
+1	:	s
+1	51	Si
+1	5_	 S
+1	ama	st_
+1	z	:
+1	) F	p__
+1	or	ne
+1	(''c	se__
+1	i	l
+1	äï	?S
+1	n	a
+1	.	_
+1	 ' - »	______
+1	u'-	tè_
+1	«. Oe	Ca___
+1	-m-	uia
+1	lh_	se:
+1	Hm_	sua
+1	 ,-	___
+1	cf	es
+1	5	S
+1	('	s_
+1	n-»	re,
+1	rfrc_	 esse
+1	cn_	eri
+1	g_	c 
+1	xt-O_	ar , 
+1	cöc_	e & 
+1	'cü_	 est
+1	t'	e_
+1	(hirc	salte
+1	lll	su_
+1	uhærcm___	ab aetern
+1	ili	s__
+1	BU	?D
+1	fl	ú_
+1	cks.i	eba__
+1	ch__	esse
+1	o	e
+1	tsc_	IS C
+1	.'' Haman___	statuis.Sic 
+1	-ur-	ant.
+1	s-n	el_
+1	c:m_	eari
+1	rk	et
+1	s	i
+1	cü	eu
+1	u	n
+1	u-u	ri_
+1	cn'	err
+1	___	o,a
+1	Ur	De
+1	þl	d_
+1	F	f
+1	clþn	espo
+1	x_	ae
+1	illl	ru__
+1	a	e
+1	l'c	ser
+1	c	t
+1	_	l
+1	I	E
+1	vEIN-S	rota _
+1	''',''	rem___
+1	'i;£'	,è __
+1	s16k1c	nflue_
+1	il-urcm	sentent
+1	Br_	Et 
+1	m_	ta
+1	m)	uo
+1	n_	,i
+1	c(''_	ate s
+1	m_	ui
+1	crn	em 
+1	!	t
+1	ii	 h
+1	--	._
+1	h_	 p
+1	Hirt-Ich	Ecquid__
+1	 Pmlm J,	________
+1	mc__	itte
+1	cf	e?
+1	ll_	rat
+1	iu	lo
+1	n-_	ae 
+1	m	t
+1	' ''	te__
+1	k	_
+1	ö	ë
+1	cqv	ò p
+1	ærcm__	aetern
+1	-_	d,
+1	i	â
+1	j	i
+1	- injïuxu/zri-	______________
+1	'' M	ces,
+1	m_	re
+1	m_	a,
+1	xg	te
+1	 	_
+1	.	-
+1	güc_	e,De
+1	ü_	st
+1	kcz_	 te;
+1	 '''''4'43-	___________
+1	f	,
+1	mc	ta
+1	__	si
+1	(i	q_
+1	uri-.	ntè _
+1	-int	dux_
+1	s_	? 
+1	::	e_
+1	u_	 a
+1	um_	ina
+1	l	j
+1	ï.	i-
+1	nc_	ue,
+1	__	t?
+1	tc	re
+1	iun	aci
+1	m_	ru
+1	u-	a_
+1	k	,
+1	u	i
+1	e	o
+1	so	a_
+1	szm_	ó ro
+1	hüc_	t,De
+1	ö««-. »Mit-	nar________
+1	cö.	tè,
+1	cc	te
+1	mm/ad	ternu
+1	r	s
+1	fc_	 se
+1	cmö_	etuò
+1	nding___	t est ap
+1	c_	e,
+1	(i	o 
+1	a_	ct
+1	mþ_	rup
+1	mra_	inco
+1	öc	 &
+1	li	st
+1	ini	lat
+1	f_	 s
+1	ü_	sa
+1	'.''	in__
+1	mïr_	nu c
+1	uc_	 ne
+1	cu_	e n
+1	c_	 C
+1	n___	rit,
+1	h_	li
+1	mr_	uae
+1	lfc	sse
+1	n__	, i
+1	nm_	o, 
+1	m_	,u
+1	cm__	erti
+1	t	r
+1	0_	 O
+1	C	G
+1	_	o
+1	ö	o
+1	o____	 dixe
+1	[)(-	De__
+1	(1_	 si
+1	ll	ji
+1	fi	â_
+1	m_	rò
+1	fi'	st_
+1	c(l'c	esse_
+1	ra	to
+1	ui	to
+1	N	_
+1	ö	ó
+0.398058252427

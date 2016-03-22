@@ -1,0 +1,92 @@
+errors         302
+missing          0
+total         1277
+err         23.649 %
+errnomiss   23.649 %
+20	f	s
+6	c	e
+6	_	 
+4	e	é
+3	 	_
+2	è	é
+2	s	S
+2	l	s
+2	e'	é_
+2	â_	ct
+2	cl	d_
+1	m_	ns
+1	 Alf»:-	_______
+1	 alte-m	_______
+1	 »ij- 0--	_________
+1	li	h_
+1	ffc	sse
+1	Êfl	est
+1	flä	ssa
+1	rs_	I S
+1	 mg, k,	_______
+1	m_	in
+1	ô:	 &
+1	'...-	e ___
+1	-F	es
+1	..._	 121
+1	lÎ	ss
+1	 Cz-. CM-	_________
+1	m	n
+1	&	a
+1	?	t
+1	ê	é
+1	e	ë
+1	x?	st
+1	u	ü
+1	 2	__
+1	ôc	&_
+1	h	j
+1	tz	u_
+1	ç	q
+1	r	t
+1	ll	st
+1	fl	st
+1	m'	ue
+1	ôc	 &
+1	;	s
+1	öc	&_
+1	m_	ra
+1	»J	l_
+1	ji	 R
+1	,	_
+1	g	a
+1	, I'' Pffl'''	_____________
+1	m_	ta
+1	» Jemwhöc_	secours,& 
+1	@	&
+1	 Per/z re:,	___________
+1	'	 
+1	'e	__
+1	c	é
+1	c	_
+1	ijflm_	Puisan
+1	C	e
+1	ä	i
+1	fl	si
+1	'u	vé
+1	j	i
+1	(és	&__
+1	jbiz	son_
+1	u	n
+1	t	c
+1	ci:	as_
+1	r	s
+1	u	U
+1	ri	n_
+1	ri:-M jlr'c	___________
+1	lï	ss
+1	jè	se
+1	fñÊIÊÎZJIÊMÏ	sa splendeur
+1	ijrz.	_____
+1	 ,	__
+1	'fi	û__
+1	uîä_	issa
+1	/	_
+1	MAX-TIERE	maintenuë
+1	r?	st
+0.236491777604

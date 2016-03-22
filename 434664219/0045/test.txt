@@ -1,0 +1,231 @@
+X	I	0045/line-001.gt.txt
+X	E	0045/line-001.gt.txt
+_	 	0045/line-001.gt.txt
+H_	11	0045/line-001.gt.txt
+_	 	0045/line-002.gt.txt
+f	s	0045/line-002.gt.txt
+in	ut	0045/line-002.gt.txt
+a_	ct	0045/line-002.gt.txt
+æ_	ae	0045/line-002.gt.txt
+_	e	0045/line-002.gt.txt
+-m__	are,	0045/line-002.gt.txt
+r	_	0045/line-002.gt.txt
+r	t	0045/line-002.gt.txt
+f'	s_	0045/line-003.gt.txt
+_	 	0045/line-003.gt.txt
+l_	 s	0045/line-003.gt.txt
+l'	s_	0045/line-003.gt.txt
+l	t	0045/line-003.gt.txt
+e	c	0045/line-003.gt.txt
+c	e	0045/line-003.gt.txt
+l1æ_	 hae	0045/line-003.gt.txt
+æ_	ae	0045/line-004.gt.txt
+a	à	0045/line-004.gt.txt
+u_	ra	0045/line-004.gt.txt
+t	r	0045/line-004.gt.txt
+f	s	0045/line-004.gt.txt
+k_	sc	0045/line-004.gt.txt
+;	.	0045/line-005.gt.txt
+«	 	0045/line-005.gt.txt
+»t	r_	0045/line-005.gt.txt
+i	j	0045/line-005.gt.txt
+'ö	ò_	0045/line-005.gt.txt
+(:	si	0045/line-005.gt.txt
+Vö_	Quò	0045/line-005.gt.txt
+r	t	0045/line-006.gt.txt
+f'	s_	0045/line-006.gt.txt
+u	ù	0045/line-006.gt.txt
+t-m	ent	0045/line-006.gt.txt
+ü_	st	0045/line-006.gt.txt
+l	i	0045/line-006.gt.txt
+æ_	ae	0045/line-006.gt.txt
+g	-	0045/line-006.gt.txt
+ 	_	0045/line-006.gt.txt
+___	, à	0045/line-007.gt.txt
+_	 	0045/line-007.gt.txt
+-	_	0045/line-007.gt.txt
+l	I	0045/line-007.gt.txt
+n	_	0045/line-007.gt.txt
+l'	s_	0045/line-007.gt.txt
+_	 	0045/line-009.gt.txt
+l	s	0045/line-009.gt.txt
+f	c	0045/line-009.gt.txt
+._	, 	0045/line-009.gt.txt
+c	e	0045/line-009.gt.txt
+f	s	0045/line-009.gt.txt
+f	s	0045/line-010.gt.txt
+,	 	0045/line-010.gt.txt
+_	 	0045/line-010.gt.txt
+ä	ë	0045/line-010.gt.txt
+n	b	0045/line-010.gt.txt
+m__	: u	0045/line-010.gt.txt
+:	e	0045/line-010.gt.txt
+m	_	0045/line-010.gt.txt
+rfl	iss	0045/line-010.gt.txt
+c	e	0045/line-011.gt.txt
+.- ,	____	0045/line-011.gt.txt
+cfr	esi	0045/line-011.gt.txt
+n	o	0045/line-011.gt.txt
+ 	_	0045/line-011.gt.txt
+i	s	0045/line-011.gt.txt
+c	e	0045/line-012.gt.txt
+,	 	0045/line-012.gt.txt
+_	 	0045/line-012.gt.txt
+f	s	0045/line-012.gt.txt
+cf	es	0045/line-013.gt.txt
+_	o	0045/line-013.gt.txt
+cj	q_	0045/line-013.gt.txt
+s,	._	0045/line-013.gt.txt
+m_	nt	0045/line-013.gt.txt
+_	 	0045/line-014.gt.txt
+ö_	e 	0045/line-014.gt.txt
+f	s	0045/line-014.gt.txt
+.	,	0045/line-015.gt.txt
+fl.	st,	0045/line-015.gt.txt
+l	f	0045/line-015.gt.txt
+ö	ó	0045/line-015.gt.txt
+_	 	0045/line-016.gt.txt
+l'l	Ph_	0045/line-016.gt.txt
+nö	uò	0045/line-016.gt.txt
+i	_	0045/line-016.gt.txt
+f	s	0045/line-016.gt.txt
+&	è	0045/line-016.gt.txt
+z	;	0045/line-017.gt.txt
+io	a_	0045/line-017.gt.txt
+_	 	0045/line-017.gt.txt
+cc	te	0045/line-017.gt.txt
+s	u	0045/line-017.gt.txt
+r	a	0045/line-018.gt.txt
+cll'c	esse_	0045/line-018.gt.txt
+_	 	0045/line-019.gt.txt
+m__	ssi	0045/line-019.gt.txt
+f	s	0045/line-019.gt.txt
+r	t	0045/line-019.gt.txt
+ü_	u 	0045/line-020.gt.txt
+_	 	0045/line-020.gt.txt
+fi	s_	0045/line-020.gt.txt
+öc_	 & 	0045/line-020.gt.txt
+_	 	0045/line-021.gt.txt
+(''	f__	0045/line-021.gt.txt
+r	e	0045/line-021.gt.txt
+.	,	0045/line-021.gt.txt
+fcl	ser	0045/line-022.gt.txt
+o	e	0045/line-022.gt.txt
+.	_	0045/line-022.gt.txt
+r	t	0045/line-022.gt.txt
+('	s_	0045/line-022.gt.txt
+e_	è 	0045/line-022.gt.txt
+r	t	0045/line-023.gt.txt
+-L	è 	0045/line-023.gt.txt
+n_	 a	0045/line-023.gt.txt
+b	c	0045/line-023.gt.txt
+Fæ_	sae	0045/line-023.gt.txt
+V	v	0045/line-023.gt.txt
+_	 	0045/line-024.gt.txt
+u_	tì	0045/line-024.gt.txt
+ri	a_	0045/line-024.gt.txt
+f	s	0045/line-024.gt.txt
+m____	tes;a	0045/line-024.gt.txt
+cuc	ene	0045/line-024.gt.txt
+G_	si	0045/line-024.gt.txt
+,	_	0045/line-024.gt.txt
+a	_	0045/line-024.gt.txt
+r	t	0045/line-024.gt.txt
+ü_	si	0045/line-025.gt.txt
+i	r	0045/line-025.gt.txt
+-	_	0045/line-025.gt.txt
+æ_	ae	0045/line-025.gt.txt
+t-h	os,	0045/line-025.gt.txt
+_	i	0045/line-025.gt.txt
+ö	ò	0045/line-026.gt.txt
+_	 	0045/line-026.gt.txt
+g-	,_	0045/line-026.gt.txt
+cf	es	0045/line-026.gt.txt
+c_	,&	0045/line-026.gt.txt
+f	s	0045/line-026.gt.txt
+Uns-	aeta	0045/line-026.gt.txt
+_	 	0045/line-027.gt.txt
+re	tè	0045/line-027.gt.txt
+('	s_	0045/line-027.gt.txt
+öt	 &	0045/line-027.gt.txt
+cü	eu	0045/line-027.gt.txt
+m__	t;a	0045/line-027.gt.txt
+c	e	0045/line-027.gt.txt
+m_	,n	0045/line-028.gt.txt
+_	 	0045/line-028.gt.txt
+(	s	0045/line-028.gt.txt
+fl	st	0045/line-028.gt.txt
+f	s	0045/line-028.gt.txt
+r	t	0045/line-028.gt.txt
+_	 	0045/line-029.gt.txt
+i-	è 	0045/line-029.gt.txt
+rx	si	0045/line-029.gt.txt
+öBtf_	è & s	0045/line-029.gt.txt
+m_	nt	0045/line-029.gt.txt
+t	r	0045/line-029.gt.txt
+clï'ef	ess,s_	0045/line-030.gt.txt
+il'	ss_	0045/line-030.gt.txt
+_	 	0045/line-030.gt.txt
+;	e	0045/line-030.gt.txt
+.	-	0045/line-030.gt.txt
+'l'	 s_	0045/line-030.gt.txt
+f	s	0045/line-030.gt.txt
+f	s	0045/line-031.gt.txt
+m_	,n	0045/line-031.gt.txt
+_	 	0045/line-031.gt.txt
+e	c	0045/line-031.gt.txt
+ä	e	0045/line-031.gt.txt
+c	e	0045/line-031.gt.txt
+:i	a_	0045/line-032.gt.txt
+.	-	0045/line-032.gt.txt
+zk	;s	0045/line-032.gt.txt
+ü	u	0045/line-032.gt.txt
+(l	st	0045/line-032.gt.txt
+R_	st	0045/line-032.gt.txt
+_	e	0045/line-032.gt.txt
+a	t	0045/line-032.gt.txt
+f	s	0045/line-033.gt.txt
+f'	s_	0045/line-033.gt.txt
+På	pá	0045/line-033.gt.txt
+cz_	e; 	0045/line-033.gt.txt
+mæ__	,cae	0045/line-033.gt.txt
+_	 	0045/line-034.gt.txt
+cr	et	0045/line-034.gt.txt
+fe	sc	0045/line-035.gt.txt
+ «	__	0045/line-035.gt.txt
+_	 	0045/line-035.gt.txt
+f	s	0045/line-035.gt.txt
+r_	t 	0045/line-035.gt.txt
+c_	e 	0045/line-036.gt.txt
+_	 	0045/line-036.gt.txt
+-	_	0045/line-036.gt.txt
+ü_	ct	0045/line-036.gt.txt
+g	;	0045/line-036.gt.txt
+c	e	0045/line-036.gt.txt
+r	t	0045/line-036.gt.txt
+a_	ct	0045/line-037.gt.txt
+m_	nt	0045/line-037.gt.txt
+f	s	0045/line-037.gt.txt
+ö	ò	0045/line-038.gt.txt
+r;	n_	0045/line-039.gt.txt
+ö	ë	0045/line-039.gt.txt
+ll_	st 	0045/line-039.gt.txt
+r	t	0045/line-039.gt.txt
+f	s	0045/line-039.gt.txt
+i	s	0045/line-039.gt.txt
+____-	esen_	0045/line-040.gt.txt
+r	s	0045/line-040.gt.txt
+æ-(En_	aesert	0045/line-040.gt.txt
+f	s	0045/line-040.gt.txt
+Jst-f	, p__	0045/line-040.gt.txt
+i	s	0045/line-040.gt.txt
+a	â	0045/line-040.gt.txt
+g	o	0045/line-040.gt.txt
+ä	â	0045/line-040.gt.txt
+ll	st	0045/line-041.gt.txt
+(	s	0045/line-041.gt.txt
+_	 	0045/line-041.gt.txt
+-	_	0045/line-041.gt.txt
+ü_	si	0045/line-041.gt.txt
+m_	nt	0045/line-041.gt.txt
+fc	se	0045/line-041.gt.txt

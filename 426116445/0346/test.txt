@@ -1,0 +1,115 @@
+r	I	0346/line-001.gt.txt
+sæxrus	SEXTUS	0346/line-001.gt.txt
+rocus	LOGUS	0346/line-001.gt.txt
+1	2	0346/line-001.gt.txt
+_	 	0346/line-002.gt.txt
+ 	_	0346/line-002.gt.txt
+t	r	0346/line-002.gt.txt
+_	 	0346/line-003.gt.txt
+I	J	0346/line-004.gt.txt
+ra_	t à	0346/line-004.gt.txt
+ü_	st	0346/line-004.gt.txt
+a	g	0346/line-005.gt.txt
+f	s	0346/line-005.gt.txt
+f	s	0346/line-006.gt.txt
+lï	ss	0346/line-007.gt.txt
+_	 	0346/line-007.gt.txt
+_	 	0346/line-008.gt.txt
+li	ss	0346/line-008.gt.txt
+IO_	lo-	0346/line-008.gt.txt
+V___	Qui 	0346/line-008.gt.txt
+_	 	0346/line-009.gt.txt
+ä_	ct	0346/line-009.gt.txt
+öl	ct	0346/line-010.gt.txt
+fl	ss	0346/line-010.gt.txt
+fl	st	0346/line-012.gt.txt
+f	s	0346/line-013.gt.txt
+i	_	0346/line-013.gt.txt
+fl	ct	0346/line-013.gt.txt
+H_	ss	0346/line-013.gt.txt
+xxxrx	XXXIX	0346/line-013.gt.txt
+»Ei-	octo	0346/line-013.gt.txt
+æn	ae	0346/line-014.gt.txt
+»Hm-»-_	octavum	0346/line-014.gt.txt
+ö'	& 	0346/line-014.gt.txt
+_	u	0346/line-014.gt.txt
+m_	ta	0346/line-015.gt.txt
+a	o	0346/line-015.gt.txt
+m_	nt	0346/line-015.gt.txt
+f	s	0346/line-015.gt.txt
+/f	st	0346/line-015.gt.txt
+z	t	0346/line-016.gt.txt
+mä_	arè	0346/line-016.gt.txt
+f	s	0346/line-016.gt.txt
+e	a	0346/line-016.gt.txt
+_	 	0346/line-017.gt.txt
+il	ss	0346/line-017.gt.txt
+f	s	0346/line-018.gt.txt
+_	 	0346/line-018.gt.txt
+lï	fi	0346/line-018.gt.txt
+_	 	0346/line-019.gt.txt
+f	s	0346/line-019.gt.txt
+I	J	0346/line-020.gt.txt
+il	st	0346/line-020.gt.txt
+f	s	0346/line-020.gt.txt
+ 	_	0346/line-021.gt.txt
+öl	ct	0346/line-022.gt.txt
+il	st	0346/line-022.gt.txt
+-	_	0346/line-022.gt.txt
+a	à	0346/line-023.gt.txt
+ll	st	0346/line-024.gt.txt
+(	s	0346/line-024.gt.txt
+_	 	0346/line-024.gt.txt
+&_	st	0346/line-024.gt.txt
+æ_	ae	0346/line-025.gt.txt
+-lie	ss__	0346/line-025.gt.txt
+f	s	0346/line-025.gt.txt
+l	I	0346/line-025.gt.txt
+a	à	0346/line-027.gt.txt
+H_	fi	0346/line-027.gt.txt
+l	t	0346/line-027.gt.txt
+i	s	0346/line-027.gt.txt
+æ_	ae	0346/line-028.gt.txt
+ä	c	0346/line-028.gt.txt
+e	è	0346/line-028.gt.txt
+f	s	0346/line-028.gt.txt
+lf	 s	0346/line-029.gt.txt
+-	_	0346/line-029.gt.txt
+a	à	0346/line-030.gt.txt
+n	r	0346/line-030.gt.txt
+I	J	0346/line-030.gt.txt
+f	s	0346/line-030.gt.txt
+fl	ss	0346/line-030.gt.txt
+f	s	0346/line-031.gt.txt
+ü_	st	0346/line-031.gt.txt
+I	J	0346/line-032.gt.txt
+Pc	st	0346/line-032.gt.txt
+f	s	0346/line-032.gt.txt
+fl	ss	0346/line-032.gt.txt
+V__	Qui	0346/line-033.gt.txt
+(1	si	0346/line-033.gt.txt
+b	d	0346/line-033.gt.txt
+a	à	0346/line-034.gt.txt
+lïö	fic	0346/line-034.gt.txt
+f	s	0346/line-034.gt.txt
+il;	st_	0346/line-034.gt.txt
+'u	v_	0346/line-035.gt.txt
+;	a	0346/line-035.gt.txt
+[	l	0346/line-035.gt.txt
+ii	b_	0346/line-035.gt.txt
+1	z	0346/line-035.gt.txt
+u_	11	0346/line-036.gt.txt
+f	t	0346/line-036.gt.txt
+xs_	 15	0346/line-036.gt.txt
+Ju	pa	0346/line-037.gt.txt
+s-L	rm.	0346/line-037.gt.txt
+STI	&__	0346/line-037.gt.txt
+_	 	0346/line-038.gt.txt
+5	3	0346/line-038.gt.txt
+,_	. 	0346/line-038.gt.txt
+-	_	0346/line-038.gt.txt
+fl	st	0346/line-040.gt.txt
+_	 	0346/line-040.gt.txt
+:	c	0346/line-040.gt.txt
+.1u&	anct	0346/line-041.gt.txt
+_	 	0346/line-041.gt.txt

@@ -1,0 +1,95 @@
+errors         202
+missing          0
+total          913
+err         22.125 %
+errnomiss   22.125 %
+6	j	i
+6	l	i
+4	c	e
+4	r	t
+4	c	t
+3	_	 
+2	t	s
+2	m	n
+2	l	s
+2	_	i
+2	.1	a_
+1	,5	46
+1	IJFlOl]	ration_
+1	m_	nt
+1	i	ü
+1	n_	iv
+1	å	â
+1	_	,
+1	ll	d_
+1	e	é
+1	s-m	ati
+1	ir	u_
+1	ll	fi
+1	-	_
+1	er	êt
+1	j0	io
+1	am	on
+1	rj	ti
+1	i	_
+1	f	s
+1	er	ét
+1	 l 	I__
+1	n'	d_
+1	le	'é
+1	LlCC	dec_
+1	oll	iff
+1	n_	tr
+1	xf	n'
+1	_	n
+1	n	u
+1	ï_	'i
+1	u	_
+1	ll	st
+1	P_	In
+1	cll	est
+1	re	é_
+1	.1	as
+1	:	1
+1	''	__
+1	lï	fi
+1	g	s
+1	chj__	ffici
+1	fï	si
+1	c'	é_
+1	en_	êtr
+1	å_	ct
+1	ll	ff
+1	i	ï
+1	yll	t__
+1	ju_	iti
+1	M	m
+1	nu	mi
+1	r_	 c
+1	gm_	ce.
+1	e	s
+1	:	r
+1	 	_
+1	a_	ec
+1	ein	êm_
+1	n	a
+1	;1«1«	aï___
+1	u	n
+1	/e	tu
+1	rr_	t c
+1	,.m	'au
+1	FZ_	s ;
+1	e_	ic
+1	J	d
+1	jr	it
+1	86	&_
+1	20	ro
+1	isk	-__
+1	lï	si
+1	ll	ss
+1	ez	é;
+1	H_	fi
+1	u_	it
+1	å	à
+1	t-	r_
+0.221248630887
