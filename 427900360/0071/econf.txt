@@ -1,0 +1,125 @@
+errors         379
+missing          0
+total         1033
+err         36.689 %
+errnomiss   36.689 %
+13	_	 
+6	 	_
+5	f	s
+4	rn	m_
+3	f	p
+3	_	s
+3	a	æ
+3	o	b
+3	F	p
+2	fi	st
+2	_	.
+2	/	s
+2	lo	 p
+2	il	d_
+2	 	ß
+2	P	p
+2	el	d_
+2	a'	d_
+2	ff	st
+1	fm ?_	pit,P
+1	-	 
+1	?)	P_
+1	'';	.__
+1	HEXE-	Q. Me
+1	WNEme____	ratio,qua
+1	ä	b
+1	a	à
+1	ä_	ct
+1	 [,	L__
+1	; M	Met
+1	_	c
+1	cil	ed_
+1	dä_	 sc
+1	di	ll
+1	5	&
+1	-H	ib
+1	!_	 I
+1	f	r
+1	o	s
+1	ij	y_
+1	jy	ss
+1	i	l
+1	el	.d
+1	u_	is
+1	O	o
+1	ni	m_
+1	lo	b_
+1	(7	&_
+1	1 f	s__
+1	af	æs
+1	 Oft-»Ja	&populo_
+1	 J J	II__
+1	tl	d_
+1	Jä-!	sed_
+1	c	C
+1	s	i
+1	J	A
+1	;,»;	se__
+1	iv	P_
+1	F-	55
+1	uf/_	is p
+1	[inf	Imp_
+1	li-FOR	ugusto
+1	N JZMFM	statem_
+1	lo	p_
+1	/E	se
+1	xu;__	X I X
+1	in	m_
+1	m__	r,e
+1	f__	 si
+1	yf	iß
+1	jïi	st_
+1	Øm_	Dio
+1	):	à_
+1	_	-
+1	LX P	p___
+1	lu	ri
+1	'	 
+1	'	_
+1	z	i
+1	J J	III
+1	]q	I_
+1	e	s
+1	(7 .,	_____
+1	m'_	t,r
+1	__	ly
+1	[Ee/	Cæs_
+1	[tiaj/Z	post___
+1	m__	rbi
+1	þ	s
+1	u	y
+1	F F	p__
+1	_	i
+1	 	s
+1	« -J	A___
+1	-Wy-	or__
+1	Ä li	b___
+1	a 	æs
+1	el	q_
+1	 	p
+1	f_	 p
+1	f	I
+1	(l	d_
+1	. MERMI-	Augustus
+1	i	u
+1	M_	op
+1	jï	st
+1	ii_	u_m
+1	lo	h_
+1	[	l
+1	Physer_	Fortaße
+1	f_	 s
+1	i	t
+1	i_	en
+1	;)	. 
+1	h_	r.
+1	»Am-ZWE___	augenda,Se
+1	i!	d_
+1	_	o
+0.366892545983
