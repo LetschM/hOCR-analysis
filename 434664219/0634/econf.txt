@@ -1,18 +1,17 @@
-errors         341
+errors         324
 missing          0
-total         1578
-err         21.610 %
-errnomiss   21.610 %
-15	_	 
-13	f	s
+total         1571
+err         20.624 %
+errnomiss   20.624 %
+16	_	 
+14	f	s
 10	c	e
-8	ll	st
-6	 	_
-4	æ_	ae
-4	l	i
+9	ll	st
+5	 	_
 4	fc	se
 3	ä	â
 3	:	-
+3	l	i
 2	.	,
 2	fl	st
 2	cö	eò
@@ -22,6 +21,7 @@ errnomiss   21.610 %
 1	-	 
 1	g_	ę 
 1	''!!-	t.___
+1	fi	st
 1	li	h_
 1	c_	e 
 1	 _	st
@@ -32,7 +32,7 @@ errnomiss   21.610 %
 1	c_	 e
 1	å	â
 1	0	o
-1	_	,
+1	l-	i_
 1	nglja''!	r,quàm__
 1	_	t
 1	''	u_
@@ -45,10 +45,10 @@ errnomiss   21.610 %
 1	g	f
 1	E_	fi
 1	d_	cl
+1	æ	œ
 1	l	s
 1	e_	ę 
 1	ä_	e 
-1	æf_	aes
 1	q	1
 1	m_	ni
 1	V	v
@@ -56,18 +56,18 @@ errnomiss   21.610 %
 1	'''	n-_
 1	e	ę
 1	('	s_
-1	æ	a
 1	i	à
 1	fi_	st 
 1	ö	c
 1	fi	su
+1	'	,
 1	s	_
 1	a	à
 1	lf 	 pl
 1	öll	ost
 1	mi__	ernu
 1	ü_	si
-1	ä	à
+1	s	â
 1	ö	ò
 1	g	_
 1	crlfïl'lö	enêre,___
@@ -78,11 +78,11 @@ errnomiss   21.610 %
 1	t_	mi
 1	äm	ru
 1	__	ii
+1	ä	à
 1	cllä	estâ
 1	_	-
-1	s	â
+1	n_	t.
 1	æ	.
-1	'	_
 1	CXj	ex-
 1	k	a
 1	iiö	uò_
@@ -90,7 +90,6 @@ errnomiss   21.610 %
 1	m__	ssi
 1	(lm	qui
 1	Vf'lll «	vestib._
-1	æ_	oe
 1	mü__	r;st
 1	i-lf	____
 1	zo	20
@@ -99,6 +98,7 @@ errnomiss   21.610 %
 1	_	i
 1	 	s
 1	flïTPï	ssimâ_
+1	_	,
 1	ort	OR_
 1	-»	,_
 1	m''	i-_
@@ -113,9 +113,7 @@ errnomiss   21.610 %
 1	o	_
 1	 	q
 1	l	f
-1	n_	t.
 1	öc	 &
-1	llhæ_	stgae
 1	l_	.I
 1	ff	er
 1	ll	ss
@@ -125,5 +123,4 @@ errnomiss   21.610 %
 1	tm	us
 1	rsoL 	ISQ._
 1	cu	e_
-1	fi__	 est
-0.216096324461
+0.206238064927

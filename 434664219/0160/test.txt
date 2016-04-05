@@ -10,9 +10,8 @@ c.-a	ess_	0160/line-003.gt.txt
 x	r	0160/line-003.gt.txt
 n	_	0160/line-003.gt.txt
 '	_	0160/line-003.gt.txt
-æ_	ae	0160/line-003.gt.txt
+d	o	0160/line-003.gt.txt
 Fi	pu	0160/line-003.gt.txt
-d-	o_	0160/line-003.gt.txt
 e___	,ita	0160/line-003.gt.txt
 d_	ct	0160/line-003.gt.txt
 c	e	0160/line-003.gt.txt
@@ -72,19 +71,18 @@ n	_	0160/line-010.gt.txt
 n_	ri	0160/line-010.gt.txt
 öl	ct	0160/line-010.gt.txt
 _	 	0160/line-011.gt.txt
+li	h_	0160/line-011.gt.txt
 ci-ö	erò_	0160/line-011.gt.txt
+c-	e_	0160/line-011.gt.txt
 /iu	An_	0160/line-011.gt.txt
-miæ___	turae 	0160/line-011.gt.txt
 n	a	0160/line-011.gt.txt
 -Hm_	,qui	0160/line-011.gt.txt
 R_	st	0160/line-011.gt.txt
-li	h_	0160/line-011.gt.txt
-c	e	0160/line-011.gt.txt
+mi_	tur	0160/line-011.gt.txt
 c	e	0160/line-012.gt.txt
-æ__	ae 	0160/line-012.gt.txt
--	_	0160/line-012.gt.txt
-en	co	0160/line-012.gt.txt
 n	a	0160/line-012.gt.txt
+_	 	0160/line-012.gt.txt
+en	co	0160/line-012.gt.txt
 &_	ct	0160/line-012.gt.txt
 c	e	0160/line-013.gt.txt
 b_	li	0160/line-013.gt.txt
@@ -106,7 +104,7 @@ uk	nt	0160/line-014.gt.txt
 ö_	ò 	0160/line-014.gt.txt
 x	t	0160/line-014.gt.txt
 kcxg	?Qu_	0160/line-014.gt.txt
-æt_	aes	0160/line-014.gt.txt
+t	s	0160/line-014.gt.txt
 Jb_	,so	0160/line-015.gt.txt
 th_	 ma	0160/line-015.gt.txt
 -	_	0160/line-015.gt.txt
@@ -182,7 +180,6 @@ fun_	sait	0160/line-022.gt.txt
 nn	m,	0160/line-022.gt.txt
 m_	ta	0160/line-022.gt.txt
 m__	 tu	0160/line-022.gt.txt
-æ__	ae 	0160/line-022.gt.txt
 c	e	0160/line-022.gt.txt
 c	e	0160/line-023.gt.txt
 f'c	se_	0160/line-023.gt.txt
@@ -208,8 +205,8 @@ m__	t,i	0160/line-025.gt.txt
 öl	ct	0160/line-025.gt.txt
 -	_	0160/line-025.gt.txt
 u	e	0160/line-025.gt.txt
+mc__	rere	0160/line-026.gt.txt
 -Ha_	i,qu	0160/line-026.gt.txt
-æmc___	aerere	0160/line-026.gt.txt
 F	p	0160/line-026.gt.txt
 !)c	De_	0160/line-026.gt.txt
 c	e	0160/line-026.gt.txt
@@ -226,7 +223,6 @@ Iu_	,sa	0160/line-028.gt.txt
 u	ù	0160/line-028.gt.txt
 rc	te	0160/line-028.gt.txt
 m	a	0160/line-028.gt.txt
-æ_	ae	0160/line-029.gt.txt
 m__	, n	0160/line-029.gt.txt
 ucll'c_	n esse 	0160/line-029.gt.txt
 fchS_	sedes	0160/line-029.gt.txt
@@ -238,8 +234,8 @@ __	, 	0160/line-030.gt.txt
 mm	t,	0160/line-030.gt.txt
 e	c	0160/line-030.gt.txt
 n	 	0160/line-030.gt.txt
+rcm_	tern	0160/line-031.gt.txt
 P	_	0160/line-031.gt.txt
-ærcm__	aetern	0160/line-031.gt.txt
 f	s	0160/line-031.gt.txt
 zch_	;sed	0160/line-031.gt.txt
 Cl	ct	0160/line-031.gt.txt

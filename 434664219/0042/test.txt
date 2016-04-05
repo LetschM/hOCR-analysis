@@ -28,14 +28,14 @@ z	;	0042/line-007.gt.txt
 a__	nfi	0042/line-008.gt.txt
 z	;	0042/line-008.gt.txt
 na_	tio	0042/line-008.gt.txt
-(þ	sp	0042/line-008.gt.txt
 _	 	0042/line-008.gt.txt
+r	_	0042/line-008.gt.txt
 i	s	0042/line-008.gt.txt
 O	o	0042/line-008.gt.txt
-æ_	ae	0042/line-008.gt.txt
 rc	te	0042/line-008.gt.txt
-r	_	0042/line-008.gt.txt
 r	t	0042/line-008.gt.txt
+(þ	sp	0042/line-008.gt.txt
+m	_	0042/line-008.gt.txt
 _	 	0042/line-009.gt.txt
  	_	0042/line-009.gt.txt
 i	t	0042/line-009.gt.txt
@@ -46,11 +46,9 @@ c	e	0042/line-009.gt.txt
 r	t	0042/line-009.gt.txt
 c	e	0042/line-010.gt.txt
 m___	 , n	0042/line-010.gt.txt
-i	s	0042/line-010.gt.txt
-æ_	ae	0042/line-010.gt.txt
 rr	tt	0042/line-010.gt.txt
 cj	q_	0042/line-010.gt.txt
--	_	0042/line-010.gt.txt
+i	s	0042/line-010.gt.txt
 r	t	0042/line-011.gt.txt
 ü,	st	0042/line-011.gt.txt
 r:i	ta_	0042/line-011.gt.txt
@@ -67,14 +65,13 @@ G_	si	0042/line-012.gt.txt
 æ_	ae	0042/line-012.gt.txt
 (	s	0042/line-012.gt.txt
 l'	s_	0042/line-012.gt.txt
-æ_	ae	0042/line-013.gt.txt
 c	e	0042/line-013.gt.txt
-ö	_	0042/line-013.gt.txt
-n æ_	ulae	0042/line-013.gt.txt
+ö	ò	0042/line-013.gt.txt
 u	U	0042/line-013.gt.txt
 f	s	0042/line-013.gt.txt
 li	st	0042/line-013.gt.txt
 l	s	0042/line-013.gt.txt
+n 	ul	0042/line-013.gt.txt
 u	n	0042/line-013.gt.txt
 r	t	0042/line-013.gt.txt
 _	 	0042/line-014.gt.txt
@@ -105,7 +102,6 @@ i	t	0042/line-018.gt.txt
 cmch__	entíve	0042/line-018.gt.txt
 dl	ct	0042/line-018.gt.txt
 ili	ssu	0042/line-018.gt.txt
-æ_	ae	0042/line-018.gt.txt
 x	t	0042/line-018.gt.txt
 x	i	0042/line-018.gt.txt
 c	e	0042/line-019.gt.txt
@@ -243,14 +239,13 @@ lu	hi	0042/line-032.gt.txt
 c	e	0042/line-032.gt.txt
 f	s	0042/line-032.gt.txt
 rui-	nse_	0042/line-032.gt.txt
-r	s	0042/line-033.gt.txt
+_	 	0042/line-033.gt.txt
+c	e	0042/line-033.gt.txt
 -umin	inequ	0042/line-033.gt.txt
 im	ho	0042/line-033.gt.txt
-_	 	0042/line-033.gt.txt
-æ_	ae	0042/line-033.gt.txt
-m_	ra	0042/line-033.gt.txt
-c	e	0042/line-033.gt.txt
 aj__	 ? J	0042/line-033.gt.txt
+m_	ra	0042/line-033.gt.txt
+r	s	0042/line-033.gt.txt
 _	 	0042/line-034.gt.txt
 V	v	0042/line-034.gt.txt
 -	_	0042/line-034.gt.txt
@@ -301,14 +296,13 @@ _	 	0042/line-041.gt.txt
 ü_	st	0042/line-041.gt.txt
 c	e	0042/line-041.gt.txt
 f_	 s	0042/line-041.gt.txt
+r	t	0042/line-042.gt.txt
+i'	r_	0042/line-042.gt.txt
 _	 	0042/line-042.gt.txt
 .	,	0042/line-042.gt.txt
 r_	t 	0042/line-042.gt.txt
 cm_	e,n	0042/line-042.gt.txt
 f	s	0042/line-042.gt.txt
-i'ær	raet	0042/line-042.gt.txt
--	_	0042/line-042.gt.txt
-r	t	0042/line-042.gt.txt
 _	e	0042/line-043.gt.txt
 ä	t	0042/line-043.gt.txt
 ü	ù	0042/line-043.gt.txt

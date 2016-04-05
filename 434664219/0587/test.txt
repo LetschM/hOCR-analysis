@@ -87,13 +87,13 @@ r	_	0587/line-016.gt.txt
 nn_	mqu	0587/line-016.gt.txt
 _	 	0587/line-017.gt.txt
 _	n	0587/line-017.gt.txt
-æü__	aest	0587/line-017.gt.txt
+ü_	st	0587/line-017.gt.txt
 flE_	sse 	0587/line-017.gt.txt
 H_	fi	0587/line-017.gt.txt
 l	r	0587/line-017.gt.txt
 ?)	ô_	0587/line-017.gt.txt
-r	t	0587/line-017.gt.txt
 f_	 s	0587/line-017.gt.txt
+r	t	0587/line-017.gt.txt
 _	 	0587/line-018.gt.txt
 .	,	0587/line-018.gt.txt
 !Ef	Aes	0587/line-018.gt.txt
@@ -122,10 +122,9 @@ r	t	0587/line-020.gt.txt
 .	-	0587/line-021.gt.txt
 _	 	0587/line-021.gt.txt
 fi'c	sse_	0587/line-021.gt.txt
-xäpv 	_____	0587/line-021.gt.txt
 f	s	0587/line-021.gt.txt
-- æ	ae_	0587/line-021.gt.txt
 flir	ssu_	0587/line-021.gt.txt
+xäpv 	_____	0587/line-021.gt.txt
 r	t	0587/line-021.gt.txt
 ('c	se_	0587/line-022.gt.txt
 fl'	ss_	0587/line-022.gt.txt

@@ -11,7 +11,6 @@ f	s	0534/line-006.gt.txt
 ITI	ù__	0534/line-007.gt.txt
 h-c	tor	0534/line-007.gt.txt
 f	s	0534/line-008.gt.txt
-æ_	ae	0534/line-008.gt.txt
 ll	ss	0534/line-009.gt.txt
 lhi	stu	0534/line-009.gt.txt
 e	è	0534/line-009.gt.txt
@@ -40,7 +39,6 @@ l	f	0534/line-015.gt.txt
 f	s	0534/line-015.gt.txt
 f	s	0534/line-016.gt.txt
 l'	s_	0534/line-016.gt.txt
-æ_	ae	0534/line-017.gt.txt
 t	d	0534/line-017.gt.txt
 f	s	0534/line-017.gt.txt
 cfl	ets	0534/line-017.gt.txt
@@ -118,7 +116,6 @@ cl	d_	0534/line-034.gt.txt
 ll	st	0534/line-035.gt.txt
 l.;/	sy__	0534/line-035.gt.txt
 f	s	0534/line-035.gt.txt
-æ_	ae	0534/line-036.gt.txt
 f	s	0534/line-037.gt.txt
 e	c	0534/line-037.gt.txt
 _	 	0534/line-037.gt.txt
@@ -146,7 +143,6 @@ l'	s_	0534/line-043.gt.txt
 f	s	0534/line-043.gt.txt
 _	 	0534/line-044.gt.txt
 o	ò	0534/line-044.gt.txt
-æ_-	ae_	0534/line-044.gt.txt
 f	s	0534/line-044.gt.txt
 :lï	st_	0534/line-045.gt.txt
 f	c	0534/line-045.gt.txt

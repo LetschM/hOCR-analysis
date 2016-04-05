@@ -156,10 +156,10 @@ ch	De	0096/line-062.gt.txt
 '	_	0096/line-062.gt.txt
 (_	su	0096/line-062.gt.txt
 hnn_	,qua	0096/line-062.gt.txt
+c__	 es	0096/line-062.gt.txt
 :c	ae	0096/line-062.gt.txt
-cll'c	esse_	0096/line-062.gt.txt
 :!	a_	0096/line-062.gt.txt
-æc___	ae es	0096/line-062.gt.txt
+cll'c	esse_	0096/line-062.gt.txt
 n	o	0096/line-062.gt.txt
 i	u	0096/line-062.gt.txt
 c	e	0096/line-062.gt.txt
@@ -204,25 +204,24 @@ c	e	0096/line-066.gt.txt
 ctc	ere	0096/line-066.gt.txt
 f	s	0096/line-066.gt.txt
 mi_	 an	0096/line-066.gt.txt
-æ_	ae	0096/line-066.gt.txt
 üc__	t, e	0096/line-066.gt.txt
 u	n	0096/line-066.gt.txt
 ct	er	0096/line-066.gt.txt
 c	e	0096/line-067.gt.txt
+_	 	0096/line-067.gt.txt
 ni	m_	0096/line-067.gt.txt
 rs-_	xi, 	0096/line-067.gt.txt
 n	a	0096/line-067.gt.txt
+F	s	0096/line-067.gt.txt
 läm__	sa, u	0096/line-067.gt.txt
-Fæ_	sae	0096/line-067.gt.txt
 ('	s_	0096/line-067.gt.txt
-tæ__	rae 	0096/line-067.gt.txt
-_	 	0096/line-068.gt.txt
-ä	ë	0096/line-068.gt.txt
+t	r	0096/line-067.gt.txt
 ctf	ers	0096/line-068.gt.txt
-öl	ct	0096/line-068.gt.txt
+_	 	0096/line-068.gt.txt
 ;i	a_	0096/line-068.gt.txt
-. -	___	0096/line-068.gt.txt
-æ_	ae	0096/line-068.gt.txt
+ä	ë	0096/line-068.gt.txt
+. 	__	0096/line-068.gt.txt
+öl	ct	0096/line-068.gt.txt
 i	e	0096/line-068.gt.txt
 c	e	0096/line-069.gt.txt
 _	 	0096/line-069.gt.txt
@@ -248,7 +247,6 @@ f	s	0096/line-071.gt.txt
 li-«ilii	fectu___	0096/line-071.gt.txt
 cm_	ero	0096/line-071.gt.txt
 öz	 &	0096/line-071.gt.txt
-æ_	ae	0096/line-071.gt.txt
 u	n	0096/line-071.gt.txt
 li	h_	0096/line-071.gt.txt
 öc	 &	0096/line-071.gt.txt

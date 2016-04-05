@@ -1,6 +1,6 @@
 on	OR	0624/line-004.gt.txt
 Io	10	0624/line-004.gt.txt
-Æ__	AE 	0624/line-004.gt.txt
+_	 	0624/line-004.gt.txt
 tscL	ISQ.	0624/line-004.gt.txt
 _	 	0624/line-005.gt.txt
 ü	ù	0624/line-005.gt.txt
@@ -13,8 +13,7 @@ cu	en	0624/line-006.gt.txt
 c	e	0624/line-006.gt.txt
 h^&95_	fectos	0624/line-006.gt.txt
 cE_	efi	0624/line-007.gt.txt
-æ_	ae	0624/line-007.gt.txt
-OS'''	os in	0624/line-007.gt.txt
+OS'''	os i_	0624/line-007.gt.txt
 li	st	0624/line-007.gt.txt
 rm__	t, u	0624/line-007.gt.txt
 f	s	0624/line-008.gt.txt
@@ -36,13 +35,13 @@ _	e	0624/line-011.gt.txt
 ä	t	0624/line-011.gt.txt
 f	s	0624/line-011.gt.txt
 MEPfo____	animi,cy-	0624/line-011.gt.txt
-æc'i	aeq_	0624/line-012.gt.txt
-c_	e 	0624/line-012.gt.txt
 Uï__	 (si	0624/line-012.gt.txt
-_	i	0624/line-012.gt.txt
+c	_	0624/line-012.gt.txt
 F	f	0624/line-012.gt.txt
+_	i	0624/line-012.gt.txt
 ll	st	0624/line-012.gt.txt
 !__	 id	0624/line-012.gt.txt
+c'iu	que 	0624/line-012.gt.txt
 u	n	0624/line-012.gt.txt
 _	e	0624/line-013.gt.txt
 c	e	0624/line-013.gt.txt
@@ -111,13 +110,13 @@ c	e	0624/line-027.gt.txt
 ägcmitusc'	e_________	0624/line-028.gt.txt
 c	e	0624/line-028.gt.txt
 fc	se	0624/line-028.gt.txt
- '	s-	0624/line-029.gt.txt
 _	 	0624/line-029.gt.txt
 cmü__	entu 	0624/line-029.gt.txt
+l	s	0624/line-029.gt.txt
 P	p	0624/line-029.gt.txt
-æl_	aes	0624/line-029.gt.txt
+ '	s_	0624/line-029.gt.txt
 '' 0	alo_	0624/line-030.gt.txt
-æl_	aes	0624/line-030.gt.txt
+l	s	0624/line-030.gt.txt
 fg:	se_	0624/line-030.gt.txt
 ä_	â 	0624/line-030.gt.txt
 ''_	ut 	0624/line-030.gt.txt

@@ -6,14 +6,13 @@ li	h_	0634/line-005.gt.txt
  	_	0634/line-005.gt.txt
 ''!!-	t.___	0634/line-005.gt.txt
 tm	us	0634/line-005.gt.txt
+g_	ę 	0634/line-006.gt.txt
 u	;	0634/line-006.gt.txt
 _	 	0634/line-006.gt.txt
 _	t	0634/line-006.gt.txt
-g_	ę 	0634/line-006.gt.txt
-l	i	0634/line-006.gt.txt
-æ_	ae	0634/line-006.gt.txt
 k	a	0634/line-006.gt.txt
 öc	 &	0634/line-006.gt.txt
+l-	i_	0634/line-006.gt.txt
 _	 	0634/line-007.gt.txt
 m__	ssi	0634/line-007.gt.txt
 -»	,_	0634/line-007.gt.txt
@@ -49,7 +48,7 @@ ex	ac	0634/line-013.gt.txt
 ö	c	0634/line-013.gt.txt
 fl	st	0634/line-013.gt.txt
  O	o_	0634/line-013.gt.txt
-æf_	aes	0634/line-013.gt.txt
+f	s	0634/line-013.gt.txt
 æ	.	0634/line-014.gt.txt
 E_	fi	0634/line-014.gt.txt
 d	f	0634/line-014.gt.txt
@@ -88,10 +87,9 @@ ll	st	0634/line-020.gt.txt
 c	e	0634/line-020.gt.txt
 f	s	0634/line-020.gt.txt
 _	 	0634/line-021.gt.txt
-llhæ_	stgae	0634/line-021.gt.txt
+ll	st	0634/line-021.gt.txt
 .	,	0634/line-021.gt.txt
 i	à	0634/line-021.gt.txt
- 	_	0634/line-021.gt.txt
 öll	ost	0634/line-021.gt.txt
 f	s	0634/line-021.gt.txt
 ll	st	0634/line-022.gt.txt
@@ -107,14 +105,13 @@ Vö_	Quò	0634/line-023.gt.txt
 _	 	0634/line-024.gt.txt
 -	_	0634/line-024.gt.txt
 fl	ss	0634/line-024.gt.txt
-cö	eò	0634/line-025.gt.txt
-æ_	oe	0634/line-025.gt.txt
-'	_	0634/line-025.gt.txt
 ll	st	0634/line-025.gt.txt
-æ_	ae	0634/line-025.gt.txt
+'	,	0634/line-025.gt.txt
 l	i	0634/line-025.gt.txt
 ü_	si	0634/line-025.gt.txt
+cö	eò	0634/line-025.gt.txt
 ff	er	0634/line-025.gt.txt
+æ	œ	0634/line-025.gt.txt
  	s	0634/line-026.gt.txt
 n_	t.	0634/line-026.gt.txt
 O	o	0634/line-026.gt.txt
@@ -127,10 +124,10 @@ b	h	0634/line-027.gt.txt
 c	e	0634/line-027.gt.txt
 crlfïl'lö	enêre,___	0634/line-027.gt.txt
 _	i	0634/line-027.gt.txt
+_	 	0634/line-028.gt.txt
 -_	, 	0634/line-028.gt.txt
-æ	a	0634/line-028.gt.txt
 ''	u_	0634/line-028.gt.txt
-fi__	 est	0634/line-028.gt.txt
+fi	st	0634/line-028.gt.txt
 _	 	0634/line-029.gt.txt
 (	s	0634/line-029.gt.txt
 ö	ò	0634/line-029.gt.txt
@@ -147,7 +144,6 @@ r	s	0634/line-032.gt.txt
 .	,	0634/line-032.gt.txt
 t_	mi	0634/line-032.gt.txt
 ä	à	0634/line-032.gt.txt
-æ_	ae	0634/line-032.gt.txt
 r	x	0634/line-032.gt.txt
 m''	i-_	0634/line-032.gt.txt
 ll	st	0634/line-033.gt.txt
@@ -171,7 +167,6 @@ __	fl	0634/line-035.gt.txt
 cö	eò	0634/line-035.gt.txt
 :	-	0634/line-035.gt.txt
 fl	ss	0634/line-035.gt.txt
-æ_	ae	0634/line-036.gt.txt
-cu	e_	0634/line-036.gt.txt
 __	ii	0634/line-036.gt.txt
+cu	e_	0634/line-036.gt.txt
 l	f	0634/line-037.gt.txt

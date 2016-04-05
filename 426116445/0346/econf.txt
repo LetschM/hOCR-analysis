@@ -1,8 +1,8 @@
-errors         209
+errors         203
 missing          0
-total         1491
-err         14.017 %
-errnomiss   14.017 %
+total         1488
+err         13.642 %
+errnomiss   13.642 %
 17	f	s
 14	_	 
 4	a	à
@@ -11,32 +11,29 @@ errnomiss   14.017 %
 3	fl	ss
 2	öl	ct
 2	il	st
-2	æ_	ae
 2	fl	st
 2	 	_
 2	ü_	st
 1	fl	ct
 1	.1u&	anct
-1	m_	nt
+1	xs_	 15
 1	m_	ta
 1	li	ss
-1	æn	ae
 1	:	c
 1	STI	&__
 1	lïö	fic
 1	l	t
-1	xxxrx	XXXIX
+1	mä_	arè
 1	b	d
 1	r	I
 1	IO_	lo-
 1	H_	fi
-1	_	u
 1	»Ei-	octo
-1	xs_	 15
+1	m_	nt
 1	ä_	ct
 1	a	g
 1	rocus	LOGUS
-1	mä_	arè
+1	xxxrx	XXXIX
 1	l	I
 1	;	a
 1	V__	Qui
@@ -45,10 +42,12 @@ errnomiss   14.017 %
 1	ä	c
 1	&_	st
 1	H_	ss
-1	Pc	st
+1	ra_	t à
 1	f	t
 1	s-L	rm.
+1	Pc	st
 1	z	t
+1	n	u
 1	a	o
 1	lï	ss
 1	ll	st
@@ -61,10 +60,9 @@ errnomiss   14.017 %
 1	,_	. 
 1	e	a
 1	lf	 s
-1	Ju	pa
 1	e	è
 1	'u	v_
-1	ra_	t à
+1	t	r
 1	/f	st
 1	ii	b_
 1	-lie	ss__
@@ -74,8 +72,8 @@ errnomiss   14.017 %
 1	1	2
 1	ö'	& 
 1	sæxrus	SEXTUS
-1	t	r
+1	Ju	pa
 1	lï	fi
 1	»Hm-»-_	octavum
 1	il;	st_
-0.140174379611
+0.136424731183

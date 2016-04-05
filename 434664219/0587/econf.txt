@@ -1,8 +1,8 @@
-errors         529
+errors         526
 missing          0
-total         2238
-err         23.637 %
-errnomiss   23.637 %
+total         2236
+err         23.524 %
+errnomiss   23.524 %
 43	_	 
 27	f	s
 17	r	t
@@ -12,7 +12,6 @@ errnomiss   23.637 %
 3	e	c
 3	n	a
 2	æ_	ae
-2	æü__	aest
 2	z_	ae
 2	.	,
 2	-	_
@@ -35,6 +34,7 @@ errnomiss   23.637 %
 1	II	si
 1	Is	u_
 1	flii	ssu_
+1	æü__	aest
 1	erl'lmï-___	i spiritus.
 1	' -]	Ju__
 1	in_	st,
@@ -48,7 +48,7 @@ errnomiss   23.637 %
 1	rä	tâ
 1	e	t
 1	l	r
-1	- æ	ae_
+1	ll	__
 1	'e	c_
 1	a_	s 
 1	z__	 : 
@@ -98,6 +98,7 @@ errnomiss   23.637 %
 1	r_	se
 1	r	d
 1	_	e
+1	r.'r	ù___
 1	I	E
 1	i'cfx	se si
 1	m_	ta
@@ -106,7 +107,6 @@ errnomiss   23.637 %
 1	iirä	suâ_
 1	i	;
 1	n_	lâ
-1	r.'r	ù___
 1	'	_
 1	»	_
 1	'';	553
@@ -126,11 +126,11 @@ errnomiss   23.637 %
 1	.	-
 1	ægri-t	p_____
 1	Inha____	lubet, s
+1	ü_	st
 1	m__	it,
 1	fl'	ss_
 1	(i	q_
 1	i	s
-1	ll	__
 1	fm_	sin
 1	u	n
 1	rf	is
@@ -174,4 +174,4 @@ errnomiss   23.637 %
 1	ö	è
 1	H_	fi
 1	cl	ù_
-0.2363717605
+0.235241502683

@@ -70,7 +70,6 @@ lf	ss	0035/line-026.gt.txt
 u	ù	0035/line-026.gt.txt
 z	,	0035/line-026.gt.txt
 f	s	0035/line-027.gt.txt
-æ_	ae	0035/line-027.gt.txt
 .	_	0035/line-027.gt.txt
 å	à	0035/line-027.gt.txt
 fl'	st_	0035/line-028.gt.txt

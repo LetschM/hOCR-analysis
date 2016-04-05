@@ -29,10 +29,9 @@ fl	ct	0346/line-013.gt.txt
 H_	ss	0346/line-013.gt.txt
 xxxrx	XXXIX	0346/line-013.gt.txt
 »Ei-	octo	0346/line-013.gt.txt
-æn	ae	0346/line-014.gt.txt
-»Hm-»-_	octavum	0346/line-014.gt.txt
+n	u	0346/line-014.gt.txt
 ö'	& 	0346/line-014.gt.txt
-_	u	0346/line-014.gt.txt
+»Hm-»-_	octavum	0346/line-014.gt.txt
 m_	ta	0346/line-015.gt.txt
 a	o	0346/line-015.gt.txt
 m_	nt	0346/line-015.gt.txt
@@ -61,7 +60,6 @@ ll	st	0346/line-024.gt.txt
 (	s	0346/line-024.gt.txt
 _	 	0346/line-024.gt.txt
 &_	st	0346/line-024.gt.txt
-æ_	ae	0346/line-025.gt.txt
 -lie	ss__	0346/line-025.gt.txt
 f	s	0346/line-025.gt.txt
 l	I	0346/line-025.gt.txt
@@ -69,7 +67,6 @@ a	à	0346/line-027.gt.txt
 H_	fi	0346/line-027.gt.txt
 l	t	0346/line-027.gt.txt
 i	s	0346/line-027.gt.txt
-æ_	ae	0346/line-028.gt.txt
 ä	c	0346/line-028.gt.txt
 e	è	0346/line-028.gt.txt
 f	s	0346/line-028.gt.txt

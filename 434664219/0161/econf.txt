@@ -1,12 +1,12 @@
-errors         902
+errors         889
 missing          0
-total         2266
-err         39.806 %
-errnomiss   39.806 %
+total         2259
+err         39.354 %
+errnomiss   39.354 %
 58	c	e
 28	_	 
 9	f	s
-9	æ_	ae
+5	æ_	ae
 4	c_	e 
 4	-	_
 3	.	,
@@ -49,7 +49,7 @@ errnomiss   39.806 %
 1	ïc	ie
 1	h_	id
 1	m?''__	nxisti
-1	 , « , »	________
+1	l'b	su_
 1	u__	t i
 1	t	z
 1	mi_	orr
@@ -67,8 +67,8 @@ errnomiss   39.806 %
 1	P	?
 1	nd_	lla
 1	m_	o,
-1	i'æl'b	raesu_
-1	o	O
+1	u_	rr
+1	ii	st
 1	(j	q_
 1	n_	rr
 1	lu	hi
@@ -76,9 +76,7 @@ errnomiss   39.806 %
 1	m	d
 1	m_	us
 1	_	N
-1	æii_	aest
 1	i/nmi_	ur,quî
-1	u_	rr
 1	:	s
 1	51	Si
 1	5_	 S
@@ -87,6 +85,7 @@ errnomiss   39.806 %
 1	) F	p__
 1	or	ne
 1	(''c	se__
+1	rcm_	tern
 1	i	l
 1	äï	?S
 1	n	a
@@ -156,12 +155,12 @@ errnomiss   39.806 %
 1	!	t
 1	ii	 h
 1	--	._
-1	h_	 p
 1	Hirt-Ich	Ecquid__
 1	 Pmlm J,	________
 1	mc__	itte
 1	cf	e?
 1	ll_	rat
+1	 , « , »	________
 1	iu	lo
 1	n-_	ae 
 1	m	t
@@ -169,7 +168,7 @@ errnomiss   39.806 %
 1	k	_
 1	ö	ë
 1	cqv	ò p
-1	ærcm__	aetern
+1	h_	 p
 1	-_	d,
 1	i	â
 1	j	i
@@ -192,6 +191,7 @@ errnomiss   39.806 %
 1	-int	dux_
 1	s_	? 
 1	::	e_
+1	o	O
 1	u_	 a
 1	um_	ina
 1	l	j
@@ -217,6 +217,7 @@ errnomiss   39.806 %
 1	cmö_	etuò
 1	nding___	t est ap
 1	c_	e,
+1	i'	r_
 1	(i	o 
 1	a_	ct
 1	mþ_	rup
@@ -256,4 +257,5 @@ errnomiss   39.806 %
 1	ui	to
 1	N	_
 1	ö	ó
-0.398058252427
+0.393536963258
+

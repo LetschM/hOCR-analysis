@@ -216,13 +216,12 @@ l'c	ser	0161/line-027.gt.txt
 c(l'c	esse_	0161/line-027.gt.txt
 '' M	ces,	0161/line-027.gt.txt
  «	__	0161/line-028.gt.txt
+m_	tu	0161/line-028.gt.txt
+-	_	0161/line-028.gt.txt
+ra	to	0161/line-028.gt.txt
 :	s	0161/line-028.gt.txt
 n	a	0161/line-028.gt.txt
 t	e	0161/line-028.gt.txt
-m_	tu	0161/line-028.gt.txt
--	_	0161/line-028.gt.txt
-æ_	ae	0161/line-028.gt.txt
-ra	to	0161/line-028.gt.txt
 ' ''	te__	0161/line-029.gt.txt
 _	 	0161/line-029.gt.txt
 mm/ad	ternu	0161/line-029.gt.txt
@@ -248,8 +247,8 @@ il-urcm	sentent	0161/line-031.gt.txt
 c	e	0161/line-031.gt.txt
 r	t	0161/line-031.gt.txt
 c	e	0161/line-032.gt.txt
+rcm_	tern	0161/line-032.gt.txt
 mc	ta	0161/line-032.gt.txt
-ærcm__	aetern	0161/line-032.gt.txt
 Br_	Et 	0161/line-032.gt.txt
 ö	o	0161/line-032.gt.txt
 l	I	0161/line-032.gt.txt
@@ -266,7 +265,6 @@ mþ_	rup	0161/line-033.gt.txt
 þl	d_	0161/line-033.gt.txt
 _	l	0161/line-033.gt.txt
 mra_	inco	0161/line-033.gt.txt
-æ_	ae	0161/line-034.gt.txt
 .	,	0161/line-034.gt.txt
 ::	e_	0161/line-034.gt.txt
 c	e	0161/line-034.gt.txt
@@ -287,7 +285,6 @@ f	s	0161/line-036.gt.txt
 clþn	espo	0161/line-036.gt.txt
 i	s	0161/line-036.gt.txt
 hüc_	t,De	0161/line-036.gt.txt
-æ_	ae	0161/line-036.gt.txt
 um_	ina	0161/line-036.gt.txt
 m_	rò	0161/line-036.gt.txt
 c	e	0161/line-036.gt.txt
@@ -302,13 +299,14 @@ _	a	0161/line-037.gt.txt
 m	t	0161/line-037.gt.txt
 iu	lo	0161/line-037.gt.txt
 _	 	0161/line-038.gt.txt
-i'æl'b	raesu_	0161/line-038.gt.txt
-æii_	aest	0161/line-038.gt.txt
+l'b	su_	0161/line-038.gt.txt
 _	u	0161/line-038.gt.txt
 (h	su	0161/line-038.gt.txt
+i'	r_	0161/line-038.gt.txt
 rn-_	tere	0161/line-038.gt.txt
 cf	e?	0161/line-038.gt.txt
 xt-O_	ar , 	0161/line-038.gt.txt
+ii	st	0161/line-038.gt.txt
 n	o	0161/line-038.gt.txt
 c	e	0161/line-038.gt.txt
 thm_	prin	0161/line-039.gt.txt

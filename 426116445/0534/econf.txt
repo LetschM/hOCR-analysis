@@ -1,13 +1,12 @@
-errors         284
+errors         276
 missing          0
-total         2088
-err         13.602 %
-errnomiss   13.602 %
+total         2084
+err         13.244 %
+errnomiss   13.244 %
 34	f	s
 9	_	 
 8	r	t
 4	o	ò
-3	æ_	ae
 3	_	a
 3	b	ò
 3	e	c
@@ -52,7 +51,7 @@ errnomiss   13.602 %
 1	l	n
 1	V	U
 1	:	e
-1	æ_-	ae_
+1	ä	à
 1	äjh	bs_
 1	l'r	st_
 1	cl	es
@@ -63,7 +62,6 @@ errnomiss   13.602 %
 1	fe	u_
 1	jf	ss
 1	:lï	st_
-1	ä	à
 1	I	1
 1	_	-
 1	b	m
@@ -100,4 +98,4 @@ errnomiss   13.602 %
 1	[mtf	sanc
 1	d	a
 1	H_	ff
-0.13601532567
+0.132437619962

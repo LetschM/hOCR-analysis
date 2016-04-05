@@ -4,15 +4,11 @@ LGS__	i. 68	0531/line-002.gt.txt
 l	s	0531/line-003.gt.txt
 (	c	0531/line-004.gt.txt
 c	e	0531/line-006.gt.txt
-æ_	ae	0531/line-008.gt.txt
 _	 	0531/line-008.gt.txt
 c	o	0531/line-008.gt.txt
--	_	0531/line-008.gt.txt
 f	s	0531/line-008.gt.txt
-æ_	ae	0531/line-009.gt.txt
 u	n	0531/line-009.gt.txt
 f	s	0531/line-009.gt.txt
-æ_	ae	0531/line-010.gt.txt
 l	s	0531/line-010.gt.txt
 f	s	0531/line-011.gt.txt
 rm_	e,h	0531/line-011.gt.txt
@@ -37,7 +33,6 @@ fi:	st_	0531/line-015.gt.txt
 fhi	stu	0531/line-015.gt.txt
 '	 	0531/line-015.gt.txt
 f	s	0531/line-016.gt.txt
-æ_	ae	0531/line-016.gt.txt
 ft	si	0531/line-017.gt.txt
 ff	ss	0531/line-017.gt.txt
 f	s	0531/line-017.gt.txt
@@ -67,7 +62,6 @@ r	e	0531/line-024.gt.txt
 t	d	0531/line-024.gt.txt
 fi	__	0531/line-024.gt.txt
 f	s	0531/line-025.gt.txt
-æ_	ae	0531/line-026.gt.txt
 n	t	0531/line-027.gt.txt
 f	s	0531/line-027.gt.txt
 z	i	0531/line-028.gt.txt
@@ -86,8 +80,8 @@ f	s	0531/line-031.gt.txt
 fl	ss	0531/line-031.gt.txt
 f	s	0531/line-032.gt.txt
 l	s	0531/line-032.gt.txt
-æ_	ae	0531/line-033.gt.txt
 f	s	0531/line-033.gt.txt
+æ_	ae	0531/line-033.gt.txt
 c	e	0531/line-033.gt.txt
 fl	st	0531/line-034.gt.txt
 f	s	0531/line-035.gt.txt
@@ -104,21 +98,19 @@ i	s	0531/line-037.gt.txt
 f	s	0531/line-037.gt.txt
 _	 	0531/line-038.gt.txt
 f'	s_	0531/line-038.gt.txt
-æc 	AEC	0531/line-038.gt.txt
+æc 	ÆC_	0531/line-038.gt.txt
 f_	 s	0531/line-038.gt.txt
 _	 	0531/line-039.gt.txt
 5	3	0531/line-039.gt.txt
 u	n	0531/line-039.gt.txt
 _	?	0531/line-040.gt.txt
 fl	ss	0531/line-041.gt.txt
-æ_	ae	0531/line-041.gt.txt
 f	s	0531/line-041.gt.txt
 å_	ct	0531/line-042.gt.txt
 c	e	0531/line-042.gt.txt
 f	s	0531/line-043.gt.txt
 ff	ss	0531/line-043.gt.txt
 li	st	0531/line-043.gt.txt
-æ_	ae	0531/line-044.gt.txt
 c	e	0531/line-044.gt.txt
 f	s	0531/line-044.gt.txt
 ü_	st	0531/line-044.gt.txt

@@ -1,35 +1,35 @@
-errors         803
+errors         787
 missing          0
-total         2250
-err         35.689 %
-errnomiss   35.689 %
-52	c	e
-25	_	 
+total         2242
+err         35.103 %
+errnomiss   35.103 %
+51	c	e
+28	_	 
 7	f	s
 7	n	a
 4	_	e
 4	c	t
-3	æ_	ae
-3	-	_
 3	r	t
 3	c_	e 
 3	m_	ta
+3	u	i
 3	ö	ò
 3	m_	ra
 3	u	o
-3	u	i
 3	ll	ss
-2	k	t
+2	öl	ct
 2	m	_
+2	t	s
 2	ü	ù
 2	r	e
-2	öl	ct
+2	-	_
+2	k	t
 2	ic	te
 2	ll	st
 2	x	i
 2	'	 
-2	æ__	ae 
 2	 	_
+2	c-	e_
 2	n_	ri
 2	fl	ss
 2	(l	d_
@@ -45,18 +45,18 @@ errnomiss   35.689 %
 1	m__	, n
 1	Fi	pu
 1	-S	ó_
+1	æ_	ae
 1	x	t
 1	m__	 tu
 1	li	h_
 1	l	t
 1	___	e a
 1	JlH	abs
-1	t	s
 1	m_	nt
 1	w	o
-1	Jb_	,so
+1	d	o
 1	c_	 e
-1	u	ù
+1	_	:
 1	Cl	ct
 1	du«-Mr- ni	hî________
 1	m_	tu
@@ -81,8 +81,9 @@ errnomiss   35.689 %
 1	__	re
 1	u_	e 
 1	z_	; 
-1	'c'	ë__
+1	mc__	rere
 1	ch_	tè,
+1	'c'	ë__
 1	____	?Ita
 1	l'	s_
 1	f	r
@@ -91,10 +92,10 @@ errnomiss   35.689 %
 1	mm	t,
 1	.c	C_
 1	rc	te
-1	æt_	aes
+1	mi_	tur
 1	-	 
 1	ä	t
-1	:i	a_
+1	rcm_	tern
 1	lü	su
 1	11	il
 1	m_	ni
@@ -103,7 +104,7 @@ errnomiss   35.689 %
 1	lm_	he,
 1	.	_
 1	e__	vi.
-1	ærcm__	aetern
+1	n'	__
 1	æ_	oe
 1	t-f_	 re-
 1	th_	 ma
@@ -119,10 +120,10 @@ errnomiss   35.689 %
 1	f'	s_
 1	('n	su_
 1	cn_	err
-1	n1c_	 int
+1	cm_	tra
 1	b_	i,
 1	o	e
-1	cm_	tra
+1	n1c_	 int
 1	f:	e_
 1	fl	st
 1	ciü	erù
@@ -139,11 +140,10 @@ errnomiss   35.689 %
 1	c	v
 1	Iu_	,sa
 1	_	u
-1	d-	o_
+1	e_	ta
 1	n_	it
 1	ct	er
 1	le_	mpl
-1	e_	ta
 1	ka____	etiri?
 1	m__	t,i
 1	in:?	tua_
@@ -162,7 +162,7 @@ errnomiss   35.689 %
 1	f'c	se_
 1	(-	si
 1	czr	ess
-1	 C'_	ffe-
+1	Jb_	,so
 1	ci-ö	erò_
 1	m	u
 1	k	p
@@ -177,7 +177,6 @@ errnomiss   35.689 %
 1	li-1	n___
 1	mcll:uö_	otestate
 1	ö	ë
-1	n'	__
 1	c	_
 1	mü__	t,cu
 1	ka	q;
@@ -188,7 +187,6 @@ errnomiss   35.689 %
 1	i?	m_
 1	ch-·_	tera-
 1	mili	rurs
-1	c-	e_
 1	m	a
 1	ü	_
 1	_	i
@@ -210,9 +208,9 @@ errnomiss   35.689 %
 1	nc_	tie
 1	l'	i_
 1	l	i
+1	 C'_	ffe-
 1	l&	se
 1	00,	eo_
-1	æmc___	aerere
 1	Zs	e_
 1	o	_
 1	ii	n_
@@ -223,6 +221,7 @@ errnomiss   35.689 %
 1	thöc_	ris,&
 1	 mu_	te,n
 1	a_	ct
+1	u	ù
 1	'e	? 
 1	R_	st
 1	kcxg	?Qu_
@@ -230,12 +229,11 @@ errnomiss   35.689 %
 1	?	,
 1	l'cn	ses_
 1	mlln_	insta
-1	_	:
+1	:i	a_
 1	u_	et
 1	t_	 z
 1	ell	oss
 1	e-	,_
-1	miæ___	turae 
 1	-Hm_	,qui
 1	Mö__	defi
 1	v_	s 
@@ -259,4 +257,4 @@ errnomiss   35.689 %
 1	en	co
 1	rx_	 IX
 1	''	-_
-0.356888888889
+0.351025869759
