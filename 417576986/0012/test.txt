@@ -1,4 +1,3 @@
- 	_	0012/line-004.gt.txt
 ''	__	0012/line-004.gt.txt
 e	è	0012/line-005.gt.txt
 lf	is	0012/line-005.gt.txt

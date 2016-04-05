@@ -1,8 +1,8 @@
-errors         497
+errors         493
 missing          0
-total         1044
-err         47.605 %
-errnomiss   47.605 %
+total         1048
+err         47.042 %
+errnomiss   47.042 %
 34	c	e
 5	c	t
 4	:	2
@@ -94,6 +94,7 @@ errnomiss   47.605 %
 1	m_	ui
 1	an_	ori
 1	irc	ne_
+1	Ä	A
 1	Sa_	ecc
 1	.	_
 1	.:	t_
@@ -128,9 +129,9 @@ errnomiss   47.605 %
 1	cfmlk_	esiast
 1	kl	q_
 1	lb	se
+1	I-	L_
 1	cllul_	esiast
 1	th	qu
-1	 Ä 	A__
 1	ct	es
 1	lm_	foi
 1	lll	au_
@@ -140,7 +141,6 @@ errnomiss   47.605 %
 1	llþgl'x	d'écri_
 1	l	f
 1	u_	cr
-1	 I- 	L___
 1	lus-	rivé
 1	ihm_	sont
 1	-:	tu
@@ -159,4 +159,4 @@ errnomiss   47.605 %
 1	::	02
 1	li.x-«::17_	 Pardevant 
 1	u_	sa
-0.476053639847
+0.470419847328

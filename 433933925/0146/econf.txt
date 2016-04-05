@@ -1,0 +1,211 @@
+errors         645
+missing          0
+total         1574
+err         40.978 %
+errnomiss   40.978 %
+13	_	 
+10	c	e
+9	f	s
+5	m_	in
+3	'	_
+3	_	i
+3	l	i
+2	m_	nt
+2	ä_	ct
+2	l	s
+2	I	i
+2	r	t
+2	t	f
+2	j	i
+2	:	t
+2	z	t
+2	lm	ho
+2	lï	si
+2	h_	si
+2	ö	è
+1	 -____	icitur
+1	:	 
+1	49:	.&_
+1	m:-cur_	rpretat
+1	ch__	,sed
+1	m ON__	ndoque
+1	lxu	hi_
+1	n__	ti 
+1	G_	si
+1	'''	in_
+1	l1x.l	hi I_
+1	c_	e 
+1	fi;	sa_
+1	ll''	è n_
+1	u__	 ci
+1	1	 
+1	c_	 e
+1	l	f
+1	hn	bi
+1	l_	.i
+1	«s««	.a__
+1	0	o
+1	!ï	si
+1	_	t
+1	a	o
+1	n	_
+1	111	m__
+1	'':_	 to-
+1	u_	ti
+1	s.1.kc-	nte____
+1	n	i
+1	-	_
+1	l	r
+1	(	s
+1	ii-P_	.23.p
+1	lf	ss
+1	r	T
+1	-M	me
+1	:1r	at_
+1	''_	 it
+1	«.mc	aut_
+1	f	r
+1	''.kn	um___
+1	h_	i,
+1	vrrm	VTIL
+1	w_	io
+1	E_	s.
+1	O'	o_
+1	Cu_	6.i
+1	Pff	per
+1	m_	ui
+1	m_	ni
+1	ih_	sti
+1	l'	 s
+1	''	il
+1	möcf_	n.& s
+1	o	u
+1	s	t
+1	s.	ia
+1	ti	 f
+1	a: is '	æst.82.
+1	m'':_	, quæ
+1	i	_
+1	Eu	fa
+1	t	i
+1	lf	is
+1	U	i
+1	ömlm___	è tribu
+1	l)	b_
+1	.:r	at_
+1	ktme__	i.in c
+1	H_	si
+1	ll	st
+1	l·	._
+1	ä_	è 
+1	s	i
+1	x	i
+1	fib' «_	agatur,
+1	hj__	i, i
+1	liuerhl'	ad viti-
+1	IIIa_	glo.i
+1	ks_	ti-
+1	m-_	in.
+1	,_	is
+1	INa___	Fely.i
+1	tu	em
+1	m__	in 
+1	rm_	tin
+1	'' ·	un._
+1	a_	se
+1	ögn	è,_
+1	lZnn	sam_
+1	t11	m__
+1	«	_
+1	w__	.vt
+1	i	a
+1	v	i
+1	 E	e_
+1	w	œ
+1	a__	n.i
+1	m__	it.
+1	vizi-	 cas_
+1	01	ol
+1	ALLE-jä-	corpo___
+1	c	t
+1	j_	.i
+1	ïx_	ise
+1	-	e
+1	m.	ns
+1	(ll/l	off__
+1	^	A
+1	lïï	 so
+1	m	t
+1	Exi	fac
+1	 ' . l-	_______
+1	O.-''''*	oan.____
+1	m_	ra
+1	V	v
+1	ö	o
+1	äc	èt
+1	.-	__
+1	kvic	 Me_
+1	,6	.&
+1	c	d
+1	u	o
+1	e	è
+1	rcz_	t et
+1	li	 R
+1	lll	iu_
+1	n	a
+1	«_	. 
+1	Lll m	quo__
+1	äl'' n c___	at aduerbi-
+1	:	i
+1	r. ._	sicut
+1	coma &	CONT._
+1	,____	etia 
+1	zur,	, c_
+1	k_	t 
+1	ll;-	ni__
+1	t	c
+1	cü_	esi
+1	1ï_	si 
+1	cl	d_
+1	äü_	ifi
+1	ll)	ib_
+1	- .____	cotinua
+1	60'''.	conti-
+1	äw__	è, v
+1	''	is
+1	 ._	ris
+1	o	_
+1	' '_	lib.
+1	:_	de
+1	aam	 r_
+1	z«	3_
+1	n:	æ_
+1	'' «	ice_
+1	n_	at
+1	 e uinu)	________
+1	''	cr
+1	lno	bie
+1	[	s
+1	ö'	c_
+1	ä	è
+1	t1!	ol_
+1	m'_	in-
+1	t	a
+1	:1s.i	ad___
+1	li:	sa_
+1	m_	ri
+1	h	b
+1	9_	c.
+1	'''' Per	s_______
+1	Arn-	am__
+1	t-	r 
+1	cm_	tin
+1	ic .	r___
+1	 ll _	oscat
+1	 .	__
+1	(y«fcalclm_	in §.sedebu
+1	51:__	fil.2
+1	Jl-	.se
+1	''-_	esse
+1	öc	&_
+0.409783989835

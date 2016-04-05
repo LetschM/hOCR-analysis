@@ -1,17 +1,18 @@
-errors         129
+errors         127
 missing          0
-total          753
-err         17.131 %
-errnomiss   17.131 %
+total          761
+err         16.689 %
+errnomiss   16.689 %
 11	f	s
-7	 	_
-5	_	 
+6	_	 
 4	j	i
 3	r	t
 2	c	e
-2	u_	ti
+2	_	e
 2	å_	ct
 2	ä	à
+2	u_	ti
+1	e'	é_
 1	güe	ûë_
 1	ll	is
 1	le'	sé_
@@ -20,15 +21,13 @@ errnomiss   17.131 %
 1	þ	p
 1	(	s
 1	z_	: 
+1	m	_
 1	l	i
 1	»j	ai
-1	e	_
 1	e	ê
+1	err	cu_
 1	ef	és
-1	i·1	r l
-1	i	_
 1	-	,
-1	err	çu_
 1	n	t
 1	m_	nt
 1	le	'é
@@ -38,25 +37,26 @@ errnomiss   17.131 %
 1	0	o
 1	lk_	st 
 1	'_	xé
-1	fä	té
+1	_	n
 1	Pe_	l'é
-1	_	t
+1	i·1	r l
 1	e	é
 1	ie	'ê
 1	e	s
+1	n	_
 1	r__	 : 
 1	k	r
 1	ï	'
+1	fm___	sins 
 1	'	t
-1	_	e
+1	 	_
+1	ä	é
 1	e	a
-1	fl	si
 1	e	è
-1	e'	é_
+1	fl	si
 1	b_	'o
-1	m__	in 
 1	l	s
 1	er	ci
 1	öcVex	 & l'
 1	ll	st
-0.171314741036
+0.166885676741

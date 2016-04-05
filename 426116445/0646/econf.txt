@@ -1,13 +1,13 @@
 errors         101
 missing          0
-total         1451
-err          6.961 %
-errnomiss    6.961 %
-22	f	s
-9	 	_
+total         1463
+err          6.904 %
+errnomiss    6.904 %
+21	f	s
+6	æ_	ae
 5	_	 
-3	æ_	ae
 3	o	ó
+2	 	_
 2	u	ù
 1	u	n
 1	fl	ct
@@ -23,16 +23,18 @@ errnomiss    6.961 %
 1	fc	se
 1	i	ï
 1	o	_
+1	fæ_	sae
 1	F	s
 1	'	_
 1	lT	ss
 1	t	m
-1	 'I	T__
 1	r	t
+1	'I	T_
 1	Vp_	Quo
 1	lï	ss
 1	rþ__	t si
 1	fl	st
+1	-	_
 1	j	s
 1	ll	ss
 1	m	n
@@ -41,4 +43,4 @@ errnomiss    6.961 %
 1	F	f
 1	l	s
 1	fi	ss
-0.0696071674707
+0.069036226931

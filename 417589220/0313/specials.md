@@ -9,8 +9,7 @@
 0313/line-036.png
 0313/line-037.png
 0313/line-038.png
-# Kopfzeile = Gesperrter text
-0313/line-004.png
+
 # Kursiv
 0313/line-006.png
 0313/line-007.png

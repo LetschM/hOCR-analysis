@@ -1,5 +1,4 @@
- 	_	0646/line-001.gt.txt
- 'I	T__	0646/line-001.gt.txt
+'I	T_	0646/line-001.gt.txt
 m_	us	0646/line-001.gt.txt
 Vp_	Quo	0646/line-002.gt.txt
 fc	se	0646/line-002.gt.txt
@@ -22,16 +21,20 @@ i	ï	0646/line-011.gt.txt
 o	ó	0646/line-011.gt.txt
 f	s	0646/line-011.gt.txt
 m	n	0646/line-012.gt.txt
-h_	si	0646/line-012.gt.txt
 _	a	0646/line-012.gt.txt
+æ_	ae	0646/line-012.gt.txt
+h_	si	0646/line-012.gt.txt
 f	s	0646/line-012.gt.txt
+-	_	0646/line-012.gt.txt
 f	s	0646/line-013.gt.txt
+æ_	ae	0646/line-014.gt.txt
 o	ó	0646/line-015.gt.txt
 rþ__	t si	0646/line-016.gt.txt
 f	s	0646/line-017.gt.txt
 ll	ss	0646/line-017.gt.txt
 '	_	0646/line-017.gt.txt
 f	s	0646/line-018.gt.txt
+fæ_	sae	0646/line-019.gt.txt
 f	s	0646/line-019.gt.txt
 H_	fl	0646/line-020.gt.txt
 f	s	0646/line-020.gt.txt

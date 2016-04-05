@@ -1,14 +1,16 @@
-errors         125
+errors         122
 missing          0
-total          961
-err         13.007 %
-errnomiss   13.007 %
+total          970
+err         12.577 %
+errnomiss   12.577 %
 11	f	s
-6	 	_
+4	 	_
+3	æ_	ae
 2	o	ò
 2	.	_
 2	'	_
 2	l	s
+2	J	A
 2	-	_
 2	P	p
 2	;	.
@@ -19,21 +21,19 @@ errnomiss   13.007 %
 1	-''*	____
 1	__	is
 1	i-f	rs_
-1	æ_	ae
+1	G-	O_
+1	ä_	ct
 1	e	_
 1	pc	st
 1	_	-
 1	llii	ssu_
-1	 J 	A__
 1	 .	__
 1	«	-
-1	ä_	ct
-1	 J	A_
 1	;	_
 1	ü	ù
 1	 x	__
 1	å	t
-1	G	g
+1	!	I
 1	_	,
 1	t	r
 1	d	_
@@ -44,19 +44,19 @@ errnomiss   13.007 %
 1	m	-
 1	 «	__
 1	z	,
-1	ll	st
 1	fl	st
 1	:	e
 1	_	e
 1	(	s
-1	 ! G-	IO___
 1	lf	ss
 1	,-	;_
+1	ll	st
 1	_	 
 1	e	è
-1	d_	cl
 1	u	ù
+1	d_	cl
 1	Pf	ps
+1	G	g
 1	fl	ss
 1	_	J
 1	' 	__
@@ -66,4 +66,4 @@ errnomiss   13.007 %
 1	å	à
 1	;	-
 1	ff	ss
-0.130072840791
+0.125773195876

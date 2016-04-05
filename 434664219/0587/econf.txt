@@ -1,8 +1,8 @@
-errors         526
+errors         525
 missing          0
-total         2236
-err         23.524 %
-errnomiss   23.524 %
+total         2242
+err         23.417 %
+errnomiss   23.417 %
 43	_	 
 27	f	s
 17	r	t
@@ -20,8 +20,8 @@ errnomiss   23.524 %
 2	l	s
 2	:	e
 2	ä	à
-2	m_	ra
 2	c	t
+2	m_	ra
 2	t	r
 2	u	i
 2	i'	s_
@@ -40,7 +40,7 @@ errnomiss   23.524 %
 1	in_	st,
 1	ri-m	:no_
 1	i	î
-1	ä_	â 
+1	-,	;_
 1	a	o
 1	n	_
 1	_	c
@@ -85,7 +85,6 @@ errnomiss   23.524 %
 1	s	_
 1	ï	i
 1	e'	? 
-1	.	:
 1	_	n
 1	a	u
 1	ll	st
@@ -93,12 +92,11 @@ errnomiss   23.524 %
 1	-sc	: &
 1	l	)
 1	m__	 ut
-1	31	à_
+1	u	n
 1	ï'lïc	ne___
 1	r_	se
 1	r	d
 1	_	e
-1	r.'r	ù___
 1	I	E
 1	i'cfx	se si
 1	m_	ta
@@ -107,6 +105,7 @@ errnomiss   23.524 %
 1	iirä	suâ_
 1	i	;
 1	n_	lâ
+1	r.'r	ù___
 1	'	_
 1	»	_
 1	'';	553
@@ -120,7 +119,6 @@ errnomiss   23.524 %
 1	a_	ss
 1	__	, 
 1	t	e
-1	xäpv 	_____
 1	?	_
 1	flir	ssu_
 1	.	-
@@ -132,15 +130,15 @@ errnomiss   23.524 %
 1	(i	q_
 1	i	s
 1	fm_	sin
-1	u	n
+1	31	à_
 1	rf	is
 1	. j	J__
 1	o	ò
 1	 »Es-»M-	________
+1	C	c
 1	e	o
 1	il	ss
 1	ä_	 à
-1	C	c
 1	m__	ist
 1	n___	it,s
 1	_	o
@@ -156,7 +154,7 @@ errnomiss   23.524 %
 1	'	 
 1	or	et
 1	lï'	ss_
-1	-,	;_
+1	ä_	â 
 1	f_	 s
 1	f'	s_
 1	D	P
@@ -165,6 +163,7 @@ errnomiss   23.524 %
 1	&	_
 1	-_	ae
 1	«	a
+1	xäpv_	λόγον
 1	m_	tr
 1	eü	cù
 1	fi'c	sse_
@@ -174,4 +173,4 @@ errnomiss   23.524 %
 1	ö	è
 1	H_	fi
 1	cl	ù_
-0.235241502683
+0.234165923283

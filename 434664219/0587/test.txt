@@ -1,4 +1,3 @@
-.	:	0587/line-001.gt.txt
 _	 	0587/line-001.gt.txt
 I	E	0587/line-001.gt.txt
 '';	553	0587/line-001.gt.txt
@@ -122,9 +121,9 @@ r	t	0587/line-020.gt.txt
 .	-	0587/line-021.gt.txt
 _	 	0587/line-021.gt.txt
 fi'c	sse_	0587/line-021.gt.txt
-f	s	0587/line-021.gt.txt
 flir	ssu_	0587/line-021.gt.txt
-xäpv 	_____	0587/line-021.gt.txt
+xäpv_	λόγον	0587/line-021.gt.txt
+f	s	0587/line-021.gt.txt
 r	t	0587/line-021.gt.txt
 ('c	se_	0587/line-022.gt.txt
 fl'	ss_	0587/line-022.gt.txt

@@ -1,7 +1,6 @@
- 	_	0035/line-002.gt.txt
- J	A_	0035/line-002.gt.txt
- J 	A__	0035/line-002.gt.txt
- ! G-	IO___	0035/line-002.gt.txt
+J	A	0035/line-002.gt.txt
+G-	O_	0035/line-002.gt.txt
+!	I	0035/line-002.gt.txt
 -,	;_	0035/line-003.gt.txt
 m	-	0035/line-004.gt.txt
 Pf	ps	0035/line-004.gt.txt
@@ -70,6 +69,7 @@ lf	ss	0035/line-026.gt.txt
 u	ù	0035/line-026.gt.txt
 z	,	0035/line-026.gt.txt
 f	s	0035/line-027.gt.txt
+æ_	ae	0035/line-027.gt.txt
 .	_	0035/line-027.gt.txt
 å	à	0035/line-027.gt.txt
 fl'	st_	0035/line-028.gt.txt

@@ -1,11 +1,10 @@
-errors         116
+errors         110
 missing          0
-total          744
-err         15.591 %
-errnomiss   15.591 %
+total          750
+err         14.667 %
+errnomiss   14.667 %
 9	r	t
 6	f	s
-6	 	_
 3	c	e
 3	_	 
 3	j	i
@@ -14,7 +13,6 @@ errnomiss   15.591 %
 2	u	o
 2	l	s
 1	iw	uv
-1	ï	i
 1	_	a
 1	«e«	'é_
 1	n-	rr
@@ -47,13 +45,14 @@ errnomiss   15.591 %
 1	(	s
 1	d	à
 1	m_	vo
+1	n	.
 1	n	_
 1	m_	rn
 1	lu	m_
 1	e'	é_
-1	n	.
+1	ï	i
 1	er	êt
 1	u	n
 1	t	f
 1	fg	sc
-0.155913978495
+0.146666666667

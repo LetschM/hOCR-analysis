@@ -1,6 +1,6 @@
- I- 	L___	0312/line-002.gt.txt
- Ä 	A__	0312/line-002.gt.txt
+I-	L_	0312/line-002.gt.txt
 ::	02	0312/line-002.gt.txt
+Ä	A	0312/line-002.gt.txt
 1.:1_	iasti	0312/line-003.gt.txt
 u	_	0312/line-003.gt.txt
 :	2	0312/line-003.gt.txt

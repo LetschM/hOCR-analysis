@@ -1,0 +1,196 @@
+ 	_	0181/line-002.gt.txt
+'	 	0181/line-002.gt.txt
+i-S	.__	0181/line-002.gt.txt
+Jst	181	0181/line-002.gt.txt
+.	-	0181/line-003.gt.txt
+i	r	0181/line-003.gt.txt
+H_	st	0181/line-003.gt.txt
+ä	a	0181/line-003.gt.txt
+f	s	0181/line-003.gt.txt
+r	t	0181/line-003.gt.txt
+nk-	usa	0181/line-004.gt.txt
+s	c	0181/line-004.gt.txt
+sk_	cit	0181/line-004.gt.txt
+l_	r,	0181/line-004.gt.txt
+_	x	0181/line-004.gt.txt
+f	s	0181/line-004.gt.txt
+e	_	0181/line-004.gt.txt
+.	-	0181/line-005.gt.txt
+m_	,n	0181/line-005.gt.txt
+_	 	0181/line-005.gt.txt
+x	_	0181/line-005.gt.txt
+_	t	0181/line-005.gt.txt
+r	s	0181/line-006.gt.txt
+»_	1.	0181/line-006.gt.txt
+ff	ss	0181/line-006.gt.txt
+f	s	0181/line-006.gt.txt
+Hn_	lle	0181/line-006.gt.txt
+;	.	0181/line-007.gt.txt
+m	n	0181/line-007.gt.txt
+G__	si 	0181/line-007.gt.txt
+n	s	0181/line-007.gt.txt
+m_	in	0181/line-007.gt.txt
+.	_	0181/line-007.gt.txt
+lii_	.ff.	0181/line-007.gt.txt
+i	f	0181/line-007.gt.txt
+de	a.	0181/line-007.gt.txt
+__	at	0181/line-007.gt.txt
+:-	r_	0181/line-008.gt.txt
+ü	u	0181/line-008.gt.txt
+i	a	0181/line-008.gt.txt
+_	v	0181/line-008.gt.txt
+f	s	0181/line-008.gt.txt
+i	_	0181/line-008.gt.txt
+v	.	0181/line-008.gt.txt
+_	s	0181/line-008.gt.txt
+(	s	0181/line-009.gt.txt
+:	a	0181/line-009.gt.txt
+F	f	0181/line-009.gt.txt
+f	s	0181/line-009.gt.txt
+:	t	0181/line-009.gt.txt
+f	s	0181/line-010.gt.txt
+h	E	0181/line-010.gt.txt
+Jï_	,si	0181/line-010.gt.txt
+wc__	t et	0181/line-010.gt.txt
+o	_	0181/line-010.gt.txt
+f	s	0181/line-011.gt.txt
+.	-	0181/line-011.gt.txt
+æ	œ	0181/line-011.gt.txt
+ä_	 à	0181/line-012.gt.txt
+&n_	cta	0181/line-012.gt.txt
+i	s	0181/line-012.gt.txt
+f	s	0181/line-012.gt.txt
+:	t	0181/line-012.gt.txt
+;	.	0181/line-013.gt.txt
+ . ( ;	______	0181/line-013.gt.txt
+_	 	0181/line-013.gt.txt
+f	s	0181/line-013.gt.txt
+m_	n.	0181/line-014.gt.txt
+ü_	st	0181/line-014.gt.txt
+__	to	0181/line-015.gt.txt
+a	_	0181/line-015.gt.txt
+u	n	0181/line-015.gt.txt
+f	s	0181/line-015.gt.txt
+i-	r_	0181/line-015.gt.txt
+.	-	0181/line-016.gt.txt
+_	 	0181/line-016.gt.txt
+.	-	0181/line-017.gt.txt
+z	æ	0181/line-017.gt.txt
+ö	c	0181/line-017.gt.txt
+r	t	0181/line-017.gt.txt
+ 	_	0181/line-017.gt.txt
+fg__	sque	0181/line-017.gt.txt
+ä_	ct	0181/line-017.gt.txt
+_	 	0181/line-018.gt.txt
+-	_	0181/line-018.gt.txt
+nä_	tia	0181/line-018.gt.txt
+h	n	0181/line-018.gt.txt
+ü_	si	0181/line-018.gt.txt
+$	S	0181/line-018.gt.txt
+f	s	0181/line-018.gt.txt
+üäs,__	si.25.	0181/line-019.gt.txt
+ «	__	0181/line-019.gt.txt
+i	1	0181/line-019.gt.txt
+:	2	0181/line-019.gt.txt
+P	F	0181/line-019.gt.txt
+s	1	0181/line-020.gt.txt
+_	 	0181/line-020.gt.txt
+-	 	0181/line-020.gt.txt
+__	vs	0181/line-021.gt.txt
+;	e	0181/line-021.gt.txt
+i-	r_	0181/line-021.gt.txt
+i	1	0181/line-022.gt.txt
+ï	_	0181/line-022.gt.txt
+z;	æ-	0181/line-022.gt.txt
+f	s	0181/line-022.gt.txt
+ö	o	0181/line-022.gt.txt
+f_	ss	0181/line-022.gt.txt
+L_	l.	0181/line-022.gt.txt
+t	s	0181/line-022.gt.txt
+_	-	0181/line-023.gt.txt
+k	t	0181/line-023.gt.txt
+ä	a	0181/line-023.gt.txt
+c	C	0181/line-023.gt.txt
+1	I	0181/line-023.gt.txt
+u	_	0181/line-023.gt.txt
+_	 	0181/line-024.gt.txt
+cis-öd [	tract.s_	0181/line-024.gt.txt
+m_	nt	0181/line-024.gt.txt
+f	s	0181/line-024.gt.txt
+u	a	0181/line-024.gt.txt
+h_	te	0181/line-024.gt.txt
+ü_	si	0181/line-024.gt.txt
+ 	_	0181/line-024.gt.txt
+_	 	0181/line-025.gt.txt
+lhu	st_	0181/line-025.gt.txt
+a	s	0181/line-025.gt.txt
+ *_	34.	0181/line-025.gt.txt
+I	r	0181/line-025.gt.txt
+h	_	0181/line-025.gt.txt
+i	s	0181/line-025.gt.txt
+6	§	0181/line-025.gt.txt
+£	E	0181/line-025.gt.txt
+f-__	 in 	0181/line-025.gt.txt
+h-m__	uoque	0181/line-026.gt.txt
+(	s	0181/line-026.gt.txt
+' '0_	ictio	0181/line-026.gt.txt
+_	 	0181/line-026.gt.txt
+.	-	0181/line-027.gt.txt
+lJE___	i. ff.	0181/line-027.gt.txt
+mNC_	ranc	0181/line-027.gt.txt
+,	.	0181/line-027.gt.txt
+P	o	0181/line-027.gt.txt
+c	e	0181/line-027.gt.txt
+am_	ou.	0181/line-027.gt.txt
+n	m	0181/line-028.gt.txt
+l	s	0181/line-028.gt.txt
+j_	.i	0181/line-028.gt.txt
+mh_	n.A	0181/line-028.gt.txt
+i8	10	0181/line-028.gt.txt
+.	-	0181/line-029.gt.txt
+Jögä____	.263.ff.	0181/line-029.gt.txt
+t_	l.	0181/line-029.gt.txt
+_	 	0181/line-029.gt.txt
+f	s	0181/line-029.gt.txt
+ -	__	0181/line-030.gt.txt
+ä_	ct	0181/line-030.gt.txt
+_	 	0181/line-031.gt.txt
+m_	tu	0181/line-031.gt.txt
+f	†	0181/line-031.gt.txt
+cf	es	0181/line-031.gt.txt
+ 	_	0181/line-031.gt.txt
+f_	 s	0181/line-031.gt.txt
+ä	c	0181/line-032.gt.txt
+ü_	si	0181/line-033.gt.txt
+!ïï	ff.	0181/line-033.gt.txt
+ &	si	0181/line-033.gt.txt
+ai-	ær_	0181/line-033.gt.txt
+I	l	0181/line-034.gt.txt
+,:	r_	0181/line-034.gt.txt
+uSc	t.&	0181/line-034.gt.txt
+aJE__	s.ff.	0181/line-034.gt.txt
+R_	st	0181/line-034.gt.txt
+ 	_	0181/line-034.gt.txt
+ä	a	0181/line-034.gt.txt
+c_	e 	0181/line-035.gt.txt
+_	.	0181/line-035.gt.txt
+i	s	0181/line-035.gt.txt
+a_	ct	0181/line-035.gt.txt
+&	f	0181/line-035.gt.txt
+f	s	0181/line-035.gt.txt
+c	e	0181/line-035.gt.txt
+m&___	tract	0181/line-036.gt.txt
+3:	.&	0181/line-036.gt.txt
+q	c	0181/line-036.gt.txt
+f	s	0181/line-036.gt.txt
+tï	fi	0181/line-036.gt.txt
+-	1	0181/line-036.gt.txt
+;-	e_	0181/line-036.gt.txt
+£	E	0181/line-036.gt.txt
+, 	._	0181/line-037.gt.txt
+ 	_	0181/line-037.gt.txt
+b	ò	0181/line-037.gt.txt
+f	s	0181/line-037.gt.txt
+ ()	o__	0181/line-037.gt.txt
+z	3	0181/line-039.gt.txt
+ O ru.	oni-__	0181/line-039.gt.txt
