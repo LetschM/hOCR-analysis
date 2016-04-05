@@ -1,0 +1,190 @@
+errors         565
+missing          0
+total         1686
+err         33.511 %
+errnomiss   33.511 %
+33	_	 
+11	c	e
+9	f	s
+5	l	s
+3	m_	in
+3	m_	n.
+3	c	t
+2	ö	e
+2	_	.
+2	ü	u
+2	0	o
+2	m	n
+2	.	_
+2	l	_
+2	r	t
+2	l	I
+2	j	i
+2	l	i
+2	_	i
+1	:	_
+1	O	d
+1	''!'' »i	tun_____
+1	uem	 &_
+1	n_	ti
+1	ff	ss
+1	M___	d.c.
+1	z-	31
+1	6	e
+1	s'' _	gress
+1	' ac	.___
+1	c_	e 
+1	?!	__
+1	f' «fo	e-____
+1	5.	à_
+1	8	S
+1	1	 
+1	ieiu_	§. om
+1	l	u
+1	_	q
+1	g	3
+1	m	 
+1	_	t
+1	ic	__
+1	i	j
+1	. · «an	ctu____
+1	z	2
+1	:	2
+1	- ille;!	._______
+1	n_	11
+1	l-P	sp_
+1	(	s
+1	þ''	17.
+1	kx_	n. 
+1	n_	t,
+1	 &	__
+1	· i	fa_
+1	''132- '	sit,in__
+1	LIMbe ''	in no.s_
+1	. ;'fad	,______
+1	''P;-' STIM-	appel.______
+1	.''!w	ima__
+1	___	& d
+1	a	_
+1	''''!	 tam_
+1	m	_
+1	-IJ '' '	.i._____
+1	;:W	te_
+1	€_	 e
+1	n.	xi
+1	b	ò
+1	r	_
+1	n	-
+1	 ''M	____
+1	t«n	m__
+1	l-« EVEN-	c________
+1	' 	__
+1	n	p
+1	m:	nt
+1	-1	n_
+1	_	n
+1	ä	a
+1	fciö	sde 
+1	u	_
+1	ll	st
+1	''	__
+1	:	e
+1	in	m_
+1	ü_	si
+1	mh 	ssu
+1	fV	Qu
+1	l'	 T
+1	n__	cut
+1	???	___
+1	(	t
+1	F	f
+1	:	t
+1	l_	it
+1	1''	in_
+1	ä_	 á
+1	n_	r.
+1	09 	uo_
+1	jt1	in_
+1	CX	ex
+1	m_	ic
+1	-.	ct
+1	m_	ta
+1	e	c
+1	 (illa	______
+1	FS-öc, »	es,& He-
+1	l , du,,	io-_____
+1	öcf	& s
+1	e_	.&
+1	'	_
+1	æ__	ae 
+1	ls''l«.n_	iari pos-
+1	F ef	au-_
+1	iin '	ho-__
+1	s:	r,
+1	il	st
+1	«i	d_
+1	ö	ò
+1	''''	d___
+1	 	l
+1	m_	ra
+1	ö	o
+1	-T-	i.&
+1	*__	ea-
+1	sstmkz_	.§.prim
+1	u	o
+1	,_	in
+1	ä_	 §
+1	a-''''.1	em in___
+1	s_	l.
+1	Exil-V lj 	statuere,_
+1	z	3
+1	n_	ri
+1	j_	 i
+1	'n	__
+1	-l	a_
+1	i:	è_
+1	 ,_	pus
+1	qu	__
+1	 «	&_
+1	o	ò
+1	r;	__
+1	la.	10 
+1	fc	se
+1	P	p
+1	(:	c_
+1	fl	ri
+1	cl	es
+1	F	s
+1	f	e
+1	lf	ss
+1	- 50	an-_
+1	13	ia
+1	öc	 &
+1	Cio__	ss.10
+1	f_	 s
+1	k1	n_
+1	hr	le
+1	e	i
+1	l- 	1._
+1	''? m	_____
+1	a_	se
+1	ii	n_
+1	.	 
+1	öc	& 
+1	ted''	in-__
+1	lï	si
+1	-	.
+1	ez- ?_	abbre-
+1	m-_	tiæ
+1	t	f
+1	OE	Qu
+1	uf	es
+1	Jl- 	. 12
+1	l	1
+1	ö	è
+1	ig	ta
+1	10m'	io__
+1	' qui;	appel.
+1	y_	.v
+1	___	n 1
+0.335112692764
