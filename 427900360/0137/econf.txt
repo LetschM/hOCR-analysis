@@ -1,0 +1,143 @@
+errors         411
+missing          0
+total         1080
+err         38.056 %
+errnomiss   38.056 %
+10	u	a
+3	f	p
+3	_	 
+2	:	s
+2	_	a
+2	u_	is
+2	__	 i
+2	_	s
+2	fu_	 pa
+2	g	q
+2	_	i
+2	u	n
+2	 1	II
+2	o	s
+1	uff	app
+1	[e	su
+1	b	r
+1	are	tus
+1	ji	 p
+1	s-U	h__
+1	»	n
+1	a/i	b__
+1	/	s
+1	j_	ss
+1	flez	sta_
+1	1 7217	Tab___
+1	um	ar
+1	c	e
+1	_	,
+1	-Ä_	ab.
+1	_	c
+1	ag_	e,q
+1	n	i
+1	-	_
+1	:	_
+1	e	è
+1	ue	at
+1	hoff	psit
+1	m_	us
+1	F.-z	 pa_
+1	MS____	esset,
+1	ly	b_
+1	ALLE-W___	edicto su
+1	1 f	si_
+1	m__	ris
+1	JTVZØ	sus__
+1	174	pa_
+1	a!	d_
+1	u_	 a
+1	 11	II_
+1	o	u
+1	z	5
+1	m__	121
+1	äï	ct
+1	i	_
+1	lb	 p
+1	g__	is.
+1	q	i
+1	fi	su
+1	fu	__
+1	iefu	æ pa
+1	un	im
+1	r	t
+1	-»-	or_
+1	uu	na
+1	D	u
+1	fuf_	 pat
+1	mi_	tra
+1	fur_	 pat
+1	n:_	t a
+1	f__	 sc
+1	g	_
+1	f_	si
+1	_	ß
+1	es	ræ
+1	ell	q__
+1	lo	p_
+1	1706	hoc_
+1	11	h_
+1	1. 1	LII:
+1	e	c
+1	fe	sc
+1	p_	ßi
+1	K	_
+1	_	u
+1	ï	r
+1	 ?	P_
+1	of_	psi
+1	z	i
+1	k	h
+1	1.	De
+1	.Qïezfiujï	Papia stat
+1	 V	ß_
+1	 	_
+1	THE	Si_
+1	üiur_	, pat
+1	.	-
+1	if-«ka	status
+1	 Me_	rb. 
+1	:: mr	rat__
+1	þ	s
+1	./180	licto
+1	fe	pt
+1	l	h
+1	Ofd_	& pa
+1	e/742''	abat___
+1	:	t
+1	o	ò
+1	mm	ra
+1	Off	Ulp
+1	m_	,n
+1	go_	sse
+1	an__	sexa
+1	[ïd 	trah
+1	fer	 sc
+1	o	_
+1	ri	n_
+1	[	l
+1	rfþo_	tsi s
+1	w-2»-F	ronus_
+1	ii;	ta_
+1	f	t
+1	fr'u	sta_
+1	?ur	Pat
+1	fi	ct
+1	fskv	p___
+1	En_	Præ
+1	hf	H_
+1	u_	ij
+1	Fex/Z	st___
+1	jy	 p
+1	ND-Xb-______	urisconsilti
+1	m-	or
+1	d	a
+1	__	us
+1	([	__
+0.380555555556
+

@@ -1,0 +1,156 @@
+m__	121	0137/line-001.gt.txt
+c	e	0137/line-001.gt.txt
+fe	pt	0137/line-002.gt.txt
+u	a	0137/line-002.gt.txt
+_	a	0137/line-002.gt.txt
+u_	is	0137/line-002.gt.txt
+__	 i	0137/line-003.gt.txt
+fr'u	sta_	0137/line-003.gt.txt
+þ	s	0137/line-003.gt.txt
+are	tus	0137/line-003.gt.txt
+o	s	0137/line-003.gt.txt
+[e	su	0137/line-003.gt.txt
+./180	licto	0137/line-004.gt.txt
+ri	n_	0137/line-004.gt.txt
+_	i	0137/line-004.gt.txt
+üiur_	, pat	0137/line-004.gt.txt
+p_	ßi	0137/line-005.gt.txt
+j_	ss	0137/line-005.gt.txt
+lb	 p	0137/line-005.gt.txt
+u_	is	0137/line-005.gt.txt
+a!	d_	0137/line-005.gt.txt
+ly	b_	0137/line-005.gt.txt
+174	pa_	0137/line-005.gt.txt
+o	u	0137/line-005.gt.txt
+iefu	æ pa	0137/line-005.gt.txt
+hf	H_	0137/line-006.gt.txt
+es	ræ	0137/line-006.gt.txt
+-»-	or_	0137/line-006.gt.txt
+f	p	0137/line-006.gt.txt
+z	i	0137/line-006.gt.txt
+o	s	0137/line-006.gt.txt
+ V	ß_	0137/line-006.gt.txt
+ND-Xb-______	urisconsilti	0137/line-007.gt.txt
+K	_	0137/line-007.gt.txt
+ 	_	0137/line-007.gt.txt
+:: mr	rat__	0137/line-007.gt.txt
+u	a	0137/line-007.gt.txt
+_	 	0137/line-008.gt.txt
+Fex/Z	st___	0137/line-008.gt.txt
+u	a	0137/line-008.gt.txt
+ag_	e,q	0137/line-008.gt.txt
+fuf_	 pat	0137/line-008.gt.txt
+u	n	0137/line-008.gt.txt
+un	im	0137/line-008.gt.txt
+[ïd 	trah	0137/line-008.gt.txt
+Ofd_	& pa	0137/line-009.gt.txt
+uff	app	0137/line-009.gt.txt
+d	a	0137/line-009.gt.txt
+ï	r	0137/line-009.gt.txt
+u	a	0137/line-009.gt.txt
+?ur	Pat	0137/line-009.gt.txt
+e	c	0137/line-009.gt.txt
+ue	at	0137/line-009.gt.txt
+Off	Ulp	0137/line-010.gt.txt
+fer	 sc	0137/line-010.gt.txt
+_	a	0137/line-010.gt.txt
+__	us	0137/line-010.gt.txt
+/	s	0137/line-010.gt.txt
+f_	si	0137/line-010.gt.txt
+f	p	0137/line-010.gt.txt
+an__	sexa	0137/line-010.gt.txt
+.	-	0137/line-011.gt.txt
+1.	De	0137/line-011.gt.txt
+ Me_	rb. 	0137/line-011.gt.txt
+fi	ct	0137/line-011.gt.txt
+g__	is.	0137/line-011.gt.txt
+D	u	0137/line-011.gt.txt
+n	i	0137/line-011.gt.txt
+1. 1	LII:	0137/line-011.gt.txt
+of_	psi	0137/line-012.gt.txt
+1706	hoc_	0137/line-012.gt.txt
+s-U	h__	0137/line-012.gt.txt
+o	_	0137/line-012.gt.txt
+_	c	0137/line-012.gt.txt
+fe	sc	0137/line-012.gt.txt
+äï	ct	0137/line-012.gt.txt
+lo	p_	0137/line-013.gt.txt
+f	t	0137/line-013.gt.txt
+f__	 sc	0137/line-013.gt.txt
+jy	 p	0137/line-013.gt.txt
+i	_	0137/line-013.gt.txt
+fi	su	0137/line-013.gt.txt
+ell	q__	0137/line-013.gt.txt
+g	q	0137/line-013.gt.txt
+hoff	psit	0137/line-014.gt.txt
+g	q	0137/line-014.gt.txt
+MS____	esset,	0137/line-014.gt.txt
+fu_	 pa	0137/line-015.gt.txt
+e/742''	abat___	0137/line-015.gt.txt
+JTVZØ	sus__	0137/line-015.gt.txt
+1 7217	Tab___	0137/line-015.gt.txt
+ 1	II	0137/line-015.gt.txt
+([	__	0137/line-015.gt.txt
+ ?	P_	0137/line-015.gt.txt
+u	a	0137/line-016.gt.txt
+_	 	0137/line-016.gt.txt
+u_	ij	0137/line-016.gt.txt
+_	i	0137/line-016.gt.txt
+m_	,n	0137/line-016.gt.txt
+f	p	0137/line-016.gt.txt
+e	è	0137/line-016.gt.txt
+u	n	0137/line-016.gt.txt
+ji	 p	0137/line-016.gt.txt
+fu_	 pa	0137/line-017.gt.txt
+uu	na	0137/line-017.gt.txt
+_	 	0137/line-018.gt.txt
+m_	us	0137/line-018.gt.txt
+.Qïezfiujï	Papia stat	0137/line-018.gt.txt
+__	 i	0137/line-018.gt.txt
+fu	__	0137/line-018.gt.txt
+fur_	 pat	0137/line-018.gt.txt
+um	ar	0137/line-018.gt.txt
+_	s	0137/line-018.gt.txt
+n:_	t a	0137/line-018.gt.txt
+_	,	0137/line-018.gt.txt
+u	a	0137/line-019.gt.txt
+-	_	0137/line-019.gt.txt
+:	t	0137/line-019.gt.txt
+l	h	0137/line-019.gt.txt
+g	_	0137/line-019.gt.txt
+a/i	b__	0137/line-019.gt.txt
+_	u	0137/line-020.gt.txt
+flez	sta_	0137/line-020.gt.txt
+rfþo_	tsi s	0137/line-020.gt.txt
+THE	Si_	0137/line-020.gt.txt
+k	h	0137/line-020.gt.txt
+ 11	II_	0137/line-021.gt.txt
+-Ä_	ab.	0137/line-022.gt.txt
+»	n	0137/line-022.gt.txt
+F.-z	 pa_	0137/line-022.gt.txt
+:	_	0137/line-022.gt.txt
+w-2»-F	ronus_	0137/line-022.gt.txt
+m__	ris	0137/line-023.gt.txt
+_	s	0137/line-023.gt.txt
+mi_	tra	0137/line-023.gt.txt
+ 1	II	0137/line-023.gt.txt
+[	l	0137/line-023.gt.txt
+1 f	si_	0137/line-023.gt.txt
+u	a	0137/line-023.gt.txt
+:	s	0137/line-024.gt.txt
+if-«ka	status	0137/line-024.gt.txt
+u_	 a	0137/line-024.gt.txt
+b	r	0137/line-024.gt.txt
+go_	sse	0137/line-024.gt.txt
+fskv	p___	0137/line-024.gt.txt
+r	t	0137/line-024.gt.txt
+ii;	ta_	0137/line-025.gt.txt
+o	ò	0137/line-025.gt.txt
+q	i	0137/line-025.gt.txt
+mm	ra	0137/line-025.gt.txt
+m-	or	0137/line-025.gt.txt
+_	ß	0137/line-025.gt.txt
+En_	Præ	0137/line-025.gt.txt
+ALLE-W___	edicto su	0137/line-025.gt.txt
+11	h_	0137/line-026.gt.txt
+z	5	0137/line-026.gt.txt

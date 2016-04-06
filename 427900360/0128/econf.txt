@@ -1,0 +1,197 @@
+errors         661
+missing          0
+total         1045
+err         63.254 %
+errnomiss   63.254 %
+11	n	u
+8	_	 
+7	 	_
+4	z'	i_
+2	e	_
+2	a	o
+2	n	a
+2	e!	d_
+2	''	__
+2	Cy-	&__
+2	«_	ut
+2	cl	d_
+2	-	_
+1	Z,	L_
+1	;;	r_
+1	E_	Qu
+1	£	à
+1	n	 
+1	wf__	os p
+1	Be	fu
+1	n__	 re
+1	ez/j	uiss
+1	Æmx__	Horat
+1	z'ez'	ici__
+1	i?	st
+1	-z;-;2«i mey	nassæus_____
+1	er	t_
+1	JOHN-L_	qui hab
+1	ä «	-__
+1	åzZz«	alica
+1	dzä'	112_
+1	ma_	ino
+1	jyne	 pat
+1	n;	us
+1	 	d
+1	ä	u
+1	tfn	s__
+1	f	p
+1	ae	æ_
+1	e-e	u__
+1	nel	ad_
+1	e æl	bit 
+1	ïnn	Pau
+1	?	P
+1	:? '_	pater
+1	JZM	sua
+1	re?	atu
+1	emer	ætat
+1	a;	os
+1	lem'	ri__
+1	 »	__
+1	Zw	D_
+1	z'	ib
+1	Jä	Tu
+1	fz'	si_
+1	! nf	pul_
+1	i-ed_	ralit
+1	» f .	-____
+1	m-I_	roru
+1	_	a
+1	f	s
+1	f .	i__
+1	it-f	b.si
+1	/j	ss
+1	er' 	____
+1	fäï'üdfd	seruata_
+1	-e:	ptè
+1	ffnf_	ptus 
+1	j 	ss
+1	än	bu
+1	OR z	____
+1	s-«r	r t_
+1	j	s
+1	Inde	huic
+1	r	t
+1	M_	ra
+1	nel/ne	adhu__
+1	6 	C_
+1	e_	li
+1	[me	put
+1	z'e	ic_
+1	W _	nas
+1	 J J	II__
+1	zl	d_
+1	czi__	aquë 
+1	me	__
+1	ffäz/r	t salt
+1	KLEMM	Rarum
+1	nem	it_
+1	lü	p_
+1	e	a
+1	'rgäg	OOOOO
+1	einen,]	quod___
+1	 -	__
+1	 m	ru
+1	?em	Pau
+1	_	e
+1	e;	is
+1	___	por
+1	* -	___
+1	Fr	pt
+1	B	b
+1	elfe	du__
+1	[nen	lata
+1	affe_	os su
+1	m_	ta
+1	v	b
+1	we	ru
+1	e	c
+1	ÆEZZZJJJFO ._	Hostilij pro-
+1	11an_	illud
+1	ï	_
+1	jü	p_
+1	(«7 721	& Papia
+1	'	_
+1	'm	in
+1	a/& «	do___
+1	ay-De_	omæ Fu
+1	nje	asc
+1	e:	a_
+1	 F	__
+1	n/ïïn	usqu_
+1	ne	iu
+1	z'r	it_
+1	z'Z	ia_
+1	uf__	ccip
+1	m'	ui
+1	m-n_	roru
+1	nmæ__	uerso
+1	; s	___
+1	mn_	scr
+1	een	au_
+1	(f	eß
+1	ffw'z'f'e	perité___
+1	e	è
+1	geez'el	quid __
+1	e)''	____
+1	ne_	tat
+1	]n	Iu
+1	«z«-»-»»r	uiuerent_
+1	[n	l_
+1	ne	ho
+1	Y-zij 	ugus__
+1	lm	ha
+1	nz'	uid
+1	em»!	ibus
+1	:	t
+1	» . 	____
+1	''	._
+1	n___	cofu
+1	/e	sc
+1	f	_
+1	__	is
+1	/nnnm];_	habuisse
+1	_	r
+1	« z ;_	uixit,
+1	www-is .' «-	annotauit,__
+1	P	p
+1	nellenlf	ad pub__
+1	_	o
+1	a'za	dio_
+1	n:	us
+1	' --	____
+1	z223wx	minos_
+1	jfnf_	ysius
+1	z	t
+1	[	l
+1	ne	ub
+1	M	_
+1	s	a
+1	e	i
+1	(	C
+1	FAM	Te_
+1	n	à
+1	n'/5	us__
+1	'' E '''	________
+1	e_	 t
+1	 ,	__
+1	m_	,a
+1	. f_	potu
+1	en	ta
+1	_	m
+1	 «	__
+1	g___	ysio
+1	TIERE-oh_	OOOOOOOO,
+1	 .	__
+1	''Jacïdl'c;	OOOOOO_____
+1	gene	quæ_
+1	M__	lib
+1	l./Vlf;	_______
+1	ze	i_
+0.632535885167
