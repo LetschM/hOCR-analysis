@@ -1,11 +1,11 @@
-errors         379
+errors         370
 missing          0
-total         1033
-err         36.689 %
-errnomiss   36.689 %
-13	_	 
+total         1018
+err         36.346 %
+errnomiss   36.346 %
 6	 	_
 5	f	s
+4	_	 
 4	rn	m_
 3	f	p
 3	_	s
@@ -31,15 +31,16 @@ errnomiss   36.689 %
 1	ä	b
 1	a	à
 1	ä_	ct
+1	!	I
 1	 [,	L__
 1	; M	Met
+1	 c 	C__
 1	_	c
 1	cil	ed_
 1	dä_	 sc
 1	di	ll
 1	5	&
 1	-H	ib
-1	!_	 I
 1	f	r
 1	o	s
 1	ij	y_
@@ -57,7 +58,7 @@ errnomiss   36.689 %
 1	 J J	II__
 1	tl	d_
 1	Jä-!	sed_
-1	c	C
+1	. MERMI-	Augustus
 1	s	i
 1	J	A
 1	;,»;	se__
@@ -69,7 +70,6 @@ errnomiss   36.689 %
 1	N JZMFM	statem_
 1	lo	p_
 1	/E	se
-1	xu;__	X I X
 1	in	m_
 1	m__	r,e
 1	f__	 si
@@ -95,7 +95,7 @@ errnomiss   36.689 %
 1	þ	s
 1	u	y
 1	F F	p__
-1	_	i
+1	 xu;	XIX_
 1	 	s
 1	« -J	A___
 1	-Wy-	or__
@@ -106,11 +106,11 @@ errnomiss   36.689 %
 1	f_	 p
 1	f	I
 1	(l	d_
-1	. MERMI-	Augustus
 1	i	u
 1	M_	op
 1	jï	st
 1	ii_	u_m
+1	_	i
 1	lo	h_
 1	[	l
 1	Physer_	Fortaße
@@ -122,4 +122,4 @@ errnomiss   36.689 %
 1	»Am-ZWE___	augenda,Se
 1	i!	d_
 1	_	o
-0.366892545983
+0.363457760314

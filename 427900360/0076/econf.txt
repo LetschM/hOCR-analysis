@@ -1,0 +1,172 @@
+errors         491
+missing          0
+total         1054
+err         46.584 %
+errnomiss   46.584 %
+11	ii	u_
+4	i	_
+4	P	p
+3	o	b
+3	 	_
+2	_	.
+2	fi	st
+2	mi	na
+2	æ	œ
+2	c	C
+2	;	s
+2	ii	ù_
+2	'	_
+2	_	b
+2	o	ò
+1	__	on
+1	www-sk_	rem pru
+1	iijz	up__
+1	r	n
+1	ii/	nsc
+1	ff-W_	ppæus
+1	 ', ;	_____
+1	__	at
+1	 m	n_
+1	?	è
+1	m_	nt
+1	e__	qué
+1	rmo_	tuta
+1	[mo_	libe
+1	oio	bu_
+1	im	un
+1	1.	L_
+1	mf_	ent
+1	gi	qu
+1	0	o
+1	_	,
+1	li	n_
+1	_	t
+1	a	o
+1	 H	P_
+1	j	p
+1	mi	bu
+1	ol	d_
+1	f?	st
+1	(94	&__
+1	fä/ä	sese
+1	:	s
+1	MAX-»Mij ____	ornare præmys
+1	..	__
+1	iz'	d__
+1	la_	nde
+1	m_	ex
+1	lz	__
+1	O	&
+1	om	ni
+1	fpyjksz 	suffect_
+1	/581	 sæ-
+1	ä__	a h
+1	ria	nt.
+1	m_	it
+1	kk__	sese
+1	gio	,qu
+1	f_	sc
+1	, :; »	______
+1	fa	po
+1	iifho	ustu_
+1	(7	&_
+1	rm	nn
+1	o;	us
+1	J»	qu
+1	Sii_	. Su
+1	ri ;	n___
+1	oii	bu_
+1	iiiiæ'mi	 quǽ na_
+1	a	u
+1	o	e
+1	Z	R
+1	fä	se
+1	''	__
+1	i/4	us_
+1	on	cu
+1	 -«	___
+1	 »F	___
+1	_	 
+1	»:	us
+1	O	Q
+1	J	I
+1	f__	 sc
+1	ri/o	na__
+1	/i	u_
+1	f_	si
+1	/izi	sta_
+1	m_	ea
+1	it	__
+1	lo	p_
+1	 T	P_
+1	,/imm?	d annu
+1	o	y
+1	(9-	&__
+1	 fp	.P_
+1	jo	p_
+1	mi	nu
+1	ff	ß_
+1	_	-
+1	14!	lat
+1	m-	__
+1	or	at
+1	iz	a_
+1	l'oiilz	pub____
+1	odii/ii	causa__
+1	 _	fi
+1	g	q
+1	æi_	:et
+1	-Im__	 fuer
+1	i/imo	punè_
+1	9	0
+1	Jst-	M___
+1	f	p
+1	[inici	laud__
+1	p_	Se
+1	HIJJHZW_	disse,ut
+1	jhm'_	 stud
+1	i:	a_
+1	 I	__
+1	gilii	s,qu_
+1	ü ' ' 7 '	u________
+1	rmi:	tque
+1	:	t
+1	''	 _
+1	/f	ß_
+1	__	t,
+1	mm, _	inus,
+1	mo_	bab
+1	i	d
+1	A	a
+1	w_	us
+1	jojmm	ppæus
+1	f_	so
+1	mi	qu
+1	7Zi	Tu_
+1	þi/	sul
+1	[	l
+1	o/i;	qué_
+1	ä	è
+1	do	ab
+1	d	a
+1	a	e
+1	io:	us_
+1	J	A
+1	am_	unt
+1	m___	roru
+1	m__	cet
+1	AY-»E	utilu
+1	io	u_
+1	u	ù
+1	iiy	us 
+1	ff	st
+1	iii	ea_
+1	(?	&_
+1	i_	 u
+1	M__	lib
+1	'	l
+1	ri/ii	nsu__
+1	o	p
+1	i þai/	qué h_
+0.465844402277
+

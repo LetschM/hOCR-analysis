@@ -50,12 +50,11 @@ i!	d_	0071/line-008.gt.txt
 _	o	0071/line-008.gt.txt
 el	d_	0071/line-008.gt.txt
 z	i	0071/line-008.gt.txt
-_	 	0071/line-009.gt.txt
-xu;__	X I X	0071/line-009.gt.txt
 u	y	0071/line-009.gt.txt
 ni	m_	0071/line-009.gt.txt
- 	p	0071/line-009.gt.txt
+ xu;	XIX_	0071/line-009.gt.txt
 a	æ	0071/line-009.gt.txt
+ 	p	0071/line-009.gt.txt
 o	b	0071/line-009.gt.txt
 [	l	0071/line-009.gt.txt
  	ß	0071/line-009.gt.txt
@@ -113,9 +112,9 @@ f	I	0071/line-018.gt.txt
 f__	 si	0071/line-018.gt.txt
 _	i	0071/line-018.gt.txt
 _	 	0071/line-019.gt.txt
-!_	 I	0071/line-019.gt.txt
-c	C	0071/line-019.gt.txt
+!	I	0071/line-019.gt.txt
 m__	rbi	0071/line-019.gt.txt
+ c 	C__	0071/line-019.gt.txt
 u_	is	0071/line-019.gt.txt
 f	p	0071/line-020.gt.txt
 ?)	P_	0071/line-020.gt.txt
