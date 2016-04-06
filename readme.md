@@ -1,4 +1,5 @@
 # hOCR Analysis - How To
+
 ## 1 Preparation
 
 Requires
@@ -8,6 +9,7 @@ Requires
 * OCRopus
 
 ### 1.1 Install hocr-tools
+
 * The hocr-tools are available on 
 ![Github](https://github.com/tmbdev/hocr-tools)
 * Basically, you only need `hocr-extract-images`
@@ -17,8 +19,11 @@ Requires
 ## 2 Acquire works for processing
 
 ### 2.1 Look for already scanned works in the complete list
+
 * Look up scanned works in the `ancien_droid_titel_liste_sc_letsch.xlsx` document. The works have to be already subjected to the OCR. If they aren't yet, consult Stefan Weil.
+
 ### 2.2 Save the images and hocr-files of representative pages out of a work
+
 * Copy the PPN of a scanned work out of the xlsx and paste it into the search bar in ![http://digi.bib.uni-mannheim.de/](http://digi.bib.uni-mannheim.de/). Hit Enter.
 * Open the Work and click on `Page Previews (Seitenvorschau)`.
 * Choose 5-6 Pages representing the whole work (best both odd and even page numbers). For each of the selected pages, take the following steps:
