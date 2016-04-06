@@ -29,7 +29,7 @@ Requires
 * Choose 5-6 Pages representing the whole work (best both odd and even page numbers). For each of the selected pages, take the following steps:
 	* Click on the corresponding pages in the preview to get to the `Page View`
 	* Right click on the image in the `Page View (Seitenansicht)` an choose `View Image`.
-	* Right click there again and choose `Save Image As...`. Create a Folder named with the PPN of the work (eg. `426110269`), a folder inside that named with the page number (eg. `0064`). Inside the page number folder create a similar folder also named with the page number. Save the jpg inside here. The hierarchy should look like the following example:
+	* Right click there again and choose `Save Image As...`. Create a Folder named with the PPN of the work (eg. `426110269`) (Important: Do this one just once while saving the first page of a work), a folder inside that named with the page number (eg. `0064`). Inside the page number folder create another folder also named with the page number. Inside that folder, save the jpg. The hierarchy should look like the following example:
 
 	```
 	./426110269             
@@ -47,4 +47,28 @@ Requires
 			└── 0064
 				└── 426110269_0064.jpg
 				└── 426110269_0064.hocr
+	```
+	* Repeat those steps for all the other selected pages. Example:
+	```
+	./426110269             
+		└── 0064          
+		|	└── 0064
+		|		└── 426110269_0064.jpg
+		|		└── 426110269_0064.hocr
+		└── 0073          
+		|	└── 0073
+		|		└── 426110269_0073.jpg
+		|		└── 426110269_0073.hocr
+		└── 0102          
+		|	└── 0102
+		|		└── 426110269_0102.jpg
+		|		└── 426110269_0102.hocr		
+		└── 0133          
+		|	└── 0133
+		|		└── 426110269_0133.jpg
+		|		└── 426110269_0133.hocr	
+		└── 0140          
+		|	└── 0140
+		|		└── 426110269_0140.jpg
+		|		└── 426110269_0140.hocr	
 	```
