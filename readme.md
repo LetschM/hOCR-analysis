@@ -68,7 +68,13 @@ Requires
 		|		└── 426110269_0133.jpg
 		|		└── 426110269_0133.hocr	
 		└── 0140          
-		|	└── 0140
-		|		└── 426110269_0140.jpg
-		|		└── 426110269_0140.hocr	
+			└── 0140
+				└── 426110269_0140.jpg
+				└── 426110269_0140.hocr	
 	```
+## Extract single lines and create the Correction.html document to write down the lines manually
+
+* For this step I created a shell command alias to simplify the required steps.
+	* Open the .zsh folder inside your home folder. Open the aliases.txt
+	* add the following line:
+		`alias corr="ocropus-gtedit html -x xxx */line*.png -o Correction.html; firefox Correction.html; geany specials.md"`
