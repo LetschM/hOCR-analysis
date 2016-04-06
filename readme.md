@@ -72,9 +72,17 @@ Requires
 				└── 426110269_0140.jpg
 				└── 426110269_0140.hocr	
 	```
-## Extract single lines and create the Correction.html document to write down the lines manually
-
-* For this step I created a shell command alias to simplify the required steps.
+## 3 Extract the lines and create the Correction.html document to write down the lines manually
+* First you have to make minimal changes inside the `.hocr` file so that the `hocr-extract-images` program can access it. 
+	* Open it in an editor. Inside the first div is a reference to the jpg looking like following example:
+		`<div class="ocr_page" id="page_1" title="image &quot;max/417576986_0064.jpg&quot;; bbox 0 0 1304 2208; ppageno 0">` 
+	* Replace `image` with `file` and remove the quotation marks respectively the `&quot;` phrases as well as the `max/`. The line should then look like the following:
+		`<div class="ocr_page" id="page_1" title="file 417576986_0064.jpg; bbox 0 0 1304 2208; ppageno 0">` 
+	* Save and close the file.
+* Extract the single lines of the page as png-images
+	* copy-paste the `hocr-extract-images` file into the current folder. Right-click inside the folder and choose `Open Terminal Here` or cd to the folder in the terminal.
+	* type `.\hocr-extract-images FILENAME.hocr`. Example: `.\hocr-extract-images 426110269_0064.hocr`
+* Next, you can create the Corrections.html. For this step I created a shell command alias to simplify the required steps.
 	* Open the .zsh folder inside your home folder. Open the aliases.txt
 	* add the following line:
 		`alias corr="ocropus-gtedit html -x xxx */line*.png -o Correction.html; firefox Correction.html; geany specials.md"`
