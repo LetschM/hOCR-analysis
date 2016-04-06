@@ -82,7 +82,11 @@ Requires
 * Extract the single lines of the page as png-images
 	* copy-paste the `hocr-extract-images` file into the current folder. Right-click inside the folder and choose `Open Terminal Here` or cd to the folder in the terminal.
 	* type `.\hocr-extract-images FILENAME.hocr`. Example: `.\hocr-extract-images 426110269_0064.hocr`
-* Next, you can create the Corrections.html. For this step I created a shell command alias to simplify the required steps.
+* Next, you can create the Corrections.html. For this step I created a shell command alias to simplify the required tasks.
 	* Open the .zsh folder inside your home folder. Open the aliases.txt
 	* add the following line:
 		`alias corr="ocropus-gtedit html -x xxx */line*.png -o Correction.html; firefox Correction.html; geany specials.md"`
+		The last command `geany specials.md` is optional, as it opens a new md file in the editor (geany) to write down special occurrences.
+	* Save and close the file.
+* CD up to the first page folder and type `corr`. The Correction.html will be automatically created and opened in the firefox browser. As already mentioned, `geany specials.md` is optional.
+
