@@ -22,7 +22,7 @@ Requires
 * Choose 5-6 Pages representing the whole work (best both odd and even page numbers). 
 * Click on the corresponding pages in the preview to get to the `Page View`
 * Right click on the image in the `Page View (Seitenansicht)` an choose `View Image`.
-* Right click there again and choose `Save Image As...`. Create a Folder named with the PPN of the work (eg. `426110269`), a folder inside that named with the page number (eg. `0064`). Inside the page number folder create a similar folder also named with the page number. Save the jpg inside here.
+* Right click there again and choose `Save Image As...`. Create a Folder named with the PPN of the work (eg. `426110269`), a folder inside that named with the page number (eg. `0064`). Inside the page number folder create a similar folder also named with the page number. Save the jpg inside here. The hierarchy should look like the following example:
 
 ```
 ./426110269             
