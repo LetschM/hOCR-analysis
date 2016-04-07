@@ -1,0 +1,204 @@
+;	.	0249/line-001.gt.txt
+a;;	235	0249/line-001.gt.txt
+/F	__	0249/line-002.gt.txt
+e_	æs	0249/line-002.gt.txt
+Pae	pœ_	0249/line-002.gt.txt
+h:	im	0249/line-002.gt.txt
+f	p	0249/line-002.gt.txt
+u	a	0249/line-002.gt.txt
+i	_	0249/line-002.gt.txt
+a_	es	0249/line-002.gt.txt
+ 	_	0249/line-003.gt.txt
+IE	e_	0249/line-003.gt.txt
+e:	a_	0249/line-003.gt.txt
+uf	ns	0249/line-003.gt.txt
+e_	ia	0249/line-003.gt.txt
+if_	rs.	0249/line-003.gt.txt
+,	.	0249/line-003.gt.txt
+ 	.	0249/line-003.gt.txt
+ c 	CX_	0249/line-003.gt.txt
+i	_	0249/line-003.gt.txt
+»Z	a_	0249/line-003.gt.txt
+J-	L_	0249/line-003.gt.txt
+i	d	0249/line-003.gt.txt
+f	p	0249/line-004.gt.txt
+m_	ta	0249/line-004.gt.txt
+,)?	.R_	0249/line-004.gt.txt
+Um _	lib.	0249/line-004.gt.txt
+i:	a_	0249/line-004.gt.txt
+u	a	0249/line-004.gt.txt
+]?	st	0249/line-004.gt.txt
+l	I	0249/line-004.gt.txt
+4:211!e	aut lib	0249/line-005.gt.txt
+v__	Ulp	0249/line-005.gt.txt
+eui	ad_	0249/line-005.gt.txt
+_	o	0249/line-005.gt.txt
+ffu	cta	0249/line-005.gt.txt
+mm:	anu	0249/line-005.gt.txt
+XII-M 	Edictu	0249/line-005.gt.txt
+yï	iß	0249/line-006.gt.txt
+10 e	loc_	0249/line-006.gt.txt
+el	d_	0249/line-006.gt.txt
+uw_	a,u	0249/line-006.gt.txt
+t,/[	 A__	0249/line-006.gt.txt
+z/k	ij_	0249/line-006.gt.txt
+ 	_	0249/line-006.gt.txt
+:	s	0249/line-006.gt.txt
+jmæ 725	.Itaque	0249/line-007.gt.txt
+E/E	bse	0249/line-007.gt.txt
+ wil	.A__	0249/line-007.gt.txt
+___	no 	0249/line-007.gt.txt
+uäïdi	actat	0249/line-007.gt.txt
+0117!)	Ulp___	0249/line-008.gt.txt
+n 5_	sse.	0249/line-008.gt.txt
+_	a	0249/line-008.gt.txt
+_	o	0249/line-008.gt.txt
+gi?	ctu	0249/line-008.gt.txt
+ae	æ_	0249/line-008.gt.txt
+el	d_	0249/line-008.gt.txt
+/	l	0249/line-008.gt.txt
+i	u	0249/line-008.gt.txt
+i!	d_	0249/line-008.gt.txt
+f	q	0249/line-008.gt.txt
+d	a	0249/line-008.gt.txt
+_	S	0249/line-008.gt.txt
+z	_	0249/line-009.gt.txt
+[mue	hanc	0249/line-009.gt.txt
+m'	ad	0249/line-009.gt.txt
+u	a	0249/line-009.gt.txt
+ff	st	0249/line-009.gt.txt
+jy	 p	0249/line-009.gt.txt
+m__	arî	0249/line-009.gt.txt
+eZ	co	0249/line-010.gt.txt
+Cys	&__	0249/line-010.gt.txt
+iie	dè_	0249/line-010.gt.txt
+HEXE	aptè	0249/line-010.gt.txt
+?	t	0249/line-010.gt.txt
+i,?	u__	0249/line-010.gt.txt
+'	r	0249/line-011.gt.txt
+o'f_	s se	0249/line-011.gt.txt
+f	l	0249/line-011.gt.txt
+ua'	nd_	0249/line-011.gt.txt
+p_	 s	0249/line-011.gt.txt
+g_	t,	0249/line-011.gt.txt
+f	p	0249/line-011.gt.txt
+e;	a_	0249/line-011.gt.txt
+ize-	act_	0249/line-012.gt.txt
+(7	&_	0249/line-012.gt.txt
+ce	æ_	0249/line-012.gt.txt
+dil	Aq_	0249/line-012.gt.txt
+i	_	0249/line-012.gt.txt
+_	t	0249/line-013.gt.txt
+/f	ss	0249/line-013.gt.txt
+e	_	0249/line-013.gt.txt
+(9-_	sit,	0249/line-013.gt.txt
+__	& 	0249/line-013.gt.txt
+kng_	aque	0249/line-013.gt.txt
+»Z	cù	0249/line-013.gt.txt
+427:	aut_	0249/line-013.gt.txt
+ALTMAYER-___	dicatur pœna	0249/line-013.gt.txt
+e	c	0249/line-014.gt.txt
+f	t	0249/line-014.gt.txt
+im;]?_	traque	0249/line-014.gt.txt
+z'ee	cc__	0249/line-014.gt.txt
+/	s	0249/line-014.gt.txt
+jy	 p	0249/line-014.gt.txt
+i	_	0249/line-014.gt.txt
+f	p	0249/line-014.gt.txt
+_	s	0249/line-014.gt.txt
+i	d	0249/line-014.gt.txt
+/j	ss	0249/line-014.gt.txt
+f	s	0249/line-015.gt.txt
+em	an	0249/line-015.gt.txt
+i-Z	ra_	0249/line-015.gt.txt
+(9-	&__	0249/line-015.gt.txt
+ndi	mat	0249/line-015.gt.txt
+f	p	0249/line-015.gt.txt
+dr_	alt	0249/line-015.gt.txt
+peti	sicu	0249/line-015.gt.txt
+»Es-Js	tradi_	0249/line-016.gt.txt
+E	D	0249/line-016.gt.txt
+ J 1	II__	0249/line-016.gt.txt
+ltyï	 pr_	0249/line-016.gt.txt
+/	l	0249/line-016.gt.txt
+u 	n_	0249/line-016.gt.txt
+ui	 d	0249/line-016.gt.txt
+e	c	0249/line-016.gt.txt
+P	p	0249/line-016.gt.txt
+/_	 s	0249/line-017.gt.txt
+_	n	0249/line-017.gt.txt
+u	n	0249/line-017.gt.txt
+u	a	0249/line-017.gt.txt
+ime	hac	0249/line-017.gt.txt
+iif	 s_	0249/line-017.gt.txt
+ez	a_	0249/line-018.gt.txt
+_	 	0249/line-018.gt.txt
+ei'	d__	0249/line-018.gt.txt
+u	a	0249/line-018.gt.txt
+m,	od	0249/line-018.gt.txt
+f	s	0249/line-018.gt.txt
+f	p	0249/line-018.gt.txt
+e	c	0249/line-018.gt.txt
+e	q	0249/line-018.gt.txt
+r	t	0249/line-018.gt.txt
+kä	cu	0249/line-019.gt.txt
+di	at	0249/line-019.gt.txt
+-Erfk___	 sit pœn	0249/line-019.gt.txt
+im_	t,a	0249/line-019.gt.txt
+ii	u_	0249/line-019.gt.txt
+mfne/ïir'_	us præstit	0249/line-019.gt.txt
+ 	.	0249/line-019.gt.txt
+d	_	0249/line-020.gt.txt
+ii	d_	0249/line-020.gt.txt
+ S	§_	0249/line-020.gt.txt
+ 1	I_	0249/line-020.gt.txt
+/16!	 Ad_	0249/line-020.gt.txt
+ä	a	0249/line-020.gt.txt
+J7_	 Aq	0249/line-020.gt.txt
+] 	I_	0249/line-020.gt.txt
+iif	d p	0249/line-020.gt.txt
+z'	i_	0249/line-020.gt.txt
+fcj	sq_	0249/line-020.gt.txt
+m_	in	0249/line-021.gt.txt
+JUwaWJZ	quid si	0249/line-021.gt.txt
+-«	ri	0249/line-021.gt.txt
+ke	ho	0249/line-021.gt.txt
+·___	gius	0249/line-021.gt.txt
+r/b	s p	0249/line-021.gt.txt
+FZWFEXÆJMM	persequar:	0249/line-021.gt.txt
+k	b	0249/line-021.gt.txt
+____	non 	0249/line-021.gt.txt
+/_	 s	0249/line-022.gt.txt
+1706	hoc_	0249/line-022.gt.txt
+fïäfy	st, p	0249/line-022.gt.txt
+m_	in	0249/line-022.gt.txt
+u	a	0249/line-022.gt.txt
+ii/ïz	d fa_	0249/line-022.gt.txt
+i?	u_	0249/line-022.gt.txt
+f__	 se	0249/line-022.gt.txt
+u	n	0249/line-023.gt.txt
+mf_	nt?	0249/line-023.gt.txt
+ï	r	0249/line-023.gt.txt
+a	o	0249/line-023.gt.txt
+ia/_	us s	0249/line-023.gt.txt
+ei-	a _	0249/line-023.gt.txt
+.fl	A__	0249/line-023.gt.txt
+-	_	0249/line-023.gt.txt
+.z'	i__	0249/line-023.gt.txt
+am''_	etur 	0249/line-024.gt.txt
+7l	n_	0249/line-024.gt.txt
+fl	st	0249/line-024.gt.txt
+jZi	sa_	0249/line-024.gt.txt
+i	a	0249/line-024.gt.txt
+/	l	0249/line-024.gt.txt
+mm__	ntro	0249/line-025.gt.txt
+ni:__	ersa 	0249/line-025.gt.txt
+'	 	0249/line-025.gt.txt
+i	t	0249/line-025.gt.txt
+u	a	0249/line-025.gt.txt
+m-_	nus	0249/line-025.gt.txt
+Leim-W	tantom	0249/line-025.gt.txt
+þal	sed	0249/line-025.gt.txt
+z'	i_	0249/line-025.gt.txt
+F	5	0249/line-026.gt.txt
+P	p	0249/line-026.gt.txt

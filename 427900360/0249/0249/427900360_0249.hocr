@@ -8,7 +8,7 @@
   <meta name="ocr-capabilities" content="ocr_page ocr_carea ocr_par ocr_line ocrx_word"/>
 </head>
 <body>
-  <div class="ocr_page" id="page_1" title="image &quot;max/427900360_0249.jpg&quot;; bbox 0 0 1716 2848; ppageno 0">
+  <div class="ocr_page" id="page_1" title="file 427900360_0249.jpg; bbox 0 0 1716 2848; ppageno 0">
    <div class="ocr_carea" id="block_1_1" title="bbox 96 194 1316 1893">
     <p class="ocr_par" dir="ltr" id="par_1_1" title="bbox 96 194 1316 1893">
      <span class="ocr_line" id="line_1_1" title="bbox 433 194 1306 271; baseline 0.002 -21"><span lang="lat" class="ocrx_word" id="word_1_1" title="bbox 433 196 527 251; x_wconf 79" dir="ltr"><em>De</em></span> <span lang="deu_frak" class="ocrx_word" id="word_1_2" title="bbox 546 198 664 271; x_wconf 75" dir="ltr">lege</span> <span lang="lat" class="ocrx_word" id="word_1_3" title="bbox 686 194 920 270; x_wconf 50" dir="ltr"><em>Aquilia;</em></span> <span lang="lat" class="ocrx_word" id="word_1_4" title="bbox 1231 221 1306 265; x_wconf 68" dir="ltr"><em>a;;</em></span> 

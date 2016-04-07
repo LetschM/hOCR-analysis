@@ -1,0 +1,237 @@
+errors         190
+missing          0
+total         1490
+err         12.752 %
+errnomiss   12.752 %
+16	f	s
+13	_	 
+10	r	t
+5	c	e
+4	å_	ct
+3	n	a
+3	â_	cterrors         190
+missing          0
+total         1490
+err         12.752 %
+errnomiss   12.752 %
+16	f	s
+13	_	 
+10	r	t
+5	c	e
+4	å_	ct
+3	n	a
+3	â_	ct
+3	 	_
+2	u	i
+2	il	ss
+2	il	s_
+2	_	r
+2	'	_
+2	ll	st
+2	ô_	on
+2	t	r
+1	fl	s_
+1	fh'c	stre
+1	s	.
+1	if	us
+1	. un !: 	PRE_____
+1	:l	d_
+1	â:	ct
+1	m	_
+1	i'r	st_
+1	;	,
+1	i	u
+1	e	_
+1	c	p
+1	{	s
+1	p	c
+1	P	p
+1	rn	m_
+1	M	m
+1	ne	ut
+1	-e	é_
+1	û_	st
+1	l	I
+1	êr fau	en____
+1	lI	h_
+1	0	o
+1	_	,
+1	_	p
+1	 c 	C__
+1	é	c
+1	i	_
+1	 	l
+1	k	r
+1	r__	say
+1	zoo	300
+1	fl	st
+1	''	__
+1	km__	Iean
+1	lI	si
+1	F	p
+1	(	s
+1	lf	ss
+1	ë_	en
+1	ià	sa
+1	m_	ra
+1	s	_
+1	z	:
+1	j	_
+1	ê	é
+1	ole	isi
+1	k	t
+1	e.	a_
+1	röc	t &
+1	j	i
+1	l	s
+1	a	_
+1	ff	ss
+0.127516778523
+
+
+3	 	_
+2	u	i
+2	il	ss
+2	il	s_
+2	_	r
+2	'	_
+2	ll	st
+2	ô_	on
+2	t	r
+1	fl	s_
+1	fh'c	stre
+1	s	.
+1	if	us
+1	. un !: 	PRE_____
+1	:l	d_
+1	â:	ct
+1	m	_
+1	i'r	st_
+1	;	,
+1	i	u
+1	e	_
+1	c	p
+1	{	s
+1	p	c
+1	P	p
+1	rn	m_
+1	M	m
+1	ne	ut
+1	-e	é_
+1	û_	st
+1	l	Ierrors         190
+missing          0
+total         1490
+err         12.752 %
+errnomiss   12.752 %
+16	f	s
+13	_	 
+10	r	t
+5	c	e
+4	å_	ct
+3	n	a
+3	â_	ct
+3	 	_
+2	u	i
+2	il	ss
+2	il	s_
+2	_	r
+2	'	_
+2	ll	st
+2	ô_	on
+2	t	r
+1	fl	s_
+1	fh'c	stre
+1	s	.
+1	if	us
+1	. un !: 	PRE_____
+1	:l	d_
+1	â:	ct
+1	m	_
+1	i'r	st_
+1	;	,
+1	i	u
+1	e	_
+1	c	p
+1	{	s
+1	p	c
+1	P	p
+1	rn	m_
+1	M	m
+1	ne	ut
+1	-e	é_
+1	û_	st
+1	l	I
+1	êr fau	en____
+1	lI	h_
+1	0	o
+1	_	,
+1	_	p
+1	 c 	C__
+1	é	c
+1	i	_
+1	 	l
+1	k	r
+1	r__	say
+1	zoo	300
+1	fl	st
+1	''	__
+1	km__	Iean
+1	lI	si
+1	F	p
+1	(	s
+1	lf	ss
+1	ë_	en
+1	ià	sa
+1	m_	ra
+1	s	_
+1	z	:
+1	j	_
+1	ê	é
+1	ole	isi
+1	k	t
+1	e.	a_
+1	röc	t &
+1	j	i
+1	l	s
+1	a	_
+1	ff	ss
+0.127516778523
+
+
+1	êr fau	en____
+1	lI	h_
+1	0	o
+1	_	,
+1	_	p
+1	 c 	C__
+1	é	c
+1	i	_
+1	 	l
+1	k	r
+1	r__	say
+1	zoo	300
+1	fl	st
+1	''	__
+1	km__	Iean
+1	lI	si
+1	F	p
+1	(	s
+1	lf	ss
+1	ë_	en
+1	ià	sa
+1	m_	ra
+1	s	_
+1	z	:
+1	j	_
+1	ê	é
+1	ole	isi
+1	k	t
+1	e.	a_
+1	röc	t &
+1	j	i
+1	l	s
+1	a	_
+1	ff	ss
+0.127516778523
+

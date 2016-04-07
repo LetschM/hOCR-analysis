@@ -1,0 +1,145 @@
+Emm	Bec	0248/line-001.gt.txt
+:__	nus	0248/line-001.gt.txt
+-	e	0248/line-002.gt.txt
+_	.	0248/line-002.gt.txt
+ s	S_	0248/line-003.gt.txt
+v 	D_	0248/line-003.gt.txt
+p 	P_	0248/line-003.gt.txt
+ 	_	0248/line-003.gt.txt
+n 	B_	0248/line-003.gt.txt
+(	s	0248/line-004.gt.txt
+_	 	0248/line-004.gt.txt
+c	e	0248/line-004.gt.txt
+.	_	0248/line-004.gt.txt
+f	s	0248/line-005.gt.txt
+ä_	an	0248/line-005.gt.txt
+1102	noz_	0248/line-005.gt.txt
+ 	_	0248/line-005.gt.txt
+_	i	0248/line-005.gt.txt
+c	e	0248/line-005.gt.txt
+_	 	0248/line-006.gt.txt
+n_	rt	0248/line-006.gt.txt
+r	t	0248/line-006.gt.txt
+u	_	0248/line-006.gt.txt
+f	s	0248/line-006.gt.txt
+t	r	0248/line-006.gt.txt
+f	s	0248/line-007.gt.txt
+cfl	est	0248/line-007.gt.txt
+ff	ss	0248/line-007.gt.txt
+fc	se	0248/line-007.gt.txt
+t	r	0248/line-007.gt.txt
+A	a	0248/line-008.gt.txt
+c	e	0248/line-008.gt.txt
+f	s	0248/line-008.gt.txt
+r	t	0248/line-009.gt.txt
+njr	uit	0248/line-009.gt.txt
+fc	se	0248/line-009.gt.txt
+_	 	0248/line-010.gt.txt
+A	a	0248/line-010.gt.txt
+ll	st	0248/line-011.gt.txt
+r:	e_	0248/line-011.gt.txt
+cû_	est	0248/line-011.gt.txt
+e	é	0248/line-011.gt.txt
+c	e	0248/line-012.gt.txt
+Bil	Est	0248/line-012.gt.txt
+[33165_	par les	0248/line-013.gt.txt
+ff	ss	0248/line-013.gt.txt
+t	x	0248/line-014.gt.txt
+:	e	0248/line-014.gt.txt
+c	e	0248/line-014.gt.txt
+f	s	0248/line-015.gt.txt
+fi	st	0248/line-015.gt.txt
+c	e	0248/line-015.gt.txt
+s	 	0248/line-015.gt.txt
+ä_	an	0248/line-015.gt.txt
+c	e	0248/line-016.gt.txt
+tEr_	rent	0248/line-016.gt.txt
+ê_	en	0248/line-016.gt.txt
+chn_	esqu	0248/line-016.gt.txt
+f	s	0248/line-016.gt.txt
+-	_	0248/line-016.gt.txt
+_	 	0248/line-017.gt.txt
+ñ_	st	0248/line-017.gt.txt
+fl	st	0248/line-018.gt.txt
+fh'	str	0248/line-018.gt.txt
+m	_	0248/line-018.gt.txt
+CCP:	cest	0248/line-018.gt.txt
+__	ia	0248/line-018.gt.txt
+f	s	0248/line-018.gt.txt
+_	 	0248/line-019.gt.txt
+ji	st	0248/line-019.gt.txt
+chfl_	Vvest	0248/line-019.gt.txt
+chcf__	eV ves	0248/line-019.gt.txt
+n'	ci	0248/line-019.gt.txt
+é_	en	0248/line-020.gt.txt
+c	e	0248/line-020.gt.txt
+ô_	on	0248/line-020.gt.txt
+r	t	0248/line-020.gt.txt
+êm__	enta	0248/line-021.gt.txt
+il	st	0248/line-021.gt.txt
+-	_	0248/line-021.gt.txt
+p_	,o	0248/line-021.gt.txt
+c	e	0248/line-021.gt.txt
+f	s	0248/line-021.gt.txt
+lkr	st_	0248/line-022.gt.txt
+n	u	0248/line-022.gt.txt
+la	i_	0248/line-022.gt.txt
+ 	_	0248/line-022.gt.txt
+__	si	0248/line-022.gt.txt
+f	s	0248/line-022.gt.txt
+n	u	0248/line-023.gt.txt
+f	s	0248/line-023.gt.txt
+u	a	0248/line-023.gt.txt
+ll	st	0248/line-024.gt.txt
+tjn	riu	0248/line-024.gt.txt
+r.öc	t &_	0248/line-024.gt.txt
+5.	à_	0248/line-024.gt.txt
+n	u	0248/line-024.gt.txt
+äc_	ant	0248/line-024.gt.txt
+f	s	0248/line-024.gt.txt
+e	c	0248/line-025.gt.txt
+ä	à	0248/line-026.gt.txt
+cf	es	0248/line-026.gt.txt
+â_	an	0248/line-026.gt.txt
+r	t	0248/line-026.gt.txt
+c	e	0248/line-026.gt.txt
+ l	I_	0248/line-026.gt.txt
+ô	o	0248/line-027.gt.txt
+cc_	mee	0248/line-027.gt.txt
+ 	_	0248/line-027.gt.txt
+s	a	0248/line-028.gt.txt
+_	 	0248/line-028.gt.txt
+m__	ssi	0248/line-028.gt.txt
+e	_	0248/line-028.gt.txt
+S	s	0248/line-028.gt.txt
+ô	o	0248/line-029.gt.txt
+_	m	0248/line-029.gt.txt
+uncf	,mes	0248/line-029.gt.txt
+c	e	0248/line-029.gt.txt
+cf	es	0248/line-030.gt.txt
+â_	an	0248/line-030.gt.txt
+B	b	0248/line-030.gt.txt
+c	e	0248/line-030.gt.txt
+5	3	0248/line-031.gt.txt
+H_	fr	0248/line-031.gt.txt
+e	o	0248/line-031.gt.txt
+f	s	0248/line-031.gt.txt
+_	 	0248/line-032.gt.txt
+c	e	0248/line-032.gt.txt
+fc	se	0248/line-032.gt.txt
+ 	_	0248/line-033.gt.txt
+{&	sa	0248/line-033.gt.txt
+s	e	0248/line-033.gt.txt
+lle	sté	0248/line-033.gt.txt
+t	r	0248/line-033.gt.txt
+v	u	0248/line-034.gt.txt
+ 	_	0248/line-034.gt.txt
+i_	an	0248/line-034.gt.txt
+c	e	0248/line-034.gt.txt
+5r_	ant	0248/line-035.gt.txt
+ç	c	0248/line-035.gt.txt
+jnl·	ius_	0248/line-035.gt.txt
+Zt	Br	0248/line-035.gt.txt
+t	r	0248/line-035.gt.txt
+c	e	0248/line-035.gt.txt
+11	u_	0248/line-035.gt.txt

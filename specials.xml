@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<special>
+		<designation>Falsch erfasste Bildschirmausschnitte</designation>
+		<case>
+			<line>417576986</line>
+			<line></line>
+			<line></line>
+		</case>
+	</special>
+	<special>
+		<designation>Kopfzeile gesperrter Text</designation>
+		<case>
+			<line></line>
+		</case>
+	</special>
+</data>

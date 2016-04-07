@@ -1,0 +1,95 @@
+n 0 	RO__	0166/line-001.gt.txt
+n v	DV_	0166/line-001.gt.txt
+ v 	V__	0166/line-001.gt.txt
+ 	_	0166/line-001.gt.txt
+ !	I_	0166/line-001.gt.txt
+f	s	0166/line-002.gt.txt
+_	 	0166/line-003.gt.txt
+ro	10	0166/line-003.gt.txt
+e	é	0166/line-003.gt.txt
+z	a	0166/line-004.gt.txt
+'a	à_	0166/line-004.gt.txt
+'A	à_	0166/line-004.gt.txt
+f	s	0166/line-004.gt.txt
+fm_	sin	0166/line-005.gt.txt
+flà	ssa	0166/line-005.gt.txt
+f	s	0166/line-006.gt.txt
+c	e	0166/line-007.gt.txt
+flî:	sse_	0166/line-007.gt.txt
+ 	_	0166/line-008.gt.txt
+_	 	0166/line-009.gt.txt
+l	s	0166/line-009.gt.txt
+'l	t_	0166/line-011.gt.txt
+Pii	pa_	0166/line-012.gt.txt
+r	t	0166/line-012.gt.txt
+uf	s_	0166/line-013.gt.txt
+h	ĥ	0166/line-013.gt.txt
+f	s	0166/line-013.gt.txt
+[1	si	0166/line-013.gt.txt
+l	s	0166/line-014.gt.txt
+r	t	0166/line-014.gt.txt
+l	s	0166/line-015.gt.txt
+é	c	0166/line-015.gt.txt
+_	 	0166/line-016.gt.txt
+s	_	0166/line-016.gt.txt
+nû_	act	0166/line-016.gt.txt
+c	e	0166/line-016.gt.txt
+fl	st	0166/line-017.gt.txt
+fl'	ss_	0166/line-017.gt.txt
+c	e	0166/line-017.gt.txt
+r	t	0166/line-017.gt.txt
+_	 	0166/line-018.gt.txt
+mil	rr_	0166/line-018.gt.txt
+i	_	0166/line-018.gt.txt
+__	fi	0166/line-018.gt.txt
+F	S	0166/line-018.gt.txt
+__	, 	0166/line-018.gt.txt
+_	s	0166/line-018.gt.txt
+r	t	0166/line-018.gt.txt
+f	s	0166/line-019.gt.txt
+fl:	se_	0166/line-019.gt.txt
+c	e	0166/line-019.gt.txt
+_	 	0166/line-020.gt.txt
+c	e	0166/line-020.gt.txt
+P_	i'	0166/line-021.gt.txt
+f	s	0166/line-021.gt.txt
+r	t	0166/line-021.gt.txt
+-i	a_	0166/line-022.gt.txt
+f	s	0166/line-022.gt.txt
+r	t	0166/line-022.gt.txt
+ch_	esq	0166/line-023.gt.txt
+z.	2_	0166/line-023.gt.txt
+c	e	0166/line-024.gt.txt
+cll	est	0166/line-024.gt.txt
+f	s	0166/line-024.gt.txt
+r	t	0166/line-024.gt.txt
+_	 	0166/line-025.gt.txt
+fl	st	0166/line-026.gt.txt
+51	à_	0166/line-026.gt.txt
+lin	sm_	0166/line-026.gt.txt
+J_	,l	0166/line-026.gt.txt
+n	a	0166/line-026.gt.txt
+.	_	0166/line-026.gt.txt
+f	s	0166/line-026.gt.txt
+_	 	0166/line-027.gt.txt
+öc	&_	0166/line-027.gt.txt
+z	3	0166/line-027.gt.txt
+n	a	0166/line-027.gt.txt
+c	e	0166/line-027.gt.txt
+f'	s_	0166/line-028.gt.txt
+r	t	0166/line-028.gt.txt
+fii	su_	0166/line-029.gt.txt
+{è	se	0166/line-029.gt.txt
+r	t	0166/line-029.gt.txt
+f	s	0166/line-030.gt.txt
+_	 	0166/line-030.gt.txt
+&	à	0166/line-030.gt.txt
+m_	nt	0166/line-030.gt.txt
+fi	st	0166/line-030.gt.txt
+_	 	0166/line-031.gt.txt
+l	s	0166/line-031.gt.txt
+ll	st	0166/line-032.gt.txt
+z	3	0166/line-032.gt.txt
+P	p	0166/line-032.gt.txt
+_	 	0166/line-033.gt.txt
+f	s	0166/line-033.gt.txt

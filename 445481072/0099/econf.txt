@@ -1,0 +1,76 @@
+errors         225
+missing          0
+total         1447
+err         15.549 %
+errnomiss   15.549 %
+26	f	s
+22	_	 
+19	t	r
+10	c	e
+3	'	_
+2	ê	c
+2	_	r
+2	fl	st
+2	m_	ra
+2	flî	ssi
+2	u	n
+1	fl'	st_
+1	mcf_	rnes
+1	e'	é_
+1	 ·	__
+1	ä_	si
+1	lk	st
+1	_	t
+1	î	 
+1	uc	ie
+1	ff	ss
+1	à	a
+1	'l'	 s_
+1	?:	à_
+1	lî	fi
+1	t	_
+1	]	_
+1	fi	s_
+1	 .	__
+1	'	 
+1	e	_
+1	Q	a
+1	_	q
+1	rh	m_
+1	e	t
+1	â_	ct
+1	6_	on
+1	.	_
+1	fl:	s__
+1	r	t
+1	f'	s_
+1	c_	e 
+1	È	a
+1	l	n
+1	[	s
+1	ll	d_
+1	n	u
+1	î	_
+1	nf	as
+1	v	u
+1	i	e
+1	ch	dr
+1	-	_
+1	ron'rch	PORTVGA
+1	tä	rd
+1	_	e
+1	Ç	.
+1	ë_	en
+1	é'	__
+1	ll	st
+1	ü_	un
+1	tf	rs
+1	j	_
+1	s	t
+1	bcll	hess
+1	finc	sme_
+1	 4'' «	s-____
+1	,	_
+1	f_	ss
+1	;	,
+0.155494125777

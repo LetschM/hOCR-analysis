@@ -1,0 +1,174 @@
+errors         488
+missing          0
+total         1118
+err         43.649 %
+errnomiss   43.649 %
+12	u	n
+11	u	a
+4	e	c
+3	_	 
+3	f	s
+3	 	_
+2	_	d
+2	fi	st
+2	f	p
+2	a	o
+2	-	_
+2	O	&
+2	u	ù
+2	(9-	&__
+2	g	q
+2	f_	 p
+2	i	t
+2	J	A
+1	kjgi	b.fu
+1	«ZZ-·MZ	actione
+1	m_	s 
+1	jmf_	 poß
+1	ei	æ_
+1	[mwl/''	pot____
+1	_	.
+1	i?	st
+1	a	à
+1	« «-	legi
+1	l	b
+1	/	s
+1	zww	utr
+1	m_	nt
+1	Fä	e_
+1	_	,
+1	um_	non
+1	uil	act
+1	 (aff	præs_
+1	_	t
+1	u	à
+1	:;z	232
+1	u_	ti
+1	u_	an
+1	. 	:_
+1	n_	ra
+1	u	s
+1	zm	__
+1	?_	en
+1	[	l
+1	a/	d_
+1	-_________	derogasse:
+1	Fix	leg
+1	____	mque
+1	x !	XII
+1	/:	s_
+1	[yja_	esse,
+1	_	s
+1	eu	ta
+1	f_	s.
+1	J________	Tabularum
+1	FWFOJJMJJJME____	proposita specia
+1	b	h
+1	__	la
+1	im_	lpa
+1	?;_	que
+1	iz 	n__
+1	:- «	n___
+1	au'	od_
+1	ufi	act
+1	(7	&_
+1	þ_	se
+1	'u	__
+1	JE-Z	 sed
+1	u'	d_
+1	ji_	 su
+1	lu	__
+1	!	_
+1	j	s
+1	uf	nt
+1	þ__	 se
+1	?u	Pa
+1	if_	rs.
+1	u;	is
+1	fä	se
+1	/j	ss
+1	u	_
+1	/_	ps
+1	! 	I_
+1	u	r
+1	;	s
+1	uu	na
+1	m_	ra
+1	e	ò
+1	Jil	Aq_
+1	 -	__
+1	nu_	tra
+1	J 72:11	Tab____
+1	iefï	æst_
+1	»Es-XX-	nulla__
+1	;/5_	: Is
+1	li	b_
+1	u	b
+1	/	l
+1	ii	b_
+1	'	_
+1	JJ	d:
+1	!	t
+1	 f	I_
+1	'_	nd
+1	1' 1	liam
+1	1746	hac_
+1	D____	XII T
+1	l	I
+1	 u'	d__
+1	l_	ra
+1	ib	lp
+1	uli	ab_
+1	am_	ore
+1	Par	pot
+1	(	_
+1	[	L
+1	»Hm-_	arvor
+1	fin	scr
+1	./i	 A_
+1	»Hm-XX	dandan
+1	/f	st
+1	_	b
+1	»2)	rtè
+1	a_	ti
+1	t	_
+1	F	ß
+1	www-C____	continet,
+1	 - «	____
+1	uo	nc
+1	u?	ne
+1	(u	d_
+1	.xi./g	Aq____
+1	_	r
+1	ii	d 
+1	sebe______	t pœnalis.
+1	un_	at,
+1	ug	nq
+1	 z 	L__
+1	i/''a	ro___
+1	m__	t.c
+1	 _	ss
+1	u&_	act
+1	;	_
+1	e	ê
+1	lz	b_
+1	'um M	messe
+1	1__	XII
+1	/_	 s
+1	 1	I_
+1	[u	In
+1	j	t
+1	Fu	pa
+1	 «	__
+1	u_	ij
+1	uu_	and
+1	 1	II
+1	/	f
+1	[ D	Ta_
+1	«ga_	acto
+1	DOHRN-!____	excuset,sed
+1	d	a
+1	 «··	____
+1	ue	iæ
+0.436493738819
+

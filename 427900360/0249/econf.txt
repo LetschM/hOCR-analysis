@@ -1,0 +1,181 @@
+errors         509
+missing          0
+total         1110
+err         45.856 %
+errnomiss   45.856 %
+7	f	p
+7	u	a
+4	i	_
+4	e	c
+3	f	s
+3	/	l
+3	 	_
+3	u	n
+2	 	.
+2	P	p
+2	el	d_
+2	z'	i_
+2	jy	 p
+2	i	d
+2	/_	 s
+2	_	o
+2	m_	in
+1	v__	Ulp
+1	f	l
+1	XII-M 	Edictu
+1	i?	u_
+1	FZWFEXÆJMM	persequar:
+1	z	_
+1	uäïdi	actat
+1	_	S
+1	k	b
+1	e	_
+1	gi?	ctu
+1	[mue	hanc
+1	/	s
+1	uw_	a,u
+1	·___	gius
+1	im;]?_	traque
+1	u 	n_
+1	] 	I_
+1	z/k	ij_
+1	427:	aut_
+1	fcj	sq_
+1	F	5
+1	di	at
+1	e_	æs
+1	_	t
+1	E	D
+1	a	o
+1	i-Z	ra_
+1	ii	u_
+1	f	q
+1	-	_
+1	e	q
+1	-«	ri
+1	'	r
+1	m_	ta
+1	fïäfy	st, p
+1	?	t
+1	:	s
+1	m__	arî
+1	»Z	a_
+1	/16!	 Ad_
+1	ä	a
+1	im_	t,a
+1	 S	§_
+1	o'f_	s se
+1	_	a
+1	h:	im
+1	r/b	s p
+1	E/E	bse
+1	J-	L_
+1	þal	sed
+1	eui	ad_
+1	/j	ss
+1	/F	__
+1	dr_	alt
+1	jmæ 725	.Itaque
+1	yï	iß
+1	10 e	loc_
+1	(7	&_
+1	ize-	act_
+1	g_	t,
+1	»Z	cù
+1	m'	ad
+1	/f	ss
+1	r	t
+1	d	_
+1	0117!)	Ulp___
+1	iie	dè_
+1	_	n
+1	Um _	lib.
+1	if_	rs.
+1	ei'	d__
+1	iif	 s_
+1	ei-	a _
+1	kä	cu
+1	__	& 
+1	(9-_	sit,
+1	e;	a_
+1	;	.
+1	_	 
+1	_	s
+1	uf	ns
+1	jZi	sa_
+1	e_	ia
+1	fl	st
+1	ndi	mat
+1	ALTMAYER-___	dicatur pœna
+1	mm:	anu
+1	peti	sicu
+1	1706	hoc_
+1	z'ee	cc__
+1	ae	æ_
+1	i	a
+1	e:	a_
+1	(9-	&__
+1	]?	st
+1	p_	 s
+1	eZ	co
+1	ia/_	us s
+1	em	an
+1	'	 
+1	 J 1	II__
+1	ke	ho
+1	ii/ïz	d fa_
+1	4:211!e	aut lib
+1	l	I
+1	f__	 se
+1	ui	 d
+1	mfne/ïir'_	us præstit
+1	ii	d_
+1	ez	a_
+1	,)?	.R_
+1	am''_	etur 
+1	m-_	nus
+1	-Erfk___	 sit pœn
+1	J7_	 Aq
+1	a;;	235
+1	n 5_	sse.
+1	7l	n_
+1	i:	a_
+1	ffu	cta
+1	m,	od
+1	ce	æ_
+1	dil	Aq_
+1	t,/[	 A__
+1	iif	d p
+1	____	non 
+1	mm__	ntro
+1	 wil	.A__
+1	Pae	pœ_
+1	ï	r
+1	ua'	nd_
+1	 c 	CX_
+1	a_	es
+1	ime	hac
+1	IE	e_
+1	ltyï	 pr_
+1	i	u
+1	.fl	A__
+1	HEXE	aptè
+1	JUwaWJZ	quid si
+1	i,?	u__
+1	.z'	i__
+1	f	t
+1	»Es-Js	tradi_
+1	 1	I_
+1	,	.
+1	i	t
+1	mf_	nt?
+1	Leim-W	tantom
+1	kng_	aque
+1	ni:__	ersa 
+1	i!	d_
+1	ff	st
+1	d	a
+1	Cys	&__
+1	___	no 
+0.458558558559
+

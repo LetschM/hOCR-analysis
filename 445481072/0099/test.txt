@@ -1,0 +1,133 @@
+ron'rch	PORTVGA	0099/line-001.gt.txt
+Ç	.	0099/line-001.gt.txt
+ .	__	0099/line-001.gt.txt
+t	_	0099/line-002.gt.txt
+_	 	0099/line-002.gt.txt
+tf	rs	0099/line-002.gt.txt
+f	s	0099/line-002.gt.txt
+ll	st	0099/line-002.gt.txt
+ 4'' «	s-____	0099/line-002.gt.txt
+ü_	un	0099/line-002.gt.txt
+[	s	0099/line-002.gt.txt
+f	s	0099/line-003.gt.txt
+,	_	0099/line-003.gt.txt
+t	r	0099/line-003.gt.txt
+c	e	0099/line-004.gt.txt
+t	r	0099/line-004.gt.txt
+f	s	0099/line-005.gt.txt
+nf	as	0099/line-005.gt.txt
+c	e	0099/line-005.gt.txt
+'	_	0099/line-005.gt.txt
+_	 	0099/line-006.gt.txt
+_	r	0099/line-006.gt.txt
+flî	ssi	0099/line-006.gt.txt
+fi	s_	0099/line-006.gt.txt
+t	r	0099/line-006.gt.txt
+l	n	0099/line-007.gt.txt
+f	s	0099/line-007.gt.txt
+t	r	0099/line-008.gt.txt
+_	e	0099/line-008.gt.txt
+'l'	 s_	0099/line-008.gt.txt
+c	e	0099/line-008.gt.txt
+f	s	0099/line-008.gt.txt
+e	_	0099/line-008.gt.txt
+f	s	0099/line-009.gt.txt
+_	 	0099/line-009.gt.txt
+ê	c	0099/line-009.gt.txt
+ë_	en	0099/line-009.gt.txt
+flî	ssi	0099/line-009.gt.txt
+uc	ie	0099/line-009.gt.txt
+c	e	0099/line-009.gt.txt
+t	r	0099/line-009.gt.txt
+t	r	0099/line-010.gt.txt
+_	 	0099/line-010.gt.txt
+lî	fi	0099/line-011.gt.txt
+u	n	0099/line-011.gt.txt
+_	 	0099/line-011.gt.txt
+f	s	0099/line-012.gt.txt
+lk	st	0099/line-012.gt.txt
+c	e	0099/line-012.gt.txt
+ ·	__	0099/line-012.gt.txt
+r	t	0099/line-012.gt.txt
+î	_	0099/line-013.gt.txt
+f_	ss	0099/line-013.gt.txt
+c	e	0099/line-013.gt.txt
+f	s	0099/line-013.gt.txt
+t	r	0099/line-013.gt.txt
+_	 	0099/line-014.gt.txt
+fl:	s__	0099/line-014.gt.txt
+_	r	0099/line-014.gt.txt
+u	n	0099/line-014.gt.txt
+6_	on	0099/line-014.gt.txt
+f	s	0099/line-014.gt.txt
+'	_	0099/line-014.gt.txt
+m_	ra	0099/line-015.gt.txt
+s	t	0099/line-015.gt.txt
+f	s	0099/line-015.gt.txt
+_	 	0099/line-016.gt.txt
+f	s	0099/line-016.gt.txt
+e	t	0099/line-016.gt.txt
+t	r	0099/line-017.gt.txt
+?:	à_	0099/line-017.gt.txt
+f	s	0099/line-017.gt.txt
+î	 	0099/line-017.gt.txt
+fl'	st_	0099/line-018.gt.txt
+c_	e 	0099/line-018.gt.txt
+_	 	0099/line-018.gt.txt
+t	r	0099/line-018.gt.txt
+'	 	0099/line-019.gt.txt
+t	r	0099/line-019.gt.txt
+c	e	0099/line-021.gt.txt
+m_	ra	0099/line-021.gt.txt
+e'	é_	0099/line-021.gt.txt
+f	s	0099/line-021.gt.txt
+fl	st	0099/line-021.gt.txt
+-	_	0099/line-021.gt.txt
+tä	rd	0099/line-021.gt.txt
+t	r	0099/line-021.gt.txt
+_	 	0099/line-022.gt.txt
+t	r	0099/line-022.gt.txt
+_	q	0099/line-022.gt.txt
+f	s	0099/line-022.gt.txt
+ff	ss	0099/line-022.gt.txt
+ä_	si	0099/line-023.gt.txt
+_	 	0099/line-023.gt.txt
+rh	m_	0099/line-023.gt.txt
+finc	sme_	0099/line-023.gt.txt
+f	s	0099/line-023.gt.txt
+i	e	0099/line-023.gt.txt
+.	_	0099/line-024.gt.txt
+'	_	0099/line-024.gt.txt
+_	 	0099/line-025.gt.txt
+bcll	hess	0099/line-025.gt.txt
+j	_	0099/line-025.gt.txt
+t	r	0099/line-025.gt.txt
+_	 	0099/line-026.gt.txt
+â_	ct	0099/line-026.gt.txt
+à	a	0099/line-026.gt.txt
+mcf_	rnes	0099/line-026.gt.txt
+È	a	0099/line-027.gt.txt
+;	,	0099/line-027.gt.txt
+é'	__	0099/line-027.gt.txt
+_	t	0099/line-027.gt.txt
+t	r	0099/line-027.gt.txt
+fl	st	0099/line-028.gt.txt
+ll	d_	0099/line-028.gt.txt
+f'	s_	0099/line-029.gt.txt
+_	 	0099/line-029.gt.txt
+Q	a	0099/line-029.gt.txt
+ê	c	0099/line-030.gt.txt
+t	r	0099/line-030.gt.txt
+f	s	0099/line-031.gt.txt
+_	 	0099/line-031.gt.txt
+v	u	0099/line-031.gt.txt
+n	u	0099/line-032.gt.txt
+_	 	0099/line-032.gt.txt
+c	e	0099/line-032.gt.txt
+f	s	0099/line-032.gt.txt
+t	r	0099/line-032.gt.txt
+_	 	0099/line-033.gt.txt
+ch	dr	0099/line-033.gt.txt
+]	_	0099/line-033.gt.txt
+f	s	0099/line-033.gt.txt
+c	e	0099/line-033.gt.txt

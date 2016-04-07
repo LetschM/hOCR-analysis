@@ -1,0 +1,150 @@
+D	P	0024/line-002.gt.txt
+I-	F_	0024/line-002.gt.txt
+c- 	CE_	0024/line-002.gt.txt
+_	 	0024/line-003.gt.txt
+ff	ss	0024/line-003.gt.txt
+fc_	,se	0024/line-003.gt.txt
+ï	a	0024/line-003.gt.txt
+;	r	0024/line-003.gt.txt
+flè	sse	0024/line-003.gt.txt
+c	e	0024/line-003.gt.txt
+p_	,o	0024/line-004.gt.txt
+u	n	0024/line-004.gt.txt
+ ' 	___	0024/line-004.gt.txt
+fl	st	0024/line-004.gt.txt
+l	s	0024/line-005.gt.txt
+ô	o	0024/line-006.gt.txt
+p_	,o	0024/line-006.gt.txt
+_	n	0024/line-006.gt.txt
+l-	s_	0024/line-006.gt.txt
+ä__	anm	0024/line-007.gt.txt
+f	s	0024/line-007.gt.txt
+fl	,V	0024/line-007.gt.txt
+f	s	0024/line-008.gt.txt
+c	e	0024/line-008.gt.txt
+ë_	en	0024/line-008.gt.txt
+ê_	en	0024/line-008.gt.txt
+_	r	0024/line-009.gt.txt
+il	s_	0024/line-009.gt.txt
+ë_	en	0024/line-009.gt.txt
+11«	n__	0024/line-009.gt.txt
+g	a	0024/line-009.gt.txt
+f	s	0024/line-009.gt.txt
+r	t	0024/line-009.gt.txt
+_	 	0024/line-010.gt.txt
+t	r	0024/line-010.gt.txt
+c	e	0024/line-010.gt.txt
+fc	se	0024/line-010.gt.txt
+ë	c	0024/line-010.gt.txt
+c	e	0024/line-011.gt.txt
+c_	e 	0024/line-011.gt.txt
+f	s	0024/line-011.gt.txt
+é	_	0024/line-011.gt.txt
+cf	es	0024/line-011.gt.txt
+_	e	0024/line-011.gt.txt
+ôc	&_	0024/line-011.gt.txt
+t	r	0024/line-011.gt.txt
+_	 	0024/line-012.gt.txt
+C'S	es_	0024/line-012.gt.txt
+u	i	0024/line-012.gt.txt
+, -	___	0024/line-012.gt.txt
+c	e	0024/line-012.gt.txt
+€;lS	eas_	0024/line-012.gt.txt
+c_	re	0024/line-013.gt.txt
+ôt	on	0024/line-013.gt.txt
+_	 	0024/line-013.gt.txt
+0	o	0024/line-013.gt.txt
+ ·	__	0024/line-013.gt.txt
+c	e	0024/line-014.gt.txt
+ô_	on	0024/line-014.gt.txt
+f	s	0024/line-014.gt.txt
+°	 	0024/line-014.gt.txt
+_	 	0024/line-015.gt.txt
+fi	,E	0024/line-015.gt.txt
+c	e	0024/line-015.gt.txt
+: 	__	0024/line-015.gt.txt
+_	 	0024/line-016.gt.txt
+c	e	0024/line-016.gt.txt
+c	e	0024/line-017.gt.txt
+_	-	0024/line-017.gt.txt
+fi	st	0024/line-017.gt.txt
+(	s	0024/line-017.gt.txt
+de 	___	0024/line-017.gt.txt
+f	s	0024/line-017.gt.txt
+c	e	0024/line-018.gt.txt
+_	 	0024/line-019.gt.txt
+fi	st	0024/line-019.gt.txt
+u	a	0024/line-019.gt.txt
+f	s	0024/line-020.gt.txt
+li	h_	0024/line-020.gt.txt
+' »	-__	0024/line-021.gt.txt
+_	 	0024/line-021.gt.txt
+l	s	0024/line-021.gt.txt
+i-	r_	0024/line-021.gt.txt
+c	e	0024/line-021.gt.txt
+cfiuc	esme_	0024/line-021.gt.txt
+l'	F_	0024/line-021.gt.txt
+lî	fi	0024/line-022.gt.txt
+t	e	0024/line-022.gt.txt
+ z	__	0024/line-022.gt.txt
+o	_	0024/line-022.gt.txt
+u	n	0024/line-022.gt.txt
+_	o	0024/line-022.gt.txt
+m_	ta	0024/line-023.gt.txt
+_	 	0024/line-023.gt.txt
+c	e	0024/line-023.gt.txt
+ë	c	0024/line-023.gt.txt
+r__	tta	0024/line-024.gt.txt
+n	a	0024/line-024.gt.txt
+ô	_	0024/line-024.gt.txt
+l	s	0024/line-024.gt.txt
+m	_	0024/line-024.gt.txt
+:l	a_	0024/line-024.gt.txt
+ä_	an	0024/line-024.gt.txt
+fl_	smo	0024/line-024.gt.txt
+...	en_	0024/line-024.gt.txt
+å_	ct	0024/line-025.gt.txt
+c	e	0024/line-025.gt.txt
+f	s	0024/line-025.gt.txt
+c	e	0024/line-026.gt.txt
+t	r	0024/line-026.gt.txt
+lk	st	0024/line-027.gt.txt
+ri	u_	0024/line-027.gt.txt
+f	s	0024/line-027.gt.txt
+Lü_	soi	0024/line-027.gt.txt
+c	e	0024/line-028.gt.txt
+f	s	0024/line-028.gt.txt
+ll	st	0024/line-028.gt.txt
+öc	&_	0024/line-028.gt.txt
+fc	se	0024/line-028.gt.txt
+c	e	0024/line-029.gt.txt
+cu	en	0024/line-029.gt.txt
+._	,à	0024/line-029.gt.txt
+åf	s_	0024/line-029.gt.txt
+f	s	0024/line-029.gt.txt
+_	p	0024/line-030.gt.txt
+iz	12	0024/line-031.gt.txt
+_	 	0024/line-031.gt.txt
+_	/	0024/line-031.gt.txt
+à	a	0024/line-031.gt.txt
+lilj	ffr_	0024/line-031.gt.txt
+l 	__	0024/line-032.gt.txt
+f	s	0024/line-032.gt.txt
+c	e	0024/line-032.gt.txt
+ô_	on	0024/line-033.gt.txt
+c	e	0024/line-034.gt.txt
+fl	st	0024/line-034.gt.txt
+fin-	sur_	0024/line-034.gt.txt
+cf	es	0024/line-034.gt.txt
+f	s	0024/line-034.gt.txt
+t	r	0024/line-034.gt.txt
+f	s	0024/line-035.gt.txt
+u	n	0024/line-035.gt.txt
+als-	d'v_	0024/line-035.gt.txt
+{ta	su_	0024/line-035.gt.txt
+ei/V_	b.lil	0024/line-036.gt.txt
+!	t	0024/line-036.gt.txt
+.Èe	Bo_	0024/line-036.gt.txt
+'	_	0024/line-036.gt.txt
+fi	st	0024/line-037.gt.txt
+n	u	0024/line-038.gt.txt
