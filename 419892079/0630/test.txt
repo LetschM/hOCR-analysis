@@ -243,11 +243,12 @@ _	 	0630/line-041.gt.txt
 lc	ie	0630/line-042.gt.txt
 f	s	0630/line-043.gt.txt
 c	e	0630/line-043.gt.txt
-ô	o	0630/line-043.gt.txt
+ô	õ	0630/line-043.gt.txt
 _	 	0630/line-043.gt.txt
 c11	en_	0630/line-043.gt.txt
 m«	ur	0630/line-043.gt.txt
 R-	au	0630/line-043.gt.txt
+o	õ	0630/line-043.gt.txt
 k·	f_	0630/line-043.gt.txt
 fc	se	0630/line-043.gt.txt
 llc	ue_	0630/line-044.gt.txt

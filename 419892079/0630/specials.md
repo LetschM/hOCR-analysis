@@ -31,10 +31,10 @@
 0630/line-009.png
 # Zeile nicht korrekt erfasst
 0630/line-030.png
-# Nicht identifizierbares Akzentzeichen
+# Kürzungsstrich
 0630/line-043.png
 # Zeile doppelt und nicht vollständig erfasst
 0630/line-047.png
-0630/line-048 	.png
+0630/line-048.png
 # Kursiv
 0630/line-052.png

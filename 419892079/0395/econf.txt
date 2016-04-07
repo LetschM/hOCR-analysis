@@ -1,8 +1,8 @@
-errors        1136
+errors        1137
 missing          0
 total         3687
-err         30.811 %
-errnomiss   30.811 %
+err         30.838 %
+errnomiss   30.838 %
 66	_	 
 47	f	s
 12	 	_
@@ -21,6 +21,7 @@ errnomiss   30.811 %
 3	fc	se
 2	i	u
 2	e	_
+2	lk	st
 2	k	r
 2	m_	us
 2	m_	ni
@@ -29,12 +30,11 @@ errnomiss   30.811 %
 2	n	u
 2	1_	 i
 2	'	_
-2	u	i
 2	t	r
 2	ll	ss
 2	j	i
 2	_	i
-2	lk	st
+2	u	i
 2	 .	__
 2	u_	it
 2	t	i
@@ -45,7 +45,7 @@ errnomiss   30.811 %
 1	 Wiss-»Mwa , « ' ]	__________________
 1	::s	en 
 1	le_	sts
-1	a_	à 
+1	 WITH O- mrc;	_____________
 1	fÇ_	sei
 1	.	à
 1	r	n
@@ -70,7 +70,7 @@ errnomiss   30.811 %
 1	lalg s'	proc___
 1	t_	r 
 1	nnn	mm_
-1	 WITH O- mrc;	_____________
+1	a_	à 
 1	 'L	___
 1	m_	in
 1	n	_
@@ -192,6 +192,7 @@ errnomiss   30.811 %
 1	a	à
 1	 $;	___
 1	 - : Ÿ	______
+1	e	ẽ
 1	lm	a_
 1	 »F	___
 1	ta	fi
@@ -277,4 +278,5 @@ errnomiss   30.811 %
 1	m_	iu
 1	Cl	ci
 1	r du roc_	ations ,&
-0.30810957418
+0.308380797396
+

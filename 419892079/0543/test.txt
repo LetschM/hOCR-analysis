@@ -4,9 +4,9 @@
 if	r_	0543/line-004.gt.txt
 _	 	0543/line-004.gt.txt
 -NEM____-	, vt plu_	0543/line-004.gt.txt
-'f	t 	0543/line-004.gt.txt
+î	ã	0543/line-004.gt.txt
 {à	sa	0543/line-004.gt.txt
-î	a	0543/line-004.gt.txt
+'f	t 	0543/line-004.gt.txt
 ä_	ct	0543/line-004.gt.txt
 llc	st_	0543/line-004.gt.txt
 s	S	0543/line-004.gt.txt
@@ -44,13 +44,13 @@ Il	si	0543/line-006.gt.txt
 ñ_	ff	0543/line-006.gt.txt
 _	-	0543/line-007.gt.txt
 _	 	0543/line-007.gt.txt
-ë	e	0543/line-007.gt.txt
 è	é	0543/line-007.gt.txt
 f	s	0543/line-007.gt.txt
 l	s	0543/line-007.gt.txt
 l	I	0543/line-007.gt.txt
 fi	st	0543/line-007.gt.txt
 â_	ct	0543/line-007.gt.txt
+ë	ẽ	0543/line-007.gt.txt
 f	s	0543/line-008.gt.txt
 exkl-K	affa__	0543/line-008.gt.txt
 -	,	0543/line-008.gt.txt
@@ -62,10 +62,10 @@ f_	 s	0543/line-008.gt.txt
 _	 	0543/line-009.gt.txt
 n	m	0543/line-009.gt.txt
 7. 	2__	0543/line-009.gt.txt
-USE-Tä	creere	0543/line-009.gt.txt
 €	c	0543/line-009.gt.txt
 fi'ë' -1	l_______	0543/line-009.gt.txt
 e	s	0543/line-009.gt.txt
+USE-Tä	creerẽ	0543/line-009.gt.txt
 III-__	1552.i	0543/line-009.gt.txt
 '	_	0543/line-009.gt.txt
 i	_	0543/line-009.gt.txt
@@ -94,8 +94,8 @@ WANT-__	20.ans,	0543/line-012.gt.txt
 [	s	0543/line-012.gt.txt
 '	_	0543/line-013.gt.txt
 s	q	0543/line-013.gt.txt
-î	a	0543/line-013.gt.txt
-ë	e	0543/line-013.gt.txt
+î	ã	0543/line-013.gt.txt
+ë	ẽ	0543/line-013.gt.txt
 f	s	0543/line-013.gt.txt
 f	s	0543/line-014.gt.txt
 æ_	,p	0543/line-014.gt.txt
@@ -148,40 +148,41 @@ u	n	0543/line-020.gt.txt
 -IF	re_	0543/line-020.gt.txt
 i:	ae	0543/line-020.gt.txt
 t	r	0543/line-021.gt.txt
-l	s	0543/line-021.gt.txt
 û_	ct	0543/line-021.gt.txt
-fœ_	soi	0543/line-021.gt.txt
+l	s	0543/line-021.gt.txt
+fœe_	soiẽ	0543/line-021.gt.txt
 t	r	0543/line-022.gt.txt
 r	n	0543/line-022.gt.txt
 _	 	0543/line-022.gt.txt
-ë	e	0543/line-022.gt.txt
-e	o	0543/line-022.gt.txt
 û_	ct	0543/line-022.gt.txt
+e	o	0543/line-022.gt.txt
+ë	ẽ	0543/line-022.gt.txt
 f	s	0543/line-023.gt.txt
 ll	ss	0543/line-023.gt.txt
 uch	iss	0543/line-023.gt.txt
 c	t	0543/line-023.gt.txt
 k	r	0543/line-023.gt.txt
-lj	h_	0543/line-023.gt.txt
+ö	õ	0543/line-023.gt.txt
 i	_	0543/line-023.gt.txt
-ö	o	0543/line-023.gt.txt
+lj	h_	0543/line-023.gt.txt
 s	S	0543/line-023.gt.txt
 _	e	0543/line-023.gt.txt
 ls	 E	0543/line-023.gt.txt
  	_	0543/line-023.gt.txt
-ô	o	0543/line-024.gt.txt
-ë	e	0543/line-024.gt.txt
+ô	õ	0543/line-024.gt.txt
 é'	__	0543/line-024.gt.txt
 _	t	0543/line-024.gt.txt
 f	s	0543/line-024.gt.txt
 '	_	0543/line-024.gt.txt
 à	a	0543/line-024.gt.txt
 t	r	0543/line-024.gt.txt
-ô	o	0543/line-025.gt.txt
+ë	ẽ	0543/line-024.gt.txt
+ë	e	0543/line-024.gt.txt
 t	r	0543/line-025.gt.txt
 _	 	0543/line-025.gt.txt
-%:	à_	0543/line-025.gt.txt
 fi'	st 	0543/line-025.gt.txt
+%:	à_	0543/line-025.gt.txt
+ô	õ	0543/line-025.gt.txt
 c	e	0543/line-025.gt.txt
 t	r	0543/line-026.gt.txt
 lî	.E	0543/line-026.gt.txt
@@ -190,15 +191,15 @@ i	u	0543/line-026.gt.txt
  	_	0543/line-026.gt.txt
 f	s	0543/line-026.gt.txt
 '	_	0543/line-026.gt.txt
-ô	o	0543/line-027.gt.txt
+ô	õ	0543/line-027.gt.txt
 il'	ss_	0543/line-027.gt.txt
-_	 	0543/line-027.gt.txt
+fi	sa	0543/line-027.gt.txt
 flîflc	ssiste	0543/line-027.gt.txt
 lk	st	0543/line-027.gt.txt
+_	 	0543/line-027.gt.txt
 .	 	0543/line-027.gt.txt
 -«-	ita	0543/line-027.gt.txt
 -	_	0543/line-027.gt.txt
-fi	sa	0543/line-027.gt.txt
 ê	e	0543/line-028.gt.txt
 %	g	0543/line-028.gt.txt
 ll:	st_	0543/line-028.gt.txt
@@ -216,20 +217,20 @@ zñ_	: n	0543/line-029.gt.txt
  	_	0543/line-029.gt.txt
 _	l	0543/line-029.gt.txt
 t	r	0543/line-029.gt.txt
-ô	o	0543/line-030.gt.txt
-û_	ct	0543/line-030.gt.txt
+ô	õ	0543/line-030.gt.txt
 m_	n,	0543/line-030.gt.txt
-inTEFäs	met á__	0543/line-030.gt.txt
 _	s	0543/line-030.gt.txt
 llà	ssa	0543/line-030.gt.txt
-ô	o	0543/line-031.gt.txt
-_	r	0543/line-031.gt.txt
-ë	e	0543/line-031.gt.txt
+û_	ct	0543/line-030.gt.txt
+inTEFäs	mẽt á__	0543/line-030.gt.txt
+ô	õ	0543/line-031.gt.txt
+m	õ	0543/line-031.gt.txt
+c	e	0543/line-031.gt.txt
 Pfc	pre	0543/line-031.gt.txt
 (	s	0543/line-031.gt.txt
+_	r	0543/line-031.gt.txt
 'i	ì_	0543/line-031.gt.txt
-c	e	0543/line-031.gt.txt
-m	o	0543/line-031.gt.txt
+ë	ẽ	0543/line-031.gt.txt
 f	s	0543/line-032.gt.txt
 jkss	ir*_	0543/line-032.gt.txt
 _	 	0543/line-032.gt.txt
@@ -247,16 +248,16 @@ s	a	0543/line-033.gt.txt
 lj	fi	0543/line-033.gt.txt
 F	f	0543/line-033.gt.txt
 (	s	0543/line-033.gt.txt
+Mô:_	(dõt	0543/line-033.gt.txt
 -	_	0543/line-033.gt.txt
-ä	a	0543/line-033.gt.txt
 t'	fr	0543/line-033.gt.txt
 '	p	0543/line-033.gt.txt
+ä	ã	0543/line-033.gt.txt
 c	e	0543/line-033.gt.txt
-Mô:_	(dot	0543/line-033.gt.txt
 f	s	0543/line-034.gt.txt
 E	f	0543/line-034.gt.txt
+ëB	ẽb	0543/line-034.gt.txt
 fii	su_	0543/line-034.gt.txt
-ëB	eb	0543/line-034.gt.txt
 ri	n_	0543/line-034.gt.txt
 Iz	se	0543/line-034.gt.txt
 _	d	0543/line-034.gt.txt
@@ -276,12 +277,12 @@ f	s	0543/line-036.gt.txt
 lle	sté	0543/line-036.gt.txt
 t	r	0543/line-036.gt.txt
 _	 	0543/line-037.gt.txt
-ô	o	0543/line-037.gt.txt
 z	:	0543/line-037.gt.txt
 ç_	 c	0543/line-037.gt.txt
-û_	st	0543/line-037.gt.txt
+ô	õ	0543/line-037.gt.txt
 f	s	0543/line-037.gt.txt
  _	bs	0543/line-037.gt.txt
+û_	st	0543/line-037.gt.txt
 fc	se	0543/line-037.gt.txt
 I	i	0543/line-037.gt.txt
 lle	sté	0543/line-037.gt.txt

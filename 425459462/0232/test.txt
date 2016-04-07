@@ -83,7 +83,7 @@ i	s	0232/line-014.gt.txt
 f	s	0232/line-014.gt.txt
 c	e	0232/line-015.gt.txt
 (	s	0232/line-015.gt.txt
-i	a	0232/line-015.gt.txt
+i	ã	0232/line-015.gt.txt
 ,	.	0232/line-015.gt.txt
 t	c	0232/line-015.gt.txt
 fl	ss	0232/line-015.gt.txt
@@ -140,11 +140,11 @@ h_	ti	0232/line-024.gt.txt
  	_	0232/line-024.gt.txt
 r	t	0232/line-024.gt.txt
 _	 	0232/line-025.gt.txt
-öf	os	0232/line-025.gt.txt
+e'	ẽ_	0232/line-025.gt.txt
 z	3	0232/line-025.gt.txt
 _	i	0232/line-025.gt.txt
 f	s	0232/line-025.gt.txt
-'	_	0232/line-025.gt.txt
+ö	õ	0232/line-025.gt.txt
 l'	s_	0232/line-025.gt.txt
 u	i	0232/line-025.gt.txt
 å	c	0232/line-025.gt.txt
@@ -173,8 +173,8 @@ c	t	0232/line-028.gt.txt
 x	r	0232/line-028.gt.txt
 c	e	0232/line-028.gt.txt
 f	s	0232/line-028.gt.txt
-ô	o	0232/line-029.gt.txt
 ll	ss	0232/line-029.gt.txt
+ô	õ	0232/line-029.gt.txt
 'e	è_	0232/line-029.gt.txt
 f	s	0232/line-029.gt.txt
 ôt	&_	0232/line-029.gt.txt
@@ -228,12 +228,12 @@ a	_	0232/line-036.gt.txt
 fl	st	0232/line-037.gt.txt
 _	d	0232/line-037.gt.txt
 _	 	0232/line-038.gt.txt
+iô	õ_	0232/line-038.gt.txt
 .l	i_	0232/line-038.gt.txt
-â	a	0232/line-038.gt.txt
 _	u	0232/line-038.gt.txt
+â	ã	0232/line-038.gt.txt
 f	s	0232/line-038.gt.txt
 f	_	0232/line-038.gt.txt
-iô	o_	0232/line-038.gt.txt
 5	s	0232/line-038.gt.txt
 1	2	0232/line-038.gt.txt
 fh'	str	0232/line-038.gt.txt
@@ -279,7 +279,7 @@ tLlln_	distri	0232/line-046.gt.txt
 '	l	0232/line-046.gt.txt
 nxc	me_	0232/line-046.gt.txt
  	_	0232/line-046.gt.txt
-ô	o	0232/line-047.gt.txt
+ô	õ	0232/line-047.gt.txt
 c	t	0232/line-047.gt.txt
 r	t	0232/line-047.gt.txt
 f	s	0232/line-047.gt.txt
@@ -326,8 +326,8 @@ F	s	0232/line-054.gt.txt
 ä_	ct	0232/line-054.gt.txt
 f	s	0232/line-055.gt.txt
 _	 	0232/line-055.gt.txt
-ô	o	0232/line-055.gt.txt
-â	a	0232/line-055.gt.txt
+â	ã	0232/line-055.gt.txt
+ô	õ	0232/line-055.gt.txt
 flbfl'	ssess_	0232/line-055.gt.txt
 f	s	0232/line-056.gt.txt
 _	 	0232/line-056.gt.txt
@@ -354,8 +354,8 @@ lle	sté	0232/line-062.gt.txt
 f	s	0232/line-062.gt.txt
 f	s	0232/line-063.gt.txt
 ;	_	0232/line-063.gt.txt
-ä	a	0232/line-063.gt.txt
-.	_	0232/line-063.gt.txt
 1	l	0232/line-063.gt.txt
+.	_	0232/line-063.gt.txt
+ä	ã	0232/line-063.gt.txt
 g	p	0232/line-063.gt.txt
 y-	ij	0232/line-064.gt.txt

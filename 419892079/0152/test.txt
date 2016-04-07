@@ -48,11 +48,11 @@ fi	ss	0152/line-006.gt.txt
 fl	st	0152/line-006.gt.txt
 i	u	0152/line-006.gt.txt
 c_	e 	0152/line-007.gt.txt
-_	 	0152/line-007.gt.txt
-ë	e	0152/line-007.gt.txt
-c	_	0152/line-007.gt.txt
 il'	sse	0152/line-007.gt.txt
+c	_	0152/line-007.gt.txt
+_	 	0152/line-007.gt.txt
 f	s	0152/line-007.gt.txt
+ë	ẽ	0152/line-007.gt.txt
 C	c	0152/line-007.gt.txt
 c	e	0152/line-007.gt.txt
 mch__	niere	0152/line-007.gt.txt
@@ -75,7 +75,7 @@ fiIX'RCmÇ	sur peine	0152/line-009.gt.txt
 l	I	0152/line-009.gt.txt
 i'	s_	0152/line-009.gt.txt
  '	g_	0152/line-009.gt.txt
-nië	me_	0152/line-010.gt.txt
+nië	mẽ_	0152/line-010.gt.txt
  	l	0152/line-010.gt.txt
 _	 	0152/line-010.gt.txt
 Psks	par_	0152/line-010.gt.txt
@@ -86,9 +86,9 @@ c_	e 	0152/line-011.gt.txt
 c	_	0152/line-011.gt.txt
 n_	,a	0152/line-011.gt.txt
 ç	t	0152/line-011.gt.txt
-ô	o	0152/line-012.gt.txt
-_	p	0152/line-012.gt.txt
+ô	õ	0152/line-012.gt.txt
 l'	f_	0152/line-012.gt.txt
+_	p	0152/line-012.gt.txt
 fckkch	sentes	0152/line-012.gt.txt
 d	_	0152/line-013.gt.txt
 ç	e	0152/line-013.gt.txt
@@ -318,7 +318,7 @@ l-Mk '	Lieu-_	0152/line-047.gt.txt
 f	s	0152/line-047.gt.txt
 î_	 a	0152/line-047.gt.txt
 l	f	0152/line-047.gt.txt
-ë	e	0152/line-047.gt.txt
+ë	ẽ	0152/line-047.gt.txt
 ''	__	0152/line-048.gt.txt
  	_	0152/line-048.gt.txt
 z	:	0152/line-048.gt.txt

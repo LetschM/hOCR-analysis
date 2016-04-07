@@ -43,5 +43,5 @@
 0395/line-048.png
 0395/line-049.png
 0395/line-061.png
-# Nicht identifizierbares Akzentzeichen
+# Kürzungsstrich
 0395/line-048.png

@@ -7,7 +7,7 @@
 0232/line-011.png
 0232/line-029.png
 0232/line-031.png
-# Nicht identifizierbare Zeichen
+# Kürzungsstrich
 0232/line-015.png
 0232/line-025.png
 0232/line-029.png

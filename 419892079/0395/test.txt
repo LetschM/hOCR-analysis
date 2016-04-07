@@ -362,6 +362,7 @@ ul:	 ab	0395/line-047.gt.txt
 mr____	i fece	0395/line-047.gt.txt
 r	i	0395/line-048.gt.txt
 äla_	 que	0395/line-048.gt.txt
+e	ẽ	0395/line-048.gt.txt
 m_	in	0395/line-048.gt.txt
 Por	tan	0395/line-048.gt.txt
  WITH O- mrc;	_____________	0395/line-048.gt.txt

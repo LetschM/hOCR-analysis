@@ -1,6 +1,6 @@
 # Zeile nicht exakt erkannt
 1128/line-002.png
-# Nicht identifizierbare Zeichen
+# Kürzungsstrich
 1128/line-005.png
 1128/line-012.png
 1128/line-024.png

@@ -20,7 +20,7 @@
 0543/line-019.png
 0543/line-020.png
 0543/line-027.png
-# Nicht identifizierbares Akzentzeichen
+# Kürzungsstrich
 0543/line-004.png
 0543/line-007.png
 0543/line-009.png

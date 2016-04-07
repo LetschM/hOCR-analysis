@@ -14,14 +14,12 @@ errnomiss   11.815 %
 6	(	s
 6	fl	st
 5	ll	st
-5	ô	o
 4	â_	ct
 3	à	a
 3	l'	s_
 3	n	u
+3	ô	õ
 3	P	p
-3	â	a
-3	'	_
 3	t	r
 3	O	o
 3	i'	r_
@@ -34,11 +32,15 @@ errnomiss   11.815 %
 2	{	s
 2	s	_
 2	;	s
+2	ô	o
+2	â	ã
 2	Ç	C
 2	_	u
 2	c	t
+2	'	_
 2	_	-
 2	e	o
+1	iô	õ_
 1	en 	___
 1	cu	en
 1	-ök-	,&__
@@ -57,7 +59,7 @@ errnomiss   11.815 %
 1	f	p
 1	0	o
 1	.	,
-1	m_	in
+1	L_	si
 1	m m__	inqui
 1	n	_
 1	__	ts
@@ -74,7 +76,6 @@ errnomiss   11.815 %
 1	i	m
 1	uun	mm_
 1	lÈ	st
-1	ä	a
 1	a	_
 1	1	l
 1	:	s
@@ -89,7 +90,6 @@ errnomiss   11.815 %
 1	a	s
 1	ôt	&_
 1	n'	ir
-1	iô	o_
 1	i'n	m__
 1	(ci	ser
 1	å	c
@@ -117,7 +117,6 @@ errnomiss   11.815 %
 1	h_	ez
 1	f:	se
 1	'e	è_
-1	i	a
 1	;	,
 1	h_	ti
 1	d_	 l
@@ -133,6 +132,7 @@ errnomiss   11.815 %
 1	in	uy
 1	ê	e
 1	 	l
+1	ö	õ
 1	t	e
 1	læ	h_
 1	p_	,o
@@ -156,22 +156,25 @@ errnomiss   11.815 %
 1	u	i
 1	 , «	____
 1	'	-
+1	 (	s_
 1	a	i
 1	s	t
 1	lc	se
 1	tt	g_
 1	ml_	ins
 1	y-	ij
-1	öf	os
 1	ci	es
 1	:	_
 1	F	s
-1	L_	si
+1	â	a
 1	;	_
 1	 ._	men
+1	ä	ã
 1	J	r
 1	[	s
-1	 (	s_
+1	i	ã
+1	e'	ẽ_
+1	m_	in
 1	h	b
 1	i	t
 1	y	v
@@ -187,3 +190,4 @@ errnomiss   11.815 %
 1	lt	se
 1	_	d
 0.118148363355
+

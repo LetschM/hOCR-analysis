@@ -9,6 +9,6 @@
 0278/line-044.png
 # Letzter Buchstabe der Zeile unleserlich
 0278/line-053.png
-# Zeichen nicht identifizierbar?
+# Kürzungsstrich
 0278/line-020.png
 0278/line-028.png

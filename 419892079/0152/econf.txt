@@ -22,7 +22,6 @@ errnomiss   20.898 %
 3	fc	se
 2	-	 
 2	c_	e 
-2	ë	e
 2	n	_
 2	-	_
 2	i	_
@@ -35,6 +34,7 @@ errnomiss   20.898 %
 2	j	i
 2	f	_
 2	C	c
+2	ë	ẽ
 1	fi'f ''	e______
 1	z	.
 1	ô	c
@@ -47,6 +47,7 @@ errnomiss   20.898 %
 1	t	l
 1	s	ë
 1	P_	l'
+1	ô	õ
 1	'i'	 r_
 1	flëu' .	nan-___
 1	tié	uc_
@@ -61,16 +62,16 @@ errnomiss   20.898 %
 1	 i	p_
 1	«i'	 s_
 1	x	 
+1	m	o
 1	_	c
 1	k	r
 1	m	n
 1	'	-
-1	u_	ti
+1	nië	mẽ_
 1	Psks	par_
 1	(	s
 1	''?	n-_
 1	ïi- z	r,___
-1	nië	me_
 1	'i	n_
 1	..	__
 1	l'	s_
@@ -82,7 +83,7 @@ errnomiss   20.898 %
 1	llà	ssa
 1	fi	ss
 1	fe 	s__
-1	ô	o
+1	ull	est
 1	1g	le
 1	_	a
 1	k	p
@@ -137,7 +138,6 @@ errnomiss   20.898 %
 1	m_	ro
 1	.21	à__
 1	'?''	e___
-1	ull	est
 1	fi'	ss_
 1	c	 
 1	:p,	152
@@ -199,7 +199,6 @@ errnomiss   20.898 %
 1	l	i
 1	50116	signé
 1	lfâ	its
-1	m	o
 1	l	 
 1	{ti	Iu_
 1	cüf'' »	eurs___
@@ -225,6 +224,7 @@ errnomiss   20.898 %
 1	nt'	ur 
 1	å_	ct
 1	ii<f	c___
+1	u_	ti
 1	t-	e_
 1	l-Mk '	Lieu-_
 1	h 	i-

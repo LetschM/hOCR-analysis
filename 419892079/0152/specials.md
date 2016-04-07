@@ -3,7 +3,7 @@
 0152/line-036.png
 0152/line-053.png
 0152/line-054.png
-# Nicht identifizierbare Akzentzeichen
+# Kürzungsstrich
 0152/line-006.png
 0152/line-010.png
 0152/line-012.png

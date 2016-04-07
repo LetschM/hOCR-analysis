@@ -1,8 +1,8 @@
-errors        1069
+errors        1070
 missing          0
 total         3587
-err         29.802 %
-errnomiss   29.802 %
+err         29.830 %
+errnomiss   29.830 %
 53	f	s
 37	_	 
 22	c	e
@@ -105,7 +105,7 @@ errnomiss   29.802 %
 1	'J-	sa_
 1	fl	n_
 1	ë	c
-1	r	i
+1	ir_	esc
 1	å__	cht
 1	i	l
 1	_	a
@@ -114,6 +114,7 @@ errnomiss   29.802 %
 1	?- ''fion 	al________
 1	:!	-_
 1	ti	u_
+1	o	õ
 1	cf	es
 1	me__	uoc.
 1	ÏËÜR	rat_
@@ -124,7 +125,7 @@ errnomiss   29.802 %
 1	m__	ra 
 1	ou	__
 1	w_	te
-1	&	à
+1	m''	ran
 1	C	 
 1	' 'Moy	d_____
 1	C...'S	eurs__
@@ -137,17 +138,18 @@ errnomiss   29.802 %
 1	t'u	ell
 1	JFz	582
 1	ns'äu	_____
-1	m''	ran
+1	&	à
 1	öch__	é:& q
 1	...mc_	stitue
-1	u	_
+1	ô	õ
 1	cn	eu
-1	 in	s__
+1	u	_
 1	mll_	iust
 1	S	s
 1	fr	st
 1	mi''?c	nnee__
 1	mi	n_
+1	 in	s__
 1	cû_	est
 1	finc	sme 
 1	m-r	pp_
@@ -166,7 +168,7 @@ errnomiss   29.802 %
 1	f_	st
 1	i _	ffi
 1	si	n_
-1	ir_	esc
+1	r	i
 1	î	t
 1	/Zl	sd_
 1	f 	s_
@@ -191,7 +193,6 @@ errnomiss   29.802 %
 1	k	s
 1	C et._	effier
 1	.	e
-1	ô	o
 1	_____________	té adiuge par
 1	«îîîîâ°pîïîèîâ'â'ä,î°''s___	'annee mil cinq cens quatre
 1	chn__	ppell
@@ -299,4 +300,4 @@ errnomiss   29.802 %
 1	ÿ	y
 1	TZIUFO	cause_
 1	 'l_	ouru
-0.298020630053
+0.298299414553
