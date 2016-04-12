@@ -103,12 +103,12 @@ Requires
 * CD up to the first page folder and type `corr`. The `Correction.html` will be automatically created and opened in the firefox browser. As already mentioned, `geany specials.md` is optional.
 
 **ALTERNATIVE**: If you don't want to create aliases, you can do these steps manually:
-		* Creates the `Correction.html` file
+* Create the `Correction.html` file:
 		```
 		alias corr="ocropus-gtedit html -x xxx */line*.png -o Correction.html; 
 		```
-		* Open `Correction.html` in Firefox
-		* Create a `specials.md` file and open it with any editor
-		* Write down the line in the `Correction.html` and note special occurrences in `specials.md`
+* Open `Correction.html` in Firefox
+* Create a `specials.md` file and open it with any editor
+* Write down the line in the `Correction.html` and note special occurrences in `specials.md`
 			
 
