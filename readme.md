@@ -109,6 +109,6 @@ Requires
 		```
 * Open `Correction.html` in Firefox
 * Create a `specials.md` file and open it with any editor
-* Write down the line in the `Correction.html` and note special occurrences in `specials.md`
+* Write down the lines in the `Correction.html` and note special occurrences in `specials.md`
 			
 
